@@ -1,0 +1,1430 @@
+Invoice_ID,Distributor_ID,Priority,Invoice_Amount_LKR,Submission_Timestamp,Stage1_Approver,Stage1_Wait_min,Stage1_Service_min,Stage1_Outcome,Stage2_Approver,Stage2_Wait_min,Stage2_Service_min,Final_Status,Total_Turnaround_min,Is_Month_End_Period
+INV-00001,DIST-001,Normal,631610.17,2026-06-01 08:12:14,Reviewer-A,0.0,0.9,Proceed,Manager-X,0.0,12.82,Approved,13.72,False
+INV-00002,DIST-001,Normal,30178.65,2026-06-01 08:22:57,Reviewer-B,0.0,4.22,Proceed,Manager-Y,0.0,2.11,Approved,6.33,False
+INV-00003,DIST-004,Normal,384581.64,2026-06-01 08:32:24,Reviewer-C,0.0,12.21,Proceed,Manager-X,0.0,1.65,Approved,13.86,False
+INV-00004,DIST-004,Normal,813845.05,2026-06-01 08:36:18,Reviewer-A,0.0,0.58,Proceed,Manager-Y,0.0,17.87,Approved,18.45,False
+INV-00005,DIST-012,Normal,393214.02,2026-06-01 08:56:03,Reviewer-B,0.0,15.33,Proceed,Manager-X,0.0,3.3,Approved,18.63,False
+INV-00006,DIST-006,Normal,492862.56,2026-06-01 09:22:03,Reviewer-A,0.0,0.28,Proceed,Manager-Y,0.0,3.25,Approved,3.53,False
+INV-00007,DIST-002,Normal,326206.66,2026-06-01 09:25:14,Reviewer-C,0.0,10.78,Proceed,Manager-X,0.0,4.17,Approved,14.95,False
+INV-00008,DIST-011,Normal,552589.9,2026-06-01 09:39:45,Reviewer-B,0.0,1.13,Proceed,Manager-Y,0.0,1.69,Approved,2.82,False
+INV-00009,DIST-011,Normal,586496.85,2026-06-01 10:34:27,Reviewer-A,0.0,2.35,Proceed,Manager-X,0.0,0.55,Approved,2.9,False
+INV-00010,DIST-007,Normal,231241.04,2026-06-01 10:54:04,Reviewer-C,0.0,17.18,Proceed,Manager-Y,0.0,3.59,Approved,20.77,False
+INV-00011,DIST-011,Normal,392729.82,2026-06-01 11:00:07,Reviewer-B,0.0,1.7,Proceed,Manager-X,0.0,2.9,Approved,4.59,False
+INV-00012,DIST-007,High,310886.99,2026-06-01 11:27:29,Reviewer-A,0.0,0.71,Proceed,Manager-X,0.0,11.38,Approved,12.1,False
+INV-00013,DIST-003,Normal,674307.06,2026-06-01 11:29:29,Reviewer-B,0.0,0.39,Proceed,Manager-Y,0.0,52.75,Approved,53.14,False
+INV-00014,DIST-001,Normal,579839.48,2026-06-01 12:12:00,Reviewer-C,0.0,12.97,Proceed,Manager-X,0.0,13.9,Approved,26.87,False
+INV-00015,DIST-003,High,388396.53,2026-06-01 12:16:10,Reviewer-A,0.0,10.01,Proceed,Manager-Y,0.0,5.61,Approved,15.62,False
+INV-00016,DIST-011,Normal,257185.85,2026-06-01 12:45:25,Reviewer-B,0.0,5.63,Proceed,Manager-Y,0.0,13.66,Approved,19.29,False
+INV-00017,DIST-009,Normal,781127.0,2026-06-01 13:03:31,Reviewer-C,0.0,4.02,Proceed,Manager-X,0.0,4.28,Rejected,8.31,False
+INV-00018,DIST-004,High,53946.77,2026-06-01 13:23:14,Reviewer-A,0.0,14.1,Proceed,Manager-Y,0.0,5.37,Approved,19.47,False
+INV-00019,DIST-003,Normal,113490.79,2026-06-01 13:40:24,Reviewer-B,0.0,4.79,Proceed,Manager-X,0.0,19.56,Approved,24.35,False
+INV-00020,DIST-009,Normal,643199.09,2026-06-01 13:43:15,Reviewer-C,0.0,7.49,Proceed,Manager-Y,0.0,10.58,Approved,18.07,False
+INV-00021,DIST-008,Normal,107248.55,2026-06-01 14:10:50,Reviewer-A,0.0,2.48,Proceed,Manager-Y,0.0,2.48,Approved,4.96,False
+INV-00022,DIST-011,Normal,54748.33,2026-06-01 14:11:43,Reviewer-B,0.0,0.19,Proceed,Manager-X,0.0,6.86,Approved,7.05,False
+INV-00023,DIST-009,High,116803.51,2026-06-01 14:19:42,Reviewer-C,0.0,4.06,Proceed,Manager-Y,0.0,12.4,Approved,16.46,False
+INV-00024,DIST-002,Normal,561840.42,2026-06-01 14:22:14,Reviewer-B,0.0,3.18,Proceed,Manager-X,0.0,0.53,Approved,3.71,False
+INV-00025,DIST-001,Normal,345214.98,2026-06-01 14:34:42,Reviewer-A,0.0,11.87,Proceed,Manager-X,0.0,2.0,Approved,13.87,False
+INV-00026,DIST-005,High,395920.72,2026-06-01 14:41:16,Reviewer-C,0.0,0.38,Proceed,Manager-Y,0.0,15.65,Approved,16.02,False
+INV-00027,DIST-009,High,711443.31,2026-06-01 14:53:57,Reviewer-B,0.0,12.52,Proceed,Manager-X,0.0,1.47,Approved,13.99,False
+INV-00028,DIST-007,Normal,767564.22,2026-06-01 14:56:50,Reviewer-C,0.0,0.01,Proceed,Manager-Y,0.45,24.8,Approved,25.27,False
+INV-00029,DIST-012,High,813933.41,2026-06-01 15:00:51,Reviewer-A,0.0,3.89,Proceed,Manager-X,3.18,1.36,Approved,8.43,False
+INV-00030,DIST-010,Normal,626697.92,2026-06-01 15:42:26,Reviewer-C,0.0,2.26,Proceed,Manager-X,0.0,6.15,Approved,8.41,False
+INV-00031,DIST-001,Normal,816858.17,2026-06-01 15:51:31,Reviewer-A,0.0,1.23,Proceed,Manager-Y,0.0,10.68,Approved,11.92,False
+INV-00032,DIST-010,Normal,213051.97,2026-06-01 15:53:03,Reviewer-B,0.0,5.8,Proceed,Manager-X,0.0,8.32,Approved,14.12,False
+INV-00033,DIST-004,Normal,570918.45,2026-06-01 16:25:48,Reviewer-C,0.0,1.85,Proceed,Manager-Y,0.0,9.85,Approved,11.7,False
+INV-00034,DIST-002,Normal,12871.56,2026-06-01 16:57:33,Reviewer-A,0.0,4.97,Proceed,Manager-X,0.0,7.33,Approved,12.3,False
+INV-00035,DIST-006,High,749330.23,2026-06-01 16:59:15,Reviewer-B,0.0,2.21,Proceed,Manager-Y,0.0,14.49,Approved,16.7,False
+INV-00036,DIST-011,Normal,451954.89,2026-06-02 08:52:19,Reviewer-A,0.0,4.85,Returned,,,,Returned to Distributor,4.85,False
+INV-00037,DIST-003,High,228473.7,2026-06-02 08:53:38,Reviewer-B,0.0,6.51,Proceed,Manager-X,0.0,2.67,Approved,9.18,False
+INV-00038,DIST-011,Normal,540931.08,2026-06-02 08:58:40,Reviewer-C,0.0,4.02,Returned,,,,Returned to Distributor,4.02,False
+INV-00039,DIST-002,Normal,540970.36,2026-06-02 09:21:08,Reviewer-A,0.0,0.27,Proceed,Manager-Y,0.0,1.33,Rejected,1.6,False
+INV-00040,DIST-008,Normal,471169.96,2026-06-02 09:23:15,Reviewer-B,0.0,0.06,Proceed,Manager-X,0.0,20.39,Approved,20.45,False
+INV-00041,DIST-006,Normal,497220.58,2026-06-02 09:32:43,Reviewer-C,0.0,0.82,Proceed,Manager-Y,0.0,21.78,Approved,22.6,False
+INV-00042,DIST-006,Normal,182514.67,2026-06-02 09:56:22,Reviewer-A,0.0,0.65,Proceed,Manager-X,0.0,20.48,Approved,21.13,False
+INV-00043,DIST-003,Normal,787270.43,2026-06-02 10:08:00,Reviewer-B,0.0,1.06,Proceed,Manager-Y,0.0,1.85,Approved,2.92,False
+INV-00044,DIST-006,Normal,666116.59,2026-06-02 10:10:22,Reviewer-C,0.0,6.65,Proceed,Manager-Y,0.0,2.71,Approved,9.36,False
+INV-00045,DIST-007,High,741980.93,2026-06-02 10:24:52,Reviewer-A,0.0,1.21,Proceed,Manager-X,0.0,4.98,Approved,6.19,False
+INV-00046,DIST-004,Normal,193370.4,2026-06-02 10:43:54,Reviewer-B,0.0,3.05,Proceed,Manager-Y,0.0,0.68,Approved,3.73,False
+INV-00047,DIST-009,High,342728.23,2026-06-02 10:49:06,Reviewer-C,0.0,3.69,Returned,,,,Returned to Distributor,3.69,False
+INV-00048,DIST-005,High,155889.8,2026-06-02 10:50:34,Reviewer-A,0.0,1.48,Proceed,Manager-X,0.0,4.6,Approved,6.08,False
+INV-00049,DIST-010,Normal,836679.29,2026-06-02 10:55:05,Reviewer-B,0.0,13.79,Proceed,Manager-Y,0.0,0.43,Approved,14.22,False
+INV-00050,DIST-009,High,585394.29,2026-06-02 11:03:53,Reviewer-A,0.0,6.41,Proceed,Manager-X,0.0,4.56,Rejected,10.97,False
+INV-00051,DIST-010,Normal,270258.72,2026-06-02 11:34:19,Reviewer-C,0.0,7.63,Proceed,Manager-Y,0.0,3.52,Approved,11.15,False
+INV-00052,DIST-005,Normal,473478.54,2026-06-02 11:40:29,Reviewer-B,0.0,6.56,Proceed,Manager-X,0.0,13.1,Approved,19.66,False
+INV-00053,DIST-007,Normal,468006.95,2026-06-02 11:50:36,Reviewer-A,0.0,2.03,Proceed,Manager-Y,0.0,8.24,Approved,10.27,False
+INV-00054,DIST-008,Normal,575905.01,2026-06-02 11:58:06,Reviewer-C,0.0,9.47,Returned,,,,Returned to Distributor,9.47,False
+INV-00055,DIST-011,Normal,76652.23,2026-06-02 12:14:05,Reviewer-B,0.0,6.01,Proceed,Manager-X,0.0,16.21,Approved,22.22,False
+INV-00056,DIST-004,Normal,686545.65,2026-06-02 12:27:29,Reviewer-A,0.0,0.28,Returned,,,,Returned to Distributor,0.28,False
+INV-00057,DIST-002,High,389826.66,2026-06-02 12:38:49,Reviewer-C,0.0,4.11,Proceed,Manager-Y,0.0,3.91,Approved,8.03,False
+INV-00058,DIST-012,Normal,9685.37,2026-06-02 12:40:44,Reviewer-B,0.0,8.82,Proceed,Manager-X,0.0,5.26,Approved,14.08,False
+INV-00059,DIST-009,Normal,397544.65,2026-06-02 13:18:46,Reviewer-A,0.0,14.97,Proceed,Manager-Y,0.0,1.36,Approved,16.33,False
+INV-00060,DIST-009,High,508157.21,2026-06-02 13:27:52,Reviewer-C,0.0,10.66,Proceed,Manager-X,0.0,10.26,Approved,20.92,False
+INV-00061,DIST-009,Normal,381797.0,2026-06-02 13:49:10,Reviewer-B,0.0,11.86,Proceed,Manager-Y,0.0,13.24,Approved,25.1,False
+INV-00062,DIST-009,Normal,414484.48,2026-06-02 13:53:04,Reviewer-A,0.0,3.48,Proceed,Manager-X,0.0,2.54,Approved,6.02,False
+INV-00063,DIST-002,Normal,121926.08,2026-06-02 14:19:53,Reviewer-C,0.0,7.1,Proceed,Manager-X,0.0,0.63,Approved,7.73,False
+INV-00064,DIST-007,Normal,57614.53,2026-06-02 14:29:16,Reviewer-A,0.0,2.96,Proceed,Manager-Y,0.0,27.74,Approved,30.7,False
+INV-00065,DIST-010,Normal,326421.97,2026-06-02 14:54:47,Reviewer-B,0.0,2.6,Proceed,Manager-X,0.0,18.24,Rejected,20.84,False
+INV-00066,DIST-012,Normal,625765.78,2026-06-02 15:01:18,Reviewer-C,0.0,13.69,Proceed,Manager-Y,0.0,3.03,Approved,16.71,False
+INV-00067,DIST-011,Normal,578874.89,2026-06-02 15:07:12,Reviewer-A,0.0,1.08,Proceed,Manager-X,7.34,1.3,Approved,9.72,False
+INV-00068,DIST-007,Normal,505149.4,2026-06-02 15:07:32,Reviewer-B,0.0,0.53,Proceed,Manager-X,8.86,19.15,Approved,28.54,False
+INV-00069,DIST-006,Normal,183852.94,2026-06-02 15:11:09,Reviewer-B,0.0,8.59,Proceed,Manager-Y,0.0,13.25,Approved,21.84,False
+INV-00070,DIST-002,Normal,402409.28,2026-06-02 15:14:38,Reviewer-A,0.0,0.32,Returned,,,,Returned to Distributor,0.32,False
+INV-00071,DIST-002,Normal,665141.93,2026-06-02 15:17:41,Reviewer-A,0.0,8.42,Returned,,,,Returned to Distributor,8.42,False
+INV-00072,DIST-001,Normal,530028.63,2026-06-02 15:20:21,Reviewer-C,0.0,3.85,Proceed,Manager-Y,8.79,28.04,Approved,40.68,False
+INV-00073,DIST-006,Normal,146781.83,2026-06-02 15:23:54,Reviewer-B,0.0,8.27,Proceed,Manager-X,3.9,16.25,Rejected,28.42,False
+INV-00074,DIST-001,Normal,789909.66,2026-06-02 15:25:17,Reviewer-C,0.0,14.32,Proceed,Manager-X,12.73,26.96,Approved,54.02,False
+INV-00075,DIST-011,Normal,210207.73,2026-06-02 15:36:02,Reviewer-A,0.0,2.15,Proceed,Manager-Y,22.84,15.56,Approved,40.55,False
+INV-00076,DIST-001,Normal,298387.18,2026-06-02 15:46:03,Reviewer-B,0.0,2.78,Proceed,Manager-Y,27.76,3.97,Approved,34.5,False
+INV-00077,DIST-002,Normal,371327.27,2026-06-02 16:06:47,Reviewer-A,0.0,13.33,Proceed,Manager-X,0.0,1.58,Approved,14.91,False
+INV-00078,DIST-011,Normal,233219.62,2026-06-02 16:15:38,Reviewer-C,0.0,4.64,Proceed,Manager-Y,0.28,5.43,Approved,10.35,False
+INV-00079,DIST-004,Normal,706967.71,2026-06-02 16:19:23,Reviewer-B,0.0,12.8,Proceed,Manager-X,0.0,5.94,Approved,18.74,False
+INV-00080,DIST-001,Normal,422689.0,2026-06-02 16:25:06,Reviewer-A,0.0,4.01,Proceed,Manager-Y,0.0,2.84,Approved,6.85,False
+INV-00081,DIST-005,Normal,474643.42,2026-06-02 16:35:59,Reviewer-C,0.0,1.27,Proceed,Manager-Y,0.0,4.96,Approved,6.23,False
+INV-00082,DIST-008,Normal,550787.95,2026-06-02 16:39:17,Reviewer-A,0.0,9.45,Proceed,Manager-X,0.0,2.38,Approved,11.83,False
+INV-00083,DIST-010,Normal,316822.28,2026-06-02 16:43:40,Reviewer-B,0.0,2.53,Returned,,,,Returned to Distributor,2.53,False
+INV-00084,DIST-006,Normal,598912.43,2026-06-02 16:53:16,Reviewer-C,0.0,1.74,Proceed,Manager-Y,0.0,2.03,Approved,3.77,False
+INV-00085,DIST-003,Normal,166852.12,2026-06-03 08:17:14,Reviewer-A,0.0,1.94,Proceed,Manager-X,0.0,13.57,Approved,15.51,False
+INV-00086,DIST-004,Normal,255328.26,2026-06-03 09:04:29,Reviewer-B,0.0,2.16,Proceed,Manager-Y,0.0,1.29,Approved,3.45,False
+INV-00087,DIST-005,Normal,594317.7,2026-06-03 09:05:09,Reviewer-C,0.0,12.17,Proceed,Manager-X,0.0,19.58,Approved,31.75,False
+INV-00088,DIST-008,High,292896.51,2026-06-03 09:12:46,Reviewer-A,0.0,1.4,Proceed,Manager-Y,0.0,0.98,Approved,2.37,False
+INV-00089,DIST-010,Normal,536881.62,2026-06-03 09:20:53,Reviewer-B,0.0,0.97,Proceed,Manager-Y,0.0,3.44,Rejected,4.41,False
+INV-00090,DIST-007,Normal,517338.42,2026-06-03 09:22:24,Reviewer-A,0.0,1.53,Proceed,Manager-Y,1.36,5.69,Approved,8.59,False
+INV-00091,DIST-007,Normal,263046.31,2026-06-03 09:46:00,Reviewer-C,0.0,5.64,Proceed,Manager-Y,0.0,28.01,Approved,33.66,False
+INV-00092,DIST-011,Normal,73603.41,2026-06-03 09:48:51,Reviewer-B,0.0,4.82,Proceed,Manager-X,0.0,4.99,Approved,9.81,False
+INV-00093,DIST-001,Normal,200597.42,2026-06-03 09:56:28,Reviewer-A,0.0,7.28,Proceed,Manager-X,0.0,11.05,Approved,18.33,False
+INV-00094,DIST-011,Normal,503372.2,2026-06-03 10:15:04,Reviewer-C,0.0,1.32,Proceed,Manager-X,0.0,2.42,Approved,3.74,False
+INV-00095,DIST-003,Normal,65341.31,2026-06-03 10:18:46,Reviewer-B,0.0,2.21,Proceed,Manager-X,0.0,8.0,Approved,10.21,False
+INV-00096,DIST-012,Normal,261957.06,2026-06-03 10:20:22,Reviewer-A,0.0,1.91,Proceed,Manager-Y,0.0,5.47,Approved,7.38,False
+INV-00097,DIST-012,Normal,277361.74,2026-06-03 10:46:47,Reviewer-C,0.0,0.57,Returned,,,,Returned to Distributor,0.57,False
+INV-00098,DIST-010,Normal,501118.88,2026-06-03 11:08:29,Reviewer-B,0.0,8.68,Proceed,Manager-Y,0.0,8.16,Approved,16.84,False
+INV-00099,DIST-009,High,555525.52,2026-06-03 11:10:48,Reviewer-A,0.0,0.96,Proceed,Manager-X,0.0,8.13,Approved,9.09,False
+INV-00100,DIST-006,Normal,350054.14,2026-06-03 11:11:56,Reviewer-C,0.0,0.66,Proceed,Manager-X,7.28,5.04,Approved,12.99,False
+INV-00101,DIST-007,Normal,692463.3,2026-06-03 11:24:59,Reviewer-A,0.0,3.64,Proceed,Manager-X,0.0,3.71,Rejected,7.35,False
+INV-00102,DIST-009,Normal,702063.49,2026-06-03 11:31:11,Reviewer-C,0.0,12.21,Proceed,Manager-Y,0.0,0.53,Approved,12.74,False
+INV-00103,DIST-008,Normal,533470.39,2026-06-03 11:42:53,Reviewer-B,0.0,1.37,Proceed,Manager-X,0.0,24.95,Approved,26.32,False
+INV-00104,DIST-002,Normal,29394.68,2026-06-03 11:57:16,Reviewer-A,0.0,9.64,Proceed,Manager-Y,0.0,3.54,Approved,13.17,False
+INV-00105,DIST-004,High,843457.28,2026-06-03 12:03:33,Reviewer-C,0.0,2.97,Proceed,Manager-X,2.68,14.41,Approved,20.06,False
+INV-00106,DIST-009,Normal,601072.83,2026-06-03 12:18:41,Reviewer-B,0.0,3.95,Proceed,Manager-Y,0.0,5.8,Approved,9.75,False
+INV-00107,DIST-010,High,434463.55,2026-06-03 12:21:13,Reviewer-C,0.0,9.58,Proceed,Manager-X,0.0,12.6,Approved,22.18,False
+INV-00108,DIST-009,Normal,230760.9,2026-06-03 12:53:53,Reviewer-A,0.0,7.77,Proceed,Manager-Y,0.0,8.24,Approved,16.01,False
+INV-00109,DIST-008,Normal,460100.59,2026-06-03 13:17:56,Reviewer-B,0.0,4.82,Proceed,Manager-X,0.0,5.77,Approved,10.59,False
+INV-00110,DIST-012,Normal,206790.68,2026-06-03 13:20:27,Reviewer-C,0.0,11.63,Proceed,Manager-Y,0.0,3.64,Approved,15.27,False
+INV-00111,DIST-007,Normal,331236.55,2026-06-03 13:49:49,Reviewer-A,0.0,10.31,Returned,,,,Returned to Distributor,10.31,False
+INV-00112,DIST-001,High,111678.1,2026-06-03 13:58:01,Reviewer-B,0.0,1.94,Proceed,Manager-X,0.0,15.06,Approved,16.99,False
+INV-00113,DIST-001,Normal,615465.03,2026-06-03 14:26:58,Reviewer-C,0.0,6.38,Proceed,Manager-Y,0.0,6.02,Rejected,12.4,False
+INV-00114,DIST-012,Normal,340873.41,2026-06-03 14:31:56,Reviewer-B,0.0,2.39,Proceed,Manager-X,0.0,7.25,Rejected,9.64,False
+INV-00115,DIST-008,Normal,742163.65,2026-06-03 14:43:45,Reviewer-A,0.0,0.43,Proceed,Manager-Y,0.0,24.11,Rejected,24.53,False
+INV-00116,DIST-007,Normal,831695.38,2026-06-03 15:00:14,Reviewer-C,0.0,7.3,Proceed,Manager-X,0.0,1.73,Approved,9.03,False
+INV-00117,DIST-006,Normal,677741.23,2026-06-03 15:00:35,Reviewer-B,0.0,2.82,Proceed,Manager-Y,4.88,7.2,Approved,14.89,False
+INV-00118,DIST-003,Normal,152933.61,2026-06-03 15:19:28,Reviewer-A,0.0,2.89,Proceed,Manager-X,0.0,6.54,Approved,9.43,False
+INV-00119,DIST-011,Normal,219610.85,2026-06-03 15:22:38,Reviewer-B,0.0,0.06,Proceed,Manager-Y,0.0,21.99,Approved,22.05,False
+INV-00120,DIST-008,High,803724.11,2026-06-03 15:24:42,Reviewer-C,0.0,1.71,Returned,,,,Returned to Distributor,1.71,False
+INV-00121,DIST-008,Normal,719281.82,2026-06-03 15:38:46,Reviewer-A,0.0,2.91,Proceed,Manager-X,0.0,2.57,Approved,5.49,False
+INV-00122,DIST-012,High,254469.99,2026-06-03 15:49:02,Reviewer-B,0.0,5.15,Proceed,Manager-X,0.0,6.74,Approved,11.89,False
+INV-00123,DIST-001,Normal,774471.33,2026-06-03 16:05:25,Reviewer-C,0.0,10.73,Returned,,,,Returned to Distributor,10.73,False
+INV-00124,DIST-004,Normal,517969.92,2026-06-03 16:23:21,Reviewer-A,0.0,6.07,Proceed,Manager-Y,0.0,10.76,Approved,16.83,False
+INV-00125,DIST-003,High,535869.65,2026-06-03 16:36:16,Reviewer-B,0.0,4.99,Proceed,Manager-X,0.0,4.69,Approved,9.68,False
+INV-00126,DIST-002,Normal,773635.5,2026-06-03 16:52:05,Reviewer-C,0.0,3.22,Proceed,Manager-Y,0.0,14.67,Approved,17.89,False
+INV-00127,DIST-009,Normal,776896.49,2026-06-03 16:57:33,Reviewer-A,0.0,1.78,Proceed,Manager-X,0.0,6.25,Approved,8.03,False
+INV-00128,DIST-002,Normal,400740.02,2026-06-04 08:04:57,Reviewer-A,0.0,8.42,Proceed,Manager-X,0.0,10.72,Approved,19.13,False
+INV-00129,DIST-009,Normal,314079.92,2026-06-04 08:11:02,Reviewer-B,0.0,0.08,Proceed,Manager-Y,0.0,5.76,Approved,5.85,False
+INV-00130,DIST-010,Normal,326966.55,2026-06-04 08:24:25,Reviewer-C,0.0,2.79,Proceed,Manager-Y,0.0,6.06,Approved,8.84,False
+INV-00131,DIST-006,Normal,778391.24,2026-06-04 08:58:50,Reviewer-B,0.0,0.39,Proceed,Manager-X,0.0,22.81,Approved,23.2,False
+INV-00132,DIST-003,Normal,43318.06,2026-06-04 09:05:08,Reviewer-A,0.0,33.02,Proceed,Manager-Y,0.0,2.54,Approved,35.56,False
+INV-00133,DIST-006,Normal,571560.85,2026-06-04 09:11:02,Reviewer-C,0.0,17.51,Proceed,Manager-X,0.0,12.88,Approved,30.39,False
+INV-00134,DIST-002,Normal,709470.66,2026-06-04 09:17:28,Reviewer-B,0.0,16.79,Proceed,Manager-Y,6.44,11.13,Approved,34.36,False
+INV-00135,DIST-004,Normal,727855.41,2026-06-04 09:24:32,Reviewer-C,4.02,6.94,Proceed,Manager-X,5.94,36.19,Approved,53.09,False
+INV-00136,DIST-004,High,823134.81,2026-06-04 09:30:37,Reviewer-B,3.63,8.34,Proceed,Manager-Y,9.23,1.93,Approved,23.14,False
+INV-00137,DIST-001,Normal,669841.43,2026-06-04 10:13:09,Reviewer-C,0.0,0.81,Proceed,Manager-Y,0.0,0.68,Approved,1.48,False
+INV-00138,DIST-004,Normal,692029.77,2026-06-04 10:15:56,Reviewer-A,0.0,8.93,Proceed,Manager-Y,0.0,8.61,Approved,17.54,False
+INV-00139,DIST-003,Normal,461482.06,2026-06-04 11:05:34,Reviewer-B,0.0,0.7,Proceed,Manager-X,0.0,1.34,Approved,2.04,False
+INV-00140,DIST-010,Normal,278586.89,2026-06-04 11:24:13,Reviewer-C,0.0,0.32,Proceed,Manager-Y,0.0,7.09,Approved,7.42,False
+INV-00141,DIST-006,Normal,438686.07,2026-06-04 11:31:58,Reviewer-A,0.0,4.21,Returned,,,,Returned to Distributor,4.21,False
+INV-00142,DIST-011,Normal,445626.28,2026-06-04 11:32:30,Reviewer-B,0.0,19.95,Proceed,Manager-X,0.0,6.19,Approved,26.14,False
+INV-00143,DIST-008,Normal,606979.11,2026-06-04 11:46:24,Reviewer-C,0.0,13.77,Proceed,Manager-Y,0.0,1.53,Approved,15.3,False
+INV-00144,DIST-010,Normal,468361.19,2026-06-04 11:58:09,Reviewer-A,0.0,31.36,Proceed,Manager-X,0.0,5.74,Approved,37.1,False
+INV-00145,DIST-012,Normal,101679.89,2026-06-04 11:59:25,Reviewer-B,0.0,12.61,Proceed,Manager-Y,0.0,19.06,Approved,31.67,False
+INV-00146,DIST-007,Normal,291397.22,2026-06-04 12:25:41,Reviewer-C,0.0,3.23,Proceed,Manager-Y,2.16,5.29,Approved,10.67,False
+INV-00147,DIST-003,Normal,585363.77,2026-06-04 12:31:19,Reviewer-B,0.0,0.57,Proceed,Manager-X,3.37,5.37,Approved,9.31,False
+INV-00148,DIST-003,Normal,475133.27,2026-06-04 12:36:55,Reviewer-C,0.0,4.95,Proceed,Manager-Y,0.0,1.24,Approved,6.19,False
+INV-00149,DIST-007,Normal,738537.87,2026-06-04 12:50:03,Reviewer-A,0.0,20.73,Proceed,Manager-X,0.0,4.12,Approved,24.84,False
+INV-00150,DIST-011,Normal,412450.04,2026-06-04 12:52:55,Reviewer-B,0.0,2.59,Proceed,Manager-Y,0.0,1.16,Approved,3.75,False
+INV-00151,DIST-007,High,719156.11,2026-06-04 12:56:00,Reviewer-C,0.0,8.19,Proceed,Manager-Y,0.0,8.31,Approved,16.5,False
+INV-00152,DIST-012,Normal,230993.33,2026-06-04 13:27:45,Reviewer-B,0.0,7.28,Proceed,Manager-Y,0.0,3.94,Approved,11.22,False
+INV-00153,DIST-010,Normal,560456.22,2026-06-04 13:52:13,Reviewer-C,0.0,8.1,Returned,,,,Returned to Distributor,8.1,False
+INV-00154,DIST-009,Normal,186787.28,2026-06-04 13:53:22,Reviewer-A,0.0,2.5,Proceed,Manager-X,0.0,12.15,Approved,14.65,False
+INV-00155,DIST-002,Normal,751424.15,2026-06-04 14:03:26,Reviewer-B,0.0,8.43,Proceed,Manager-Y,0.0,0.81,Approved,9.23,False
+INV-00156,DIST-010,Normal,378527.34,2026-06-04 14:10:03,Reviewer-A,0.0,8.44,Proceed,Manager-X,0.0,5.34,Approved,13.78,False
+INV-00157,DIST-008,Normal,450259.32,2026-06-04 14:23:40,Reviewer-C,0.0,1.49,Returned,,,,Returned to Distributor,1.49,False
+INV-00158,DIST-004,Normal,259699.36,2026-06-04 14:24:21,Reviewer-B,0.0,0.89,Proceed,Manager-Y,0.0,3.78,Approved,4.66,False
+INV-00159,DIST-003,Normal,114161.92,2026-06-04 14:40:50,Reviewer-A,0.0,1.57,Proceed,Manager-X,0.0,10.48,Approved,12.05,False
+INV-00160,DIST-012,Normal,40745.41,2026-06-04 14:46:55,Reviewer-C,0.0,15.24,Proceed,Manager-Y,0.0,8.15,Approved,23.39,False
+INV-00161,DIST-007,Normal,249640.35,2026-06-04 15:01:45,Reviewer-B,0.0,20.32,Proceed,Manager-X,0.0,28.02,Approved,48.34,False
+INV-00162,DIST-006,Normal,79469.75,2026-06-04 15:15:47,Reviewer-A,0.0,1.67,Proceed,Manager-Y,0.0,7.05,Approved,8.72,False
+INV-00163,DIST-006,Normal,192228.39,2026-06-04 15:20:15,Reviewer-C,0.0,0.48,Proceed,Manager-Y,3.79,7.18,Approved,11.45,False
+INV-00164,DIST-006,Normal,619635.34,2026-06-04 15:38:12,Reviewer-A,0.0,10.13,Proceed,Manager-Y,0.0,1.5,Approved,11.63,False
+INV-00165,DIST-011,High,68673.52,2026-06-04 15:49:17,Reviewer-C,0.0,4.75,Proceed,Manager-Y,0.0,6.7,Approved,11.44,False
+INV-00166,DIST-010,High,548328.1,2026-06-04 16:02:59,Reviewer-B,0.0,1.87,Returned,,,,Returned to Distributor,1.87,False
+INV-00167,DIST-008,Normal,62701.89,2026-06-04 16:07:33,Reviewer-A,0.0,2.16,Proceed,Manager-X,0.0,0.55,Approved,2.71,False
+INV-00168,DIST-008,Normal,36778.12,2026-06-04 16:12:01,Reviewer-C,0.0,2.03,Proceed,Manager-Y,0.0,35.99,Approved,38.02,False
+INV-00169,DIST-007,Normal,395991.35,2026-06-04 16:22:50,Reviewer-B,0.0,9.42,Returned,,,,Returned to Distributor,9.42,False
+INV-00170,DIST-010,Normal,555802.65,2026-06-04 16:30:00,Reviewer-A,0.0,3.87,Proceed,Manager-X,0.0,0.61,Approved,4.48,False
+INV-00171,DIST-006,Normal,835115.82,2026-06-04 16:57:32,Reviewer-C,0.0,6.23,Proceed,Manager-X,0.0,11.68,Rejected,17.92,False
+INV-00172,DIST-006,Normal,320059.92,2026-06-05 08:11:17,Reviewer-A,0.0,3.15,Proceed,Manager-X,0.0,8.65,Approved,11.81,False
+INV-00173,DIST-002,Normal,283588.69,2026-06-05 08:23:47,Reviewer-B,0.0,2.93,Proceed,Manager-Y,0.0,18.12,Rejected,21.05,False
+INV-00174,DIST-003,Normal,286690.92,2026-06-05 08:34:52,Reviewer-C,0.0,0.91,Proceed,Manager-X,0.0,32.61,Approved,33.52,False
+INV-00175,DIST-010,Normal,603964.74,2026-06-05 08:40:50,Reviewer-A,0.0,4.91,Proceed,Manager-Y,0.0,3.78,Approved,8.69,False
+INV-00176,DIST-012,High,847603.68,2026-06-05 08:55:24,Reviewer-B,0.0,0.47,Proceed,Manager-Y,0.0,5.74,Approved,6.21,False
+INV-00177,DIST-004,Normal,293763.83,2026-06-05 08:59:50,Reviewer-C,0.0,1.28,Returned,,,,Returned to Distributor,1.28,False
+INV-00178,DIST-005,Normal,718541.99,2026-06-05 09:01:51,Reviewer-A,0.0,8.84,Proceed,Manager-Y,0.0,20.44,Approved,29.28,False
+INV-00179,DIST-010,Normal,115736.44,2026-06-05 09:06:47,Reviewer-B,0.0,1.06,Proceed,Manager-X,0.55,14.01,Approved,15.62,False
+INV-00180,DIST-008,Normal,41920.1,2026-06-05 09:08:57,Reviewer-C,0.0,7.63,Returned,,,,Returned to Distributor,7.63,False
+INV-00181,DIST-012,Normal,667311.3,2026-06-05 09:20:16,Reviewer-B,0.0,1.64,Returned,,,,Returned to Distributor,1.64,False
+INV-00182,DIST-004,High,315825.61,2026-06-05 09:38:41,Reviewer-A,0.0,19.98,Proceed,Manager-X,0.0,2.67,Approved,22.66,False
+INV-00183,DIST-003,Normal,695273.1,2026-06-05 09:47:41,Reviewer-C,0.0,0.89,Proceed,Manager-Y,0.0,9.74,Approved,10.63,False
+INV-00184,DIST-002,Normal,606133.83,2026-06-05 09:57:23,Reviewer-B,0.0,0.8,Proceed,Manager-Y,0.13,1.66,Approved,2.59,False
+INV-00185,DIST-007,High,82497.97,2026-06-05 10:06:01,Reviewer-C,0.0,8.14,Returned,,,,Returned to Distributor,8.14,False
+INV-00186,DIST-007,Normal,50002.07,2026-06-05 10:38:01,Reviewer-B,0.0,1.61,Returned,,,,Returned to Distributor,1.61,False
+INV-00187,DIST-001,Normal,274288.72,2026-06-05 10:43:39,Reviewer-A,0.0,7.53,Proceed,Manager-Y,0.0,1.5,Approved,9.03,False
+INV-00188,DIST-008,Normal,593180.83,2026-06-05 11:13:35,Reviewer-C,0.0,7.34,Proceed,Manager-X,0.0,0.05,Approved,7.39,False
+INV-00189,DIST-003,Normal,468739.59,2026-06-05 11:17:07,Reviewer-B,0.0,4.5,Proceed,Manager-Y,0.0,3.23,Approved,7.73,False
+INV-00190,DIST-007,Normal,544914.21,2026-06-05 11:17:43,Reviewer-A,0.0,0.39,Proceed,Manager-X,2.86,6.58,Approved,9.83,False
+INV-00191,DIST-010,Normal,209437.72,2026-06-05 11:29:42,Reviewer-A,0.0,3.36,Proceed,Manager-Y,0.0,2.61,Approved,5.98,False
+INV-00192,DIST-002,Normal,447344.45,2026-06-05 11:42:48,Reviewer-C,0.0,18.4,Proceed,Manager-X,0.0,14.67,Approved,33.06,False
+INV-00193,DIST-008,Normal,41786.59,2026-06-05 11:43:03,Reviewer-B,0.0,2.8,Proceed,Manager-Y,0.0,4.2,Approved,7.0,False
+INV-00194,DIST-011,Normal,535877.13,2026-06-05 11:46:22,Reviewer-A,0.0,7.97,Proceed,Manager-Y,0.0,0.43,Approved,8.4,False
+INV-00195,DIST-003,Normal,706674.19,2026-06-05 12:06:31,Reviewer-B,0.0,23.72,Proceed,Manager-Y,0.0,1.91,Approved,25.63,False
+INV-00196,DIST-008,Normal,36251.3,2026-06-05 12:21:37,Reviewer-A,0.0,9.4,Returned,,,,Returned to Distributor,9.4,False
+INV-00197,DIST-005,High,440499.13,2026-06-05 12:26:10,Reviewer-C,0.0,3.76,Proceed,Manager-X,0.0,11.3,Approved,15.06,False
+INV-00198,DIST-001,Normal,736599.54,2026-06-05 12:31:28,Reviewer-C,0.0,0.8,Proceed,Manager-Y,0.0,20.92,Approved,21.72,False
+INV-00199,DIST-007,Normal,291485.95,2026-06-05 12:58:29,Reviewer-B,0.0,7.07,Proceed,Manager-X,0.0,15.16,Approved,22.23,False
+INV-00200,DIST-007,Normal,71693.32,2026-06-05 12:59:31,Reviewer-A,0.0,10.37,Proceed,Manager-Y,0.0,3.68,Approved,14.05,False
+INV-00201,DIST-005,Normal,381798.82,2026-06-05 13:12:29,Reviewer-C,0.0,1.09,Proceed,Manager-Y,0.0,5.63,Approved,6.72,False
+INV-00202,DIST-010,Normal,848437.26,2026-06-05 13:41:36,Reviewer-B,0.0,23.48,Returned,,,,Returned to Distributor,23.48,False
+INV-00203,DIST-011,Normal,348247.65,2026-06-05 13:42:32,Reviewer-A,0.0,8.32,Proceed,Manager-Y,0.0,0.3,Approved,8.62,False
+INV-00204,DIST-008,Normal,34405.13,2026-06-05 13:56:08,Reviewer-C,0.0,9.04,Proceed,Manager-X,0.0,4.59,Approved,13.63,False
+INV-00205,DIST-011,Normal,385184.57,2026-06-05 14:07:17,Reviewer-A,0.0,3.52,Proceed,Manager-Y,0.0,1.41,Approved,4.93,False
+INV-00206,DIST-005,Normal,215921.85,2026-06-05 14:11:49,Reviewer-B,0.0,7.98,Proceed,Manager-X,0.0,4.65,Approved,12.63,False
+INV-00207,DIST-005,Normal,599911.95,2026-06-05 14:15:28,Reviewer-C,0.0,5.68,Proceed,Manager-Y,0.0,62.62,Approved,68.3,False
+INV-00208,DIST-002,High,386976.07,2026-06-05 14:17:13,Reviewer-A,0.0,2.83,Proceed,Manager-X,4.41,9.25,Approved,16.49,False
+INV-00209,DIST-006,Normal,604561.71,2026-06-05 14:21:50,Reviewer-B,0.0,2.06,Proceed,Manager-X,9.81,1.63,Approved,13.5,False
+INV-00210,DIST-003,Normal,675673.44,2026-06-05 14:36:17,Reviewer-A,0.0,0.78,Proceed,Manager-X,0.0,1.42,Approved,2.2,False
+INV-00211,DIST-009,Normal,488574.41,2026-06-05 14:36:36,Reviewer-C,0.0,24.45,Proceed,Manager-X,0.0,20.48,Approved,44.94,False
+INV-00212,DIST-012,Normal,612444.86,2026-06-05 14:42:42,Reviewer-B,0.0,8.8,Proceed,Manager-X,30.05,0.73,Rejected,39.57,False
+INV-00213,DIST-008,Normal,398629.05,2026-06-05 14:55:02,Reviewer-A,0.0,0.82,Proceed,Manager-X,26.41,7.61,Approved,34.85,False
+INV-00214,DIST-003,High,370562.45,2026-06-05 15:12:34,Reviewer-B,0.0,0.27,Proceed,Manager-Y,10.93,1.34,Approved,12.55,False
+INV-00215,DIST-012,High,195522.39,2026-06-05 15:17:14,Reviewer-A,0.0,3.51,Proceed,Manager-Y,4.36,0.66,Approved,8.53,False
+INV-00216,DIST-005,Normal,110768.9,2026-06-05 15:54:49,Reviewer-C,0.0,4.57,Proceed,Manager-Y,0.0,1.75,Rejected,6.33,False
+INV-00217,DIST-011,High,532684.91,2026-06-05 15:56:49,Reviewer-B,0.0,1.98,Returned,,,,Returned to Distributor,1.98,False
+INV-00218,DIST-001,High,73633.31,2026-06-05 15:57:20,Reviewer-A,0.0,7.08,Proceed,Manager-X,0.0,1.91,Approved,8.99,False
+INV-00219,DIST-001,Normal,425842.16,2026-06-05 16:08:53,Reviewer-B,0.0,2.05,Returned,,,,Returned to Distributor,2.05,False
+INV-00220,DIST-011,Normal,348148.19,2026-06-05 16:16:48,Reviewer-C,0.0,7.0,Proceed,Manager-Y,0.0,5.1,Approved,12.1,False
+INV-00221,DIST-003,Normal,269132.21,2026-06-05 16:21:47,Reviewer-A,0.0,7.95,Proceed,Manager-X,0.0,35.19,Approved,43.14,False
+INV-00222,DIST-009,Normal,94725.42,2026-06-05 16:27:20,Reviewer-B,0.0,0.78,Proceed,Manager-Y,0.78,1.44,Approved,3.0,False
+INV-00223,DIST-007,High,214788.39,2026-06-06 08:23:57,Reviewer-A,0.0,0.84,Proceed,Manager-X,0.0,6.96,Approved,7.8,False
+INV-00224,DIST-008,Normal,846594.15,2026-06-06 08:41:14,Reviewer-B,0.0,12.68,Proceed,Manager-Y,0.0,0.9,Approved,13.57,False
+INV-00225,DIST-004,Normal,186797.04,2026-06-06 08:48:34,Reviewer-C,0.0,0.31,Proceed,Manager-X,0.0,20.33,Approved,20.64,False
+INV-00226,DIST-009,Normal,11909.91,2026-06-06 08:56:12,Reviewer-A,0.0,0.86,Proceed,Manager-Y,0.0,4.33,Approved,5.19,False
+INV-00227,DIST-001,Normal,486887.99,2026-06-06 08:56:45,Reviewer-C,0.0,4.83,Proceed,Manager-Y,0.0,6.67,Approved,11.5,False
+INV-00228,DIST-010,Normal,579936.85,2026-06-06 09:00:41,Reviewer-B,0.0,22.15,Proceed,Manager-Y,0.0,15.05,Approved,37.2,False
+INV-00229,DIST-003,Normal,173203.91,2026-06-06 09:34:14,Reviewer-A,0.0,4.16,Proceed,Manager-X,0.0,1.4,Approved,5.56,False
+INV-00230,DIST-008,High,130854.86,2026-06-06 09:41:57,Reviewer-C,0.0,0.72,Returned,,,,Returned to Distributor,0.72,False
+INV-00231,DIST-007,Normal,842070.3,2026-06-06 09:46:33,Reviewer-B,0.0,2.13,Proceed,Manager-Y,0.0,16.74,Approved,18.87,False
+INV-00232,DIST-005,Normal,406284.25,2026-06-06 10:01:21,Reviewer-A,0.0,2.41,Proceed,Manager-X,0.0,5.12,Approved,7.53,False
+INV-00233,DIST-012,Normal,536725.11,2026-06-06 10:28:50,Reviewer-C,0.0,1.85,Proceed,Manager-Y,0.0,33.99,Approved,35.84,False
+INV-00234,DIST-001,Normal,498077.17,2026-06-06 10:31:56,Reviewer-B,0.0,5.95,Proceed,Manager-X,0.0,17.48,Approved,23.43,False
+INV-00235,DIST-001,Normal,488821.88,2026-06-06 10:45:38,Reviewer-A,0.0,1.27,Proceed,Manager-X,8.46,5.15,Approved,14.88,False
+INV-00236,DIST-009,High,659851.6,2026-06-06 10:48:22,Reviewer-C,0.0,9.9,Proceed,Manager-X,2.25,0.52,Approved,12.67,False
+INV-00237,DIST-006,Normal,848413.82,2026-06-06 10:51:09,Reviewer-B,0.0,2.84,Returned,,,,Returned to Distributor,2.84,False
+INV-00238,DIST-009,Normal,294266.33,2026-06-06 10:58:33,Reviewer-A,0.0,8.87,Proceed,Manager-X,0.0,9.79,Approved,18.66,False
+INV-00239,DIST-004,Normal,813950.1,2026-06-06 11:09:51,Reviewer-B,0.0,2.13,Returned,,,,Returned to Distributor,2.13,False
+INV-00240,DIST-005,Normal,600641.29,2026-06-06 11:58:14,Reviewer-C,0.0,4.03,Proceed,Manager-Y,0.0,7.81,Rejected,11.84,False
+INV-00241,DIST-005,Normal,107983.62,2026-06-06 12:13:34,Reviewer-A,0.0,2.87,Returned,,,,Returned to Distributor,2.87,False
+INV-00242,DIST-003,Normal,250432.49,2026-06-06 12:34:03,Reviewer-B,0.0,7.51,Proceed,Manager-X,0.0,5.55,Approved,13.06,False
+INV-00243,DIST-004,Normal,704619.19,2026-06-06 12:41:52,Reviewer-C,0.0,4.95,Proceed,Manager-Y,0.0,1.1,Approved,6.05,False
+INV-00244,DIST-001,Normal,571009.7,2026-06-06 12:45:09,Reviewer-A,0.0,6.1,Proceed,Manager-X,0.0,5.07,Approved,11.16,False
+INV-00245,DIST-003,Normal,9378.32,2026-06-06 12:46:25,Reviewer-B,0.0,15.88,Proceed,Manager-Y,0.0,25.97,Approved,41.85,False
+INV-00246,DIST-004,Normal,643744.85,2026-06-06 12:54:13,Reviewer-C,0.0,2.02,Proceed,Manager-X,0.09,13.91,Approved,16.01,False
+INV-00247,DIST-012,High,616034.44,2026-06-06 12:57:23,Reviewer-A,0.0,11.73,Proceed,Manager-X,1.11,17.27,Approved,30.11,False
+INV-00248,DIST-007,Normal,670826.73,2026-06-06 13:27:38,Reviewer-C,0.0,8.29,Proceed,Manager-X,0.0,3.25,Approved,11.54,False
+INV-00249,DIST-010,High,95669.08,2026-06-06 13:31:53,Reviewer-B,0.0,1.61,Returned,,,,Returned to Distributor,1.61,False
+INV-00250,DIST-008,Normal,756424.67,2026-06-06 13:41:18,Reviewer-A,0.0,4.21,Proceed,Manager-Y,0.0,15.72,Approved,19.93,False
+INV-00251,DIST-011,Normal,222388.82,2026-06-06 13:57:03,Reviewer-B,0.0,8.0,Proceed,Manager-X,0.0,7.97,Approved,15.97,False
+INV-00252,DIST-011,Normal,763001.13,2026-06-06 13:59:22,Reviewer-C,0.0,4.35,Proceed,Manager-Y,0.0,10.51,Approved,14.86,False
+INV-00253,DIST-006,Normal,795772.45,2026-06-06 14:01:11,Reviewer-A,0.0,2.9,Proceed,Manager-X,8.94,2.95,Approved,14.79,False
+INV-00254,DIST-010,Normal,14663.2,2026-06-06 14:11:40,Reviewer-C,0.0,7.08,Proceed,Manager-Y,0.0,1.2,Approved,8.28,False
+INV-00255,DIST-009,High,785024.58,2026-06-06 14:17:55,Reviewer-A,0.0,7.05,Proceed,Manager-X,0.0,8.22,Rejected,15.27,False
+INV-00256,DIST-004,Normal,190163.67,2026-06-06 14:23:24,Reviewer-B,0.0,1.0,Proceed,Manager-Y,0.0,8.84,Approved,9.84,False
+INV-00257,DIST-008,Normal,644961.19,2026-06-06 14:32:58,Reviewer-C,0.0,10.48,Proceed,Manager-X,0.0,10.83,Approved,21.31,False
+INV-00258,DIST-009,Normal,382502.04,2026-06-06 14:51:33,Reviewer-B,0.0,0.49,Proceed,Manager-Y,0.0,0.61,Approved,1.09,False
+INV-00259,DIST-010,Normal,458477.83,2026-06-06 15:00:00,Reviewer-A,0.0,11.56,Proceed,Manager-Y,0.0,10.83,Approved,22.4,False
+INV-00260,DIST-009,Normal,381432.87,2026-06-06 15:08:03,Reviewer-C,0.0,0.85,Proceed,Manager-X,0.0,7.88,Approved,8.73,False
+INV-00261,DIST-005,Normal,616171.67,2026-06-06 15:21:27,Reviewer-B,0.0,10.17,Proceed,Manager-X,0.0,8.2,Approved,18.37,False
+INV-00262,DIST-002,Normal,462283.16,2026-06-06 15:26:31,Reviewer-C,0.0,13.48,Returned,,,,Returned to Distributor,13.48,False
+INV-00263,DIST-005,Normal,350492.56,2026-06-06 15:34:11,Reviewer-A,0.0,8.71,Returned,,,,Returned to Distributor,8.71,False
+INV-00264,DIST-007,High,321419.48,2026-06-06 15:46:39,Reviewer-B,0.0,2.86,Returned,,,,Returned to Distributor,2.86,False
+INV-00265,DIST-002,Normal,581907.15,2026-06-06 15:52:20,Reviewer-C,0.0,4.65,Proceed,Manager-Y,0.0,4.06,Approved,8.71,False
+INV-00266,DIST-009,High,112608.29,2026-06-06 16:01:35,Reviewer-A,0.0,8.64,Proceed,Manager-X,0.0,31.0,Approved,39.65,False
+INV-00267,DIST-007,Normal,454483.9,2026-06-06 16:16:49,Reviewer-B,0.0,1.71,Proceed,Manager-Y,0.0,3.06,Rejected,4.77,False
+INV-00268,DIST-002,Normal,32223.63,2026-06-06 16:32:19,Reviewer-C,0.0,5.73,Returned,,,,Returned to Distributor,5.73,False
+INV-00269,DIST-004,Normal,179138.97,2026-06-06 16:58:42,Reviewer-A,0.0,0.2,Proceed,Manager-Y,0.0,11.54,Approved,11.75,False
+INV-00270,DIST-004,Normal,461097.04,2026-06-08 08:06:10,Reviewer-A,0.0,8.98,Proceed,Manager-X,0.0,47.82,Approved,56.8,False
+INV-00271,DIST-010,Normal,274473.62,2026-06-08 08:35:57,Reviewer-B,0.0,6.7,Proceed,Manager-Y,0.0,3.41,Approved,10.11,False
+INV-00272,DIST-004,Normal,354458.37,2026-06-08 08:48:54,Reviewer-C,0.0,4.88,Proceed,Manager-Y,0.0,12.62,Approved,17.51,False
+INV-00273,DIST-009,High,423799.57,2026-06-08 09:02:32,Reviewer-A,0.0,13.63,Proceed,Manager-X,0.0,12.44,Approved,26.08,False
+INV-00274,DIST-003,Normal,258405.78,2026-06-08 09:08:59,Reviewer-B,0.0,4.63,Proceed,Manager-Y,0.0,2.43,Approved,7.06,False
+INV-00275,DIST-008,Normal,777956.29,2026-06-08 09:10:52,Reviewer-C,0.0,20.61,Proceed,Manager-Y,0.0,1.37,Approved,21.98,False
+INV-00276,DIST-011,Normal,71814.52,2026-06-08 09:13:35,Reviewer-B,0.03,2.78,Proceed,Manager-X,12.2,16.8,Approved,31.82,False
+INV-00277,DIST-010,High,514469.13,2026-06-08 09:19:16,Reviewer-A,0.0,1.0,Proceed,Manager-Y,12.57,10.4,Approved,23.97,False
+INV-00278,DIST-006,High,261193.88,2026-06-08 09:27:06,Reviewer-B,0.0,1.14,Proceed,Manager-Y,15.0,10.92,Approved,27.07,False
+INV-00279,DIST-004,Normal,592804.21,2026-06-08 09:43:57,Reviewer-A,0.0,3.03,Proceed,Manager-X,0.0,3.69,Approved,6.72,False
+INV-00280,DIST-011,Normal,308574.32,2026-06-08 09:51:29,Reviewer-B,0.0,4.31,Proceed,Manager-X,0.0,0.99,Rejected,5.3,False
+INV-00281,DIST-006,Normal,777609.27,2026-06-08 09:59:05,Reviewer-C,0.0,3.21,Proceed,Manager-Y,0.0,2.38,Approved,5.58,False
+INV-00282,DIST-010,Normal,494375.77,2026-06-08 10:02:43,Reviewer-A,0.0,0.99,Proceed,Manager-X,0.0,4.54,Approved,5.53,False
+INV-00283,DIST-011,Normal,802227.54,2026-06-08 10:11:01,Reviewer-B,0.0,8.65,Proceed,Manager-Y,0.0,12.21,Approved,20.86,False
+INV-00284,DIST-012,Normal,676754.31,2026-06-08 10:18:26,Reviewer-C,0.0,7.64,Proceed,Manager-X,0.0,23.63,Approved,31.28,False
+INV-00285,DIST-001,Normal,447733.03,2026-06-08 10:30:45,Reviewer-A,0.0,0.46,Proceed,Manager-Y,0.67,0.47,Approved,1.6,False
+INV-00286,DIST-011,Normal,200561.22,2026-06-08 10:32:31,Reviewer-B,0.0,0.06,Proceed,Manager-Y,0.0,4.44,Approved,4.49,False
+INV-00287,DIST-010,Normal,776274.98,2026-06-08 10:45:43,Reviewer-C,0.0,0.1,Proceed,Manager-Y,0.0,5.03,Approved,5.13,False
+INV-00288,DIST-009,Normal,830970.05,2026-06-08 11:01:05,Reviewer-A,0.0,10.06,Proceed,Manager-X,0.0,15.59,Approved,25.65,False
+INV-00289,DIST-002,Normal,448105.66,2026-06-08 11:02:26,Reviewer-B,0.0,5.8,Proceed,Manager-Y,0.0,4.16,Approved,9.96,False
+INV-00290,DIST-007,Normal,392853.09,2026-06-08 11:03:25,Reviewer-C,0.0,7.17,Proceed,Manager-Y,1.8,16.73,Approved,25.7,False
+INV-00291,DIST-011,Normal,646850.04,2026-06-08 12:00:53,Reviewer-B,0.0,2.86,Proceed,Manager-X,0.0,0.55,Approved,3.41,False
+INV-00292,DIST-008,Normal,719303.68,2026-06-08 12:03:09,Reviewer-C,0.0,2.41,Returned,,,,Returned to Distributor,2.41,False
+INV-00293,DIST-009,Normal,781683.62,2026-06-08 12:46:52,Reviewer-A,0.0,13.89,Proceed,Manager-Y,0.0,7.95,Approved,21.84,False
+INV-00294,DIST-011,High,787119.16,2026-06-08 13:17:49,Reviewer-B,0.0,3.98,Proceed,Manager-X,0.0,21.33,Approved,25.31,False
+INV-00295,DIST-010,Normal,126841.87,2026-06-08 13:56:53,Reviewer-C,0.0,10.32,Returned,,,,Returned to Distributor,10.32,False
+INV-00296,DIST-010,Normal,208199.0,2026-06-08 14:01:09,Reviewer-A,0.0,2.96,Returned,,,,Returned to Distributor,2.96,False
+INV-00297,DIST-012,High,123258.25,2026-06-08 14:06:00,Reviewer-B,0.0,6.18,Proceed,Manager-Y,0.0,29.57,Approved,35.75,False
+INV-00298,DIST-002,Normal,292800.87,2026-06-08 14:12:53,Reviewer-A,0.0,18.59,Proceed,Manager-X,0.0,14.11,Approved,32.7,False
+INV-00299,DIST-008,Normal,419559.92,2026-06-08 14:16:43,Reviewer-C,0.0,17.0,Proceed,Manager-Y,8.03,10.82,Approved,35.84,False
+INV-00300,DIST-010,Normal,254595.66,2026-06-08 14:17:48,Reviewer-B,0.0,0.46,Proceed,Manager-X,27.33,4.54,Approved,32.33,False
+INV-00301,DIST-007,Normal,272593.1,2026-06-08 14:19:48,Reviewer-B,0.0,0.03,Proceed,Manager-X,30.29,4.24,Approved,34.56,False
+INV-00302,DIST-003,Normal,369177.69,2026-06-08 14:21:31,Reviewer-B,0.0,4.31,Proceed,Manager-Y,26.74,0.89,Approved,31.94,False
+INV-00303,DIST-006,Normal,734841.86,2026-06-08 14:32:25,Reviewer-B,0.0,3.2,Proceed,Manager-Y,17.83,12.26,Approved,33.3,False
+INV-00304,DIST-004,Normal,488306.56,2026-06-08 15:31:30,Reviewer-A,0.0,2.88,Proceed,Manager-X,0.0,3.4,Approved,6.28,False
+INV-00305,DIST-007,Normal,238187.78,2026-06-08 15:32:17,Reviewer-C,0.0,9.16,Proceed,Manager-Y,0.0,27.42,Approved,36.58,False
+INV-00306,DIST-010,Normal,170238.25,2026-06-08 15:40:30,Reviewer-B,0.0,2.18,Returned,,,,Returned to Distributor,2.18,False
+INV-00307,DIST-010,High,326007.01,2026-06-08 15:45:21,Reviewer-A,0.0,2.79,Proceed,Manager-X,0.0,14.01,Approved,16.79,False
+INV-00308,DIST-005,High,275962.06,2026-06-08 15:56:11,Reviewer-C,0.0,1.08,Proceed,Manager-X,4.89,26.97,Rejected,32.94,False
+INV-00309,DIST-012,High,539802.58,2026-06-08 16:00:19,Reviewer-B,0.0,7.31,Proceed,Manager-Y,1.24,2.66,Approved,11.21,False
+INV-00310,DIST-010,High,173831.04,2026-06-08 16:05:46,Reviewer-A,0.0,0.95,Proceed,Manager-Y,4.81,0.22,Approved,5.98,False
+INV-00311,DIST-004,Normal,375494.44,2026-06-08 16:40:08,Reviewer-C,0.0,7.08,Proceed,Manager-Y,0.0,15.09,Approved,22.17,False
+INV-00312,DIST-011,Normal,260893.58,2026-06-08 16:48:26,Reviewer-A,0.0,1.0,Proceed,Manager-X,0.0,4.5,Approved,5.5,False
+INV-00313,DIST-010,Normal,343680.31,2026-06-08 16:59:22,Reviewer-B,0.0,15.18,Proceed,Manager-X,0.0,7.45,Approved,22.64,False
+INV-00314,DIST-009,High,506777.85,2026-06-09 08:27:06,Reviewer-A,0.0,0.56,Proceed,Manager-X,0.0,8.82,Approved,9.38,False
+INV-00315,DIST-010,Normal,836148.93,2026-06-09 08:38:29,Reviewer-B,0.0,3.06,Proceed,Manager-Y,0.0,32.04,Approved,35.11,False
+INV-00316,DIST-005,Normal,192590.91,2026-06-09 08:38:36,Reviewer-C,0.0,4.9,Proceed,Manager-X,0.0,2.37,Approved,7.27,False
+INV-00317,DIST-011,Normal,502358.51,2026-06-09 08:46:04,Reviewer-A,0.0,2.54,Proceed,Manager-X,0.0,1.05,Approved,3.59,False
+INV-00318,DIST-002,Normal,707463.49,2026-06-09 09:25:13,Reviewer-B,0.0,2.57,Proceed,Manager-X,0.0,14.57,Approved,17.14,False
+INV-00319,DIST-002,Normal,375250.22,2026-06-09 09:30:22,Reviewer-C,0.0,2.3,Proceed,Manager-Y,0.0,15.79,Approved,18.09,False
+INV-00320,DIST-011,Normal,97411.47,2026-06-09 09:53:04,Reviewer-A,0.0,15.95,Proceed,Manager-X,0.0,6.89,Approved,22.84,False
+INV-00321,DIST-007,Normal,814900.92,2026-06-09 09:57:53,Reviewer-B,0.0,3.12,Proceed,Manager-Y,0.0,9.72,Approved,12.83,False
+INV-00322,DIST-010,Normal,751217.28,2026-06-09 09:58:14,Reviewer-C,0.0,3.37,Proceed,Manager-Y,9.11,2.3,Approved,14.78,False
+INV-00323,DIST-002,Normal,492858.98,2026-06-09 10:12:50,Reviewer-B,0.0,4.62,Proceed,Manager-Y,0.0,2.09,Approved,6.7,False
+INV-00324,DIST-008,Normal,450919.19,2026-06-09 10:26:10,Reviewer-C,0.0,5.45,Proceed,Manager-X,0.0,8.4,Approved,13.85,False
+INV-00325,DIST-010,Normal,150785.75,2026-06-09 10:48:35,Reviewer-A,0.0,9.68,Returned,,,,Returned to Distributor,9.68,False
+INV-00326,DIST-011,Normal,118185.87,2026-06-09 10:59:17,Reviewer-B,0.0,2.19,Proceed,Manager-Y,0.0,11.23,Approved,13.42,False
+INV-00327,DIST-003,Normal,490711.11,2026-06-09 11:05:47,Reviewer-C,0.0,4.0,Proceed,Manager-X,0.0,23.9,Rejected,27.9,False
+INV-00328,DIST-003,Normal,418747.51,2026-06-09 11:08:04,Reviewer-A,0.0,2.27,Proceed,Manager-Y,2.37,0.52,Approved,5.16,False
+INV-00329,DIST-003,Normal,169883.58,2026-06-09 11:08:11,Reviewer-B,0.0,4.95,Proceed,Manager-Y,0.1,5.0,Approved,10.04,False
+INV-00330,DIST-008,Normal,417951.09,2026-06-09 11:23:03,Reviewer-C,0.0,0.19,Proceed,Manager-Y,0.0,3.28,Approved,3.47,False
+INV-00331,DIST-003,Normal,664725.47,2026-06-09 11:32:18,Reviewer-A,0.0,8.88,Proceed,Manager-Y,0.0,6.79,Approved,15.68,False
+INV-00332,DIST-009,Normal,700673.97,2026-06-09 11:36:03,Reviewer-B,0.0,10.38,Proceed,Manager-X,0.0,12.06,Approved,22.44,False
+INV-00333,DIST-002,Normal,626910.45,2026-06-09 12:31:02,Reviewer-C,0.0,1.71,Proceed,Manager-Y,0.0,0.31,Approved,2.02,False
+INV-00334,DIST-002,High,376014.07,2026-06-09 12:54:49,Reviewer-A,0.0,7.17,Proceed,Manager-X,0.0,13.44,Approved,20.61,False
+INV-00335,DIST-012,Normal,520671.22,2026-06-09 13:00:00,Reviewer-B,0.0,5.75,Proceed,Manager-Y,0.0,15.96,Approved,21.7,False
+INV-00336,DIST-009,Normal,242516.84,2026-06-09 13:10:08,Reviewer-C,0.0,2.35,Proceed,Manager-X,2.96,3.24,Approved,8.55,False
+INV-00337,DIST-011,Normal,693827.87,2026-06-09 13:33:33,Reviewer-A,0.0,8.32,Proceed,Manager-X,0.0,0.58,Approved,8.9,False
+INV-00338,DIST-012,Normal,736836.58,2026-06-09 13:46:21,Reviewer-B,0.0,7.46,Proceed,Manager-Y,0.0,13.62,Approved,21.07,False
+INV-00339,DIST-010,Normal,539379.68,2026-06-09 13:54:26,Reviewer-C,0.0,2.82,Proceed,Manager-X,0.0,15.04,Approved,17.86,False
+INV-00340,DIST-012,High,240100.71,2026-06-09 14:00:37,Reviewer-A,0.0,2.21,Returned,,,,Returned to Distributor,2.21,False
+INV-00341,DIST-001,Normal,739227.06,2026-06-09 14:05:22,Reviewer-B,0.0,0.59,Returned,,,,Returned to Distributor,0.59,False
+INV-00342,DIST-012,Normal,307698.21,2026-06-09 14:17:28,Reviewer-C,0.0,4.59,Proceed,Manager-Y,0.0,5.33,Approved,9.92,False
+INV-00343,DIST-005,Normal,290403.11,2026-06-09 14:21:13,Reviewer-A,0.0,5.01,Proceed,Manager-X,0.0,4.0,Approved,9.01,False
+INV-00344,DIST-002,Normal,534121.7,2026-06-09 14:21:48,Reviewer-B,0.0,0.1,Returned,,,,Returned to Distributor,0.1,False
+INV-00345,DIST-008,High,5571.16,2026-06-09 14:23:52,Reviewer-B,0.0,1.09,Proceed,Manager-Y,2.42,1.14,Approved,4.65,False
+INV-00346,DIST-005,Normal,83872.29,2026-06-09 14:25:57,Reviewer-C,0.0,0.52,Proceed,Manager-Y,2.06,9.94,Approved,12.52,False
+INV-00347,DIST-012,Normal,596027.96,2026-06-09 14:37:44,Reviewer-B,0.0,6.39,Proceed,Manager-X,0.0,0.01,Approved,6.4,False
+INV-00348,DIST-004,Normal,443930.4,2026-06-09 14:39:27,Reviewer-A,0.0,0.05,Proceed,Manager-Y,0.0,1.22,Approved,1.27,False
+INV-00349,DIST-008,Normal,64849.92,2026-06-09 14:53:39,Reviewer-C,0.0,7.87,Proceed,Manager-Y,0.0,3.57,Approved,11.44,False
+INV-00350,DIST-003,Normal,547131.85,2026-06-09 14:55:26,Reviewer-A,0.0,0.43,Proceed,Manager-X,0.0,8.95,Approved,9.38,False
+INV-00351,DIST-004,Normal,535727.63,2026-06-09 15:00:37,Reviewer-B,0.0,3.18,Proceed,Manager-X,1.0,18.68,Approved,22.86,False
+INV-00352,DIST-002,Normal,503189.96,2026-06-09 15:01:53,Reviewer-A,0.0,19.82,Proceed,Manager-Y,0.0,1.43,Approved,21.25,False
+INV-00353,DIST-009,Normal,512844.21,2026-06-09 15:02:57,Reviewer-C,0.0,2.01,Returned,,,,Returned to Distributor,2.01,False
+INV-00354,DIST-011,Normal,745073.97,2026-06-09 15:03:16,Reviewer-B,0.53,5.6,Proceed,Manager-Y,13.74,4.72,Approved,24.59,False
+INV-00355,DIST-004,Normal,423180.12,2026-06-09 15:21:39,Reviewer-C,0.0,4.15,Proceed,Manager-X,0.0,7.14,Rejected,11.29,False
+INV-00356,DIST-006,High,116525.53,2026-06-09 16:13:39,Reviewer-B,0.0,4.03,Proceed,Manager-Y,0.0,9.28,Approved,13.31,False
+INV-00357,DIST-002,Normal,19102.54,2026-06-09 16:50:43,Reviewer-A,0.0,1.82,Proceed,Manager-X,0.0,0.59,Approved,2.42,False
+INV-00358,DIST-011,Normal,607171.57,2026-06-09 16:59:12,Reviewer-C,0.0,3.31,Proceed,Manager-Y,0.0,9.72,Approved,13.03,False
+INV-00359,DIST-002,Normal,437052.47,2026-06-10 08:01:02,Reviewer-A,0.0,9.9,Proceed,Manager-X,0.0,4.71,Approved,14.61,False
+INV-00360,DIST-011,Normal,548465.61,2026-06-10 08:22:38,Reviewer-B,0.0,3.45,Returned,,,,Returned to Distributor,3.45,False
+INV-00361,DIST-004,Normal,77849.81,2026-06-10 08:25:54,Reviewer-C,0.0,3.62,Proceed,Manager-Y,0.0,3.52,Approved,7.14,False
+INV-00362,DIST-002,Normal,15701.9,2026-06-10 08:42:06,Reviewer-A,0.0,0.07,Proceed,Manager-X,0.0,4.04,Approved,4.11,False
+INV-00363,DIST-005,Normal,146083.7,2026-06-10 09:02:50,Reviewer-B,0.0,9.12,Proceed,Manager-Y,0.0,20.66,Approved,29.78,False
+INV-00364,DIST-007,Normal,234823.6,2026-06-10 09:03:12,Reviewer-C,0.0,7.48,Proceed,Manager-X,0.0,0.76,Approved,8.24,False
+INV-00365,DIST-008,Normal,731159.02,2026-06-10 09:08:33,Reviewer-A,0.0,1.03,Proceed,Manager-X,1.85,21.35,Approved,24.22,False
+INV-00366,DIST-012,Normal,434957.03,2026-06-10 09:10:02,Reviewer-A,0.0,11.92,Proceed,Manager-Y,10.67,6.06,Approved,28.66,False
+INV-00367,DIST-001,High,472170.75,2026-06-10 09:11:59,Reviewer-C,0.0,6.48,Proceed,Manager-X,14.32,3.14,Approved,23.94,False
+INV-00368,DIST-005,Normal,702967.46,2026-06-10 09:27:16,Reviewer-B,0.0,0.76,Proceed,Manager-X,7.89,0.51,Approved,9.16,False
+INV-00369,DIST-001,Normal,811197.1,2026-06-10 09:35:58,Reviewer-C,0.0,3.75,Proceed,Manager-X,0.0,17.7,Approved,21.46,False
+INV-00370,DIST-001,Normal,316736.86,2026-06-10 09:45:38,Reviewer-A,0.0,9.21,Proceed,Manager-Y,0.0,2.64,Approved,11.85,False
+INV-00371,DIST-004,Normal,623931.52,2026-06-10 10:28:29,Reviewer-B,0.0,9.54,Proceed,Manager-X,0.0,25.59,Approved,35.13,False
+INV-00372,DIST-011,High,714440.04,2026-06-10 10:37:50,Reviewer-C,0.0,14.48,Proceed,Manager-Y,0.0,8.65,Approved,23.12,False
+INV-00373,DIST-002,High,178389.25,2026-06-10 10:53:26,Reviewer-A,0.0,2.61,Returned,,,,Returned to Distributor,2.61,False
+INV-00374,DIST-003,Normal,606346.34,2026-06-10 11:36:34,Reviewer-B,0.0,15.25,Returned,,,,Returned to Distributor,15.25,False
+INV-00375,DIST-012,Normal,761763.36,2026-06-10 11:45:23,Reviewer-C,0.0,8.27,Proceed,Manager-Y,0.0,6.69,Approved,14.96,False
+INV-00376,DIST-010,Normal,484808.52,2026-06-10 11:51:24,Reviewer-A,0.0,19.98,Proceed,Manager-X,0.0,2.87,Approved,22.86,False
+INV-00377,DIST-012,Normal,707955.36,2026-06-10 12:10:45,Reviewer-B,0.0,3.62,Proceed,Manager-Y,0.0,27.31,Approved,30.92,False
+INV-00378,DIST-002,Normal,136321.92,2026-06-10 12:28:24,Reviewer-C,0.0,3.76,Proceed,Manager-X,0.0,7.29,Rejected,11.06,False
+INV-00379,DIST-005,High,396527.87,2026-06-10 12:31:12,Reviewer-A,0.0,0.45,Proceed,Manager-X,7.81,2.93,Approved,11.19,False
+INV-00380,DIST-004,Normal,711356.41,2026-06-10 12:42:17,Reviewer-B,0.0,0.57,Proceed,Manager-Y,0.0,4.18,Approved,4.75,False
+INV-00381,DIST-005,Normal,697975.73,2026-06-10 12:55:51,Reviewer-A,0.0,18.23,Proceed,Manager-X,0.0,7.71,Approved,25.94,False
+INV-00382,DIST-002,Normal,684292.76,2026-06-10 12:57:03,Reviewer-C,0.0,0.07,Proceed,Manager-Y,0.0,38.47,Approved,38.54,False
+INV-00383,DIST-006,High,584911.05,2026-06-10 13:17:52,Reviewer-B,0.0,0.42,Proceed,Manager-X,3.5,20.14,Approved,24.06,False
+INV-00384,DIST-004,Normal,767609.19,2026-06-10 14:28:15,Reviewer-C,0.0,0.83,Returned,,,,Returned to Distributor,0.83,False
+INV-00385,DIST-006,High,108535.87,2026-06-10 14:49:28,Reviewer-A,0.0,0.25,Returned,,,,Returned to Distributor,0.25,False
+INV-00386,DIST-012,Normal,338773.89,2026-06-10 14:56:17,Reviewer-B,0.0,6.9,Proceed,Manager-Y,0.0,2.3,Approved,9.19,False
+INV-00387,DIST-003,Normal,34278.78,2026-06-10 15:00:13,Reviewer-C,0.0,1.69,Proceed,Manager-X,0.0,5.04,Approved,6.74,False
+INV-00388,DIST-005,Normal,328647.91,2026-06-10 15:00:58,Reviewer-A,0.0,6.17,Proceed,Manager-Y,0.0,2.72,Rejected,8.9,False
+INV-00389,DIST-001,Normal,841046.06,2026-06-10 15:10:23,Reviewer-C,0.0,2.67,Proceed,Manager-X,0.0,6.3,Approved,8.97,False
+INV-00390,DIST-007,Normal,233518.15,2026-06-10 15:18:46,Reviewer-B,0.0,5.45,Proceed,Manager-Y,0.0,15.81,Approved,21.27,False
+INV-00391,DIST-008,Normal,452370.29,2026-06-10 15:38:36,Reviewer-A,0.0,47.03,Returned,,,,Returned to Distributor,47.03,False
+INV-00392,DIST-011,Normal,208774.11,2026-06-10 15:39:52,Reviewer-C,0.0,9.4,Proceed,Manager-X,0.0,13.72,Rejected,23.12,False
+INV-00393,DIST-007,Normal,304809.92,2026-06-10 15:50:10,Reviewer-B,0.0,11.19,Proceed,Manager-Y,0.0,8.53,Approved,19.72,False
+INV-00394,DIST-010,Normal,28834.55,2026-06-10 16:04:31,Reviewer-C,0.0,17.69,Proceed,Manager-X,0.0,7.87,Approved,25.56,False
+INV-00395,DIST-008,Normal,463095.29,2026-06-10 16:57:36,Reviewer-B,0.0,0.23,Proceed,Manager-Y,0.0,8.74,Approved,8.98,False
+INV-00396,DIST-010,Normal,175237.4,2026-06-11 08:04:50,Reviewer-A,0.0,7.57,Returned,,,,Returned to Distributor,7.57,False
+INV-00397,DIST-006,Normal,55324.79,2026-06-11 08:27:09,Reviewer-B,0.0,7.32,Proceed,Manager-X,0.0,1.12,Approved,8.44,False
+INV-00398,DIST-002,High,320684.21,2026-06-11 08:32:36,Reviewer-C,0.0,2.42,Proceed,Manager-Y,0.0,2.9,Approved,5.32,False
+INV-00399,DIST-007,High,674106.93,2026-06-11 08:34:39,Reviewer-A,0.0,5.03,Proceed,Manager-X,0.0,27.98,Approved,33.01,False
+INV-00400,DIST-006,Normal,193635.45,2026-06-11 09:06:22,Reviewer-B,0.0,1.16,Proceed,Manager-Y,0.0,11.08,Approved,12.24,False
+INV-00401,DIST-012,Normal,806649.95,2026-06-11 09:22:01,Reviewer-C,0.0,30.99,Returned,,,,Returned to Distributor,30.99,False
+INV-00402,DIST-010,Normal,273893.29,2026-06-11 09:22:25,Reviewer-A,0.0,5.67,Proceed,Manager-X,0.0,1.04,Approved,6.72,False
+INV-00403,DIST-002,High,206106.56,2026-06-11 09:27:15,Reviewer-B,0.0,0.88,Returned,,,,Returned to Distributor,0.88,False
+INV-00404,DIST-012,Normal,571170.76,2026-06-11 09:28:22,Reviewer-A,0.0,2.45,Proceed,Manager-Y,0.0,2.24,Approved,4.69,False
+INV-00405,DIST-002,Normal,613749.48,2026-06-11 09:33:32,Reviewer-B,0.0,3.46,Proceed,Manager-X,0.0,1.73,Approved,5.19,False
+INV-00406,DIST-006,Normal,466390.25,2026-06-11 09:59:10,Reviewer-A,0.0,3.92,Proceed,Manager-Y,0.0,10.0,Approved,13.92,False
+INV-00407,DIST-002,Normal,680319.41,2026-06-11 10:01:17,Reviewer-B,0.0,0.12,Proceed,Manager-X,0.0,1.05,Approved,1.17,False
+INV-00408,DIST-003,Normal,623527.4,2026-06-11 10:27:33,Reviewer-C,0.0,13.7,Proceed,Manager-X,0.0,8.56,Approved,22.27,False
+INV-00409,DIST-001,Normal,369468.22,2026-06-11 10:35:28,Reviewer-B,0.0,5.61,Proceed,Manager-Y,0.0,0.52,Approved,6.13,False
+INV-00410,DIST-007,Normal,594131.21,2026-06-11 11:19:27,Reviewer-A,0.0,7.86,Proceed,Manager-Y,0.0,3.14,Approved,11.0,False
+INV-00411,DIST-010,Normal,469464.93,2026-06-11 11:20:03,Reviewer-B,0.0,0.34,Proceed,Manager-X,0.0,0.87,Approved,1.21,False
+INV-00412,DIST-008,Normal,173725.21,2026-06-11 11:31:50,Reviewer-C,0.0,1.12,Proceed,Manager-X,0.0,0.81,Approved,1.94,False
+INV-00413,DIST-007,High,402948.06,2026-06-11 11:36:15,Reviewer-B,0.0,1.48,Proceed,Manager-Y,0.0,3.96,Approved,5.44,False
+INV-00414,DIST-003,Normal,381680.1,2026-06-11 11:42:01,Reviewer-A,0.0,3.75,Proceed,Manager-X,0.0,2.97,Approved,6.72,False
+INV-00415,DIST-011,Normal,86713.71,2026-06-11 11:58:46,Reviewer-C,0.0,9.91,Proceed,Manager-Y,0.0,13.42,Approved,23.33,False
+INV-00416,DIST-007,Normal,696552.41,2026-06-11 11:59:31,Reviewer-B,0.0,4.6,Proceed,Manager-X,0.0,6.12,Approved,10.72,False
+INV-00417,DIST-002,High,338609.69,2026-06-11 12:07:17,Reviewer-A,0.0,0.17,Proceed,Manager-X,2.79,5.87,Approved,8.83,False
+INV-00418,DIST-003,Normal,106638.18,2026-06-11 12:56:00,Reviewer-B,0.0,1.14,Returned,,,,Returned to Distributor,1.14,False
+INV-00419,DIST-004,Normal,111627.17,2026-06-11 13:38:59,Reviewer-A,0.0,26.68,Proceed,Manager-X,0.0,56.08,Approved,82.76,False
+INV-00420,DIST-005,Normal,275188.32,2026-06-11 14:00:32,Reviewer-C,0.0,9.88,Proceed,Manager-Y,0.0,7.72,Approved,17.6,False
+INV-00421,DIST-009,High,392142.82,2026-06-11 14:23:51,Reviewer-B,0.0,7.41,Proceed,Manager-Y,0.0,5.97,Approved,13.38,False
+INV-00422,DIST-003,Normal,483771.87,2026-06-11 14:30:16,Reviewer-A,0.0,20.09,Proceed,Manager-Y,0.0,1.06,Approved,21.15,False
+INV-00423,DIST-009,High,748714.74,2026-06-11 14:48:45,Reviewer-C,0.0,1.47,Proceed,Manager-Y,1.19,6.85,Approved,9.51,False
+INV-00424,DIST-007,Normal,126555.51,2026-06-11 14:51:01,Reviewer-B,0.0,7.1,Proceed,Manager-Y,0.15,20.93,Approved,28.18,False
+INV-00425,DIST-012,Normal,406559.37,2026-06-11 14:54:17,Reviewer-C,0.0,2.8,Proceed,Manager-X,4.67,14.99,Approved,22.45,False
+INV-00426,DIST-012,High,583699.96,2026-06-11 15:16:29,Reviewer-A,0.0,1.24,Proceed,Manager-X,0.0,10.99,Approved,12.24,False
+INV-00427,DIST-012,Normal,357172.95,2026-06-11 15:21:07,Reviewer-C,0.0,1.25,Proceed,Manager-Y,0.0,16.5,Approved,17.75,False
+INV-00428,DIST-006,Normal,698759.7,2026-06-11 15:38:13,Reviewer-B,0.0,1.04,Proceed,Manager-X,0.0,6.71,Approved,7.75,False
+INV-00429,DIST-010,Normal,29461.19,2026-06-11 16:01:06,Reviewer-A,0.0,10.74,Proceed,Manager-Y,0.0,2.73,Approved,13.46,False
+INV-00430,DIST-012,Normal,173247.76,2026-06-11 16:31:07,Reviewer-C,0.0,3.74,Proceed,Manager-X,0.0,24.37,Approved,28.11,False
+INV-00431,DIST-008,Normal,506966.84,2026-06-11 16:34:26,Reviewer-B,0.0,12.26,Proceed,Manager-Y,0.0,4.09,Approved,16.35,False
+INV-00432,DIST-012,Normal,81381.17,2026-06-12 08:16:35,Reviewer-A,0.0,0.31,Proceed,Manager-X,0.0,14.38,Approved,14.68,False
+INV-00433,DIST-004,Normal,577652.48,2026-06-12 08:19:35,Reviewer-B,0.0,3.16,Proceed,Manager-Y,0.0,14.4,Approved,17.56,False
+INV-00434,DIST-003,Normal,552028.96,2026-06-12 08:19:41,Reviewer-C,0.0,0.05,Proceed,Manager-X,11.52,15.53,Approved,27.11,False
+INV-00435,DIST-011,High,237694.88,2026-06-12 09:00:38,Reviewer-A,0.0,9.16,Proceed,Manager-Y,0.0,1.99,Approved,11.15,False
+INV-00436,DIST-010,Normal,340593.9,2026-06-12 09:09:27,Reviewer-C,0.0,4.3,Proceed,Manager-X,0.0,17.61,Approved,21.91,False
+INV-00437,DIST-010,Normal,243861.96,2026-06-12 09:21:58,Reviewer-B,0.0,3.94,Proceed,Manager-Y,0.0,3.07,Approved,7.02,False
+INV-00438,DIST-011,High,605874.24,2026-06-12 09:25:51,Reviewer-A,0.0,1.7,Proceed,Manager-Y,1.42,11.71,Approved,14.84,False
+INV-00439,DIST-010,Normal,346463.17,2026-06-12 09:45:30,Reviewer-C,0.0,0.9,Proceed,Manager-X,0.0,6.54,Approved,7.44,False
+INV-00440,DIST-007,Normal,333092.31,2026-06-12 10:13:59,Reviewer-B,0.0,7.39,Proceed,Manager-Y,0.0,2.0,Approved,9.39,False
+INV-00441,DIST-009,Normal,544374.98,2026-06-12 10:17:00,Reviewer-A,0.0,16.95,Proceed,Manager-X,0.0,3.39,Approved,20.34,False
+INV-00442,DIST-009,Normal,158059.8,2026-06-12 10:29:52,Reviewer-C,0.0,0.82,Proceed,Manager-Y,0.0,15.69,Approved,16.52,False
+INV-00443,DIST-011,Normal,765154.53,2026-06-12 10:32:18,Reviewer-B,0.0,1.51,Proceed,Manager-X,3.54,19.49,Approved,24.54,False
+INV-00444,DIST-006,Normal,225172.55,2026-06-12 10:58:26,Reviewer-C,0.0,11.43,Proceed,Manager-Y,0.0,19.12,Approved,30.55,False
+INV-00445,DIST-002,Normal,404025.63,2026-06-12 11:33:06,Reviewer-B,0.0,0.77,Proceed,Manager-X,0.0,7.17,Approved,7.94,False
+INV-00446,DIST-003,Normal,121073.64,2026-06-12 11:57:39,Reviewer-A,0.0,3.16,Proceed,Manager-Y,0.0,22.53,Approved,25.68,False
+INV-00447,DIST-012,Normal,157401.47,2026-06-12 12:02:13,Reviewer-C,0.0,2.43,Returned,,,,Returned to Distributor,2.43,False
+INV-00448,DIST-001,Normal,8982.91,2026-06-12 12:06:44,Reviewer-B,0.0,8.59,Proceed,Manager-X,0.0,13.74,Approved,22.33,False
+INV-00449,DIST-002,Normal,114348.03,2026-06-12 12:24:02,Reviewer-A,0.0,3.37,Proceed,Manager-Y,0.0,6.16,Approved,9.53,False
+INV-00450,DIST-012,Normal,320270.69,2026-06-12 12:33:12,Reviewer-C,0.0,2.33,Proceed,Manager-X,0.0,2.01,Approved,4.34,False
+INV-00451,DIST-004,High,196194.53,2026-06-12 12:45:01,Reviewer-B,0.0,1.8,Proceed,Manager-Y,0.0,5.65,Approved,7.45,False
+INV-00452,DIST-001,Normal,256980.9,2026-06-12 12:45:50,Reviewer-A,0.0,7.81,Proceed,Manager-X,0.0,3.92,Approved,11.72,False
+INV-00453,DIST-006,Normal,846737.38,2026-06-12 13:50:36,Reviewer-C,0.0,8.32,Proceed,Manager-Y,0.0,22.55,Approved,30.87,False
+INV-00454,DIST-004,Normal,619457.66,2026-06-12 13:50:50,Reviewer-B,0.0,7.95,Proceed,Manager-X,0.0,1.76,Approved,9.71,False
+INV-00455,DIST-001,Normal,322037.61,2026-06-12 14:03:27,Reviewer-A,0.0,8.85,Proceed,Manager-X,0.0,8.56,Approved,17.41,False
+INV-00456,DIST-001,Normal,45758.62,2026-06-12 14:04:49,Reviewer-B,0.0,3.53,Proceed,Manager-X,12.51,2.77,Approved,18.81,False
+INV-00457,DIST-011,Normal,537613.08,2026-06-12 14:07:35,Reviewer-C,0.0,6.5,Proceed,Manager-Y,7.39,2.99,Approved,16.88,False
+INV-00458,DIST-002,Normal,437289.14,2026-06-12 14:09:21,Reviewer-B,0.0,1.99,Proceed,Manager-X,12.28,6.54,Approved,20.82,False
+INV-00459,DIST-009,Normal,827286.17,2026-06-12 14:27:25,Reviewer-B,0.0,3.16,Proceed,Manager-Y,0.0,7.55,Approved,10.71,False
+INV-00460,DIST-008,Normal,284360.06,2026-06-12 14:41:24,Reviewer-A,0.0,6.68,Returned,,,,Returned to Distributor,6.68,False
+INV-00461,DIST-011,High,422517.9,2026-06-12 15:03:02,Reviewer-C,0.0,7.26,Proceed,Manager-X,0.0,10.38,Approved,17.64,False
+INV-00462,DIST-008,Normal,840422.71,2026-06-12 15:15:26,Reviewer-B,0.0,3.74,Proceed,Manager-Y,0.0,1.82,Approved,5.57,False
+INV-00463,DIST-011,Normal,269237.51,2026-06-12 15:19:33,Reviewer-A,0.0,0.6,Proceed,Manager-X,0.52,0.45,Approved,1.56,False
+INV-00464,DIST-003,High,282718.4,2026-06-12 15:32:37,Reviewer-C,0.0,14.89,Proceed,Manager-Y,0.0,10.67,Approved,25.56,False
+INV-00465,DIST-002,High,343657.0,2026-06-12 15:37:39,Reviewer-B,0.0,1.52,Proceed,Manager-X,0.0,15.36,Approved,16.88,False
+INV-00466,DIST-003,Normal,100532.79,2026-06-12 15:50:13,Reviewer-A,0.0,0.36,Returned,,,,Returned to Distributor,0.36,False
+INV-00467,DIST-007,Normal,774986.61,2026-06-12 15:52:18,Reviewer-B,0.0,5.05,Proceed,Manager-X,0.0,8.98,Approved,14.03,False
+INV-00468,DIST-011,Normal,748557.96,2026-06-12 16:03:38,Reviewer-C,0.0,13.34,Proceed,Manager-Y,0.0,6.36,Approved,19.7,False
+INV-00469,DIST-002,Normal,226062.87,2026-06-12 16:10:37,Reviewer-A,0.0,7.32,Proceed,Manager-X,0.0,13.86,Approved,21.18,False
+INV-00470,DIST-011,Normal,742806.31,2026-06-12 16:20:36,Reviewer-B,0.0,6.99,Proceed,Manager-Y,0.0,5.39,Approved,12.38,False
+INV-00471,DIST-011,Normal,576469.76,2026-06-12 16:28:30,Reviewer-C,0.0,10.96,Proceed,Manager-X,0.0,41.85,Approved,52.81,False
+INV-00472,DIST-003,Normal,432204.6,2026-06-12 16:40:52,Reviewer-A,0.0,4.11,Proceed,Manager-Y,0.0,13.22,Approved,17.33,False
+INV-00473,DIST-005,Normal,47546.35,2026-06-12 16:45:41,Reviewer-B,0.0,6.19,Proceed,Manager-Y,6.33,2.54,Approved,15.06,False
+INV-00474,DIST-008,Normal,382772.56,2026-06-13 08:07:07,Reviewer-A,0.0,4.13,Proceed,Manager-X,0.0,1.03,Approved,5.16,False
+INV-00475,DIST-001,Normal,702892.9,2026-06-13 08:16:54,Reviewer-B,0.0,19.81,Proceed,Manager-Y,0.0,20.98,Approved,40.79,False
+INV-00476,DIST-008,Normal,808050.08,2026-06-13 08:29:39,Reviewer-C,0.0,0.33,Proceed,Manager-X,0.0,5.76,Approved,6.09,False
+INV-00477,DIST-008,Normal,610576.07,2026-06-13 08:41:15,Reviewer-A,0.0,3.61,Proceed,Manager-X,0.0,10.22,Approved,13.83,False
+INV-00478,DIST-011,Normal,819946.46,2026-06-13 08:46:31,Reviewer-C,0.0,4.43,Proceed,Manager-X,4.14,0.45,Approved,9.01,False
+INV-00479,DIST-012,Normal,632421.7,2026-06-13 08:48:20,Reviewer-B,0.0,1.76,Proceed,Manager-X,5.44,1.22,Approved,8.42,False
+INV-00480,DIST-004,Normal,610685.79,2026-06-13 08:51:15,Reviewer-A,0.0,3.21,Returned,,,,Returned to Distributor,3.21,False
+INV-00481,DIST-010,High,109120.22,2026-06-13 09:13:03,Reviewer-B,0.0,2.93,Proceed,Manager-X,0.0,5.67,Rejected,8.6,False
+INV-00482,DIST-012,High,46043.01,2026-06-13 09:13:06,Reviewer-C,0.0,8.76,Proceed,Manager-Y,0.0,5.73,Approved,14.49,False
+INV-00483,DIST-010,Normal,151734.48,2026-06-13 09:15:27,Reviewer-A,0.0,0.66,Proceed,Manager-X,5.55,8.85,Approved,15.06,False
+INV-00484,DIST-007,High,832678.14,2026-06-13 09:41:02,Reviewer-B,0.0,6.9,Proceed,Manager-Y,0.0,26.75,Rejected,33.65,False
+INV-00485,DIST-003,Normal,121762.1,2026-06-13 09:48:16,Reviewer-A,0.0,13.05,Proceed,Manager-X,0.0,17.59,Approved,30.65,False
+INV-00486,DIST-012,Normal,795507.71,2026-06-13 09:52:47,Reviewer-C,0.0,1.35,Proceed,Manager-Y,20.55,3.26,Approved,25.15,False
+INV-00487,DIST-012,High,554323.0,2026-06-13 10:06:11,Reviewer-B,0.0,3.36,Proceed,Manager-Y,8.4,3.14,Approved,14.91,False
+INV-00488,DIST-008,High,497471.3,2026-06-13 10:11:23,Reviewer-C,0.0,5.94,Proceed,Manager-X,1.58,18.11,Approved,25.64,False
+INV-00489,DIST-007,Normal,688017.54,2026-06-13 10:36:35,Reviewer-A,0.0,0.15,Proceed,Manager-Y,0.0,10.54,Approved,10.69,False
+INV-00490,DIST-003,Normal,836084.87,2026-06-13 10:53:14,Reviewer-B,0.0,0.95,Proceed,Manager-X,0.0,14.57,Approved,15.52,False
+INV-00491,DIST-006,Normal,692852.15,2026-06-13 11:02:35,Reviewer-C,0.0,12.15,Proceed,Manager-Y,0.0,19.01,Approved,31.16,False
+INV-00492,DIST-004,Normal,436729.35,2026-06-13 11:12:28,Reviewer-A,0.0,7.15,Proceed,Manager-X,0.0,0.46,Approved,7.6,False
+INV-00493,DIST-011,Normal,269192.61,2026-06-13 11:18:56,Reviewer-B,0.0,0.08,Proceed,Manager-X,1.06,9.21,Approved,10.34,False
+INV-00494,DIST-004,Normal,775205.99,2026-06-13 11:43:25,Reviewer-C,0.0,6.26,Proceed,Manager-X,0.0,7.51,Approved,13.77,False
+INV-00495,DIST-004,Normal,253580.17,2026-06-13 12:01:23,Reviewer-B,0.0,6.89,Proceed,Manager-Y,0.0,1.81,Approved,8.7,False
+INV-00496,DIST-007,Normal,240849.85,2026-06-13 12:07:04,Reviewer-A,0.0,1.05,Proceed,Manager-X,0.0,0.05,Approved,1.11,False
+INV-00497,DIST-001,Normal,134879.36,2026-06-13 12:40:20,Reviewer-C,0.0,0.31,Returned,,,,Returned to Distributor,0.31,False
+INV-00498,DIST-011,Normal,259475.82,2026-06-13 12:51:49,Reviewer-A,0.0,4.79,Proceed,Manager-X,0.0,11.68,Approved,16.48,False
+INV-00499,DIST-009,Normal,62609.12,2026-06-13 13:29:34,Reviewer-B,0.0,3.23,Proceed,Manager-Y,0.0,0.92,Approved,4.14,False
+INV-00500,DIST-006,Normal,284751.22,2026-06-13 13:32:27,Reviewer-C,0.0,18.01,Proceed,Manager-X,0.0,6.12,Approved,24.13,False
+INV-00501,DIST-011,Normal,12439.12,2026-06-13 13:49:11,Reviewer-A,0.0,3.54,Returned,,,,Returned to Distributor,3.54,False
+INV-00502,DIST-010,Normal,211033.95,2026-06-13 14:00:36,Reviewer-B,0.0,13.01,Proceed,Manager-Y,0.0,15.11,Approved,28.12,False
+INV-00503,DIST-012,High,243990.5,2026-06-13 14:04:09,Reviewer-C,0.0,8.29,Proceed,Manager-X,0.0,13.11,Approved,21.4,False
+INV-00504,DIST-011,Normal,167672.97,2026-06-13 14:04:42,Reviewer-A,0.0,17.76,Proceed,Manager-X,3.1,29.73,Approved,50.59,False
+INV-00505,DIST-002,Normal,183110.35,2026-06-13 14:04:47,Reviewer-C,7.66,1.44,Proceed,Manager-Y,14.84,17.16,Approved,41.09,False
+INV-00506,DIST-012,Normal,660049.7,2026-06-13 14:25:57,Reviewer-B,0.0,16.86,Proceed,Manager-Y,3.06,1.59,Approved,21.5,False
+INV-00507,DIST-002,Normal,66894.58,2026-06-13 14:30:48,Reviewer-C,0.0,1.74,Proceed,Manager-Y,14.93,16.38,Approved,33.04,False
+INV-00508,DIST-008,Normal,537533.59,2026-06-13 14:37:05,Reviewer-A,0.0,0.1,Proceed,Manager-X,18.11,7.27,Approved,25.48,False
+INV-00509,DIST-012,Normal,499838.77,2026-06-13 14:48:38,Reviewer-C,0.0,0.45,Returned,,,,Returned to Distributor,0.45,False
+INV-00510,DIST-011,Normal,259641.35,2026-06-13 14:49:59,Reviewer-A,0.0,8.7,Proceed,Manager-X,3.88,4.78,Approved,17.35,False
+INV-00511,DIST-009,Normal,190786.54,2026-06-13 14:57:41,Reviewer-B,0.0,9.56,Proceed,Manager-Y,0.0,3.32,Approved,12.88,False
+INV-00512,DIST-012,High,552509.81,2026-06-13 15:01:56,Reviewer-C,0.0,0.05,Proceed,Manager-X,5.34,1.23,Approved,6.63,False
+INV-00513,DIST-007,High,458893.48,2026-06-13 15:12:08,Reviewer-A,0.0,1.74,Proceed,Manager-X,0.0,18.88,Approved,20.63,False
+INV-00514,DIST-011,Normal,724482.73,2026-06-13 15:18:32,Reviewer-C,0.0,1.22,Proceed,Manager-Y,0.0,2.77,Approved,3.99,False
+INV-00515,DIST-010,High,725152.2,2026-06-13 15:31:52,Reviewer-B,0.0,12.93,Returned,,,,Returned to Distributor,12.93,False
+INV-00516,DIST-009,Normal,66807.16,2026-06-13 15:39:17,Reviewer-A,0.0,1.73,Proceed,Manager-Y,0.0,8.25,Rejected,9.99,False
+INV-00517,DIST-011,Normal,558874.67,2026-06-13 15:44:35,Reviewer-C,0.0,5.8,Returned,,,,Returned to Distributor,5.8,False
+INV-00518,DIST-008,Normal,282452.44,2026-06-13 15:49:11,Reviewer-A,0.0,7.09,Proceed,Manager-X,0.0,7.95,Approved,15.04,False
+INV-00519,DIST-003,Normal,9082.94,2026-06-13 16:27:25,Reviewer-B,0.0,1.5,Proceed,Manager-Y,0.0,5.44,Approved,6.95,False
+INV-00520,DIST-012,Normal,285170.69,2026-06-13 16:29:08,Reviewer-C,0.0,3.54,Proceed,Manager-X,0.0,6.34,Approved,9.88,False
+INV-00521,DIST-002,High,716315.08,2026-06-13 16:41:35,Reviewer-A,0.0,0.72,Proceed,Manager-Y,0.0,2.47,Approved,3.19,False
+INV-00522,DIST-002,Normal,758828.88,2026-06-13 16:42:33,Reviewer-B,0.0,5.99,Proceed,Manager-X,0.0,8.22,Approved,14.21,False
+INV-00523,DIST-001,Normal,471096.93,2026-06-13 16:45:25,Reviewer-C,0.0,40.0,Proceed,Manager-Y,0.0,14.18,Approved,54.18,False
+INV-00524,DIST-010,Normal,624576.67,2026-06-13 16:48:27,Reviewer-A,0.0,3.75,Proceed,Manager-X,4.56,4.8,Approved,13.11,False
+INV-00525,DIST-010,Normal,583116.6,2026-06-15 08:22:36,Reviewer-A,0.0,0.91,Proceed,Manager-X,0.0,7.94,Approved,8.85,False
+INV-00526,DIST-003,Normal,626852.24,2026-06-15 08:47:17,Reviewer-B,0.0,2.67,Proceed,Manager-Y,0.0,6.35,Approved,9.02,False
+INV-00527,DIST-001,Normal,569954.83,2026-06-15 08:52:49,Reviewer-C,0.0,9.41,Proceed,Manager-X,0.0,23.75,Approved,33.15,False
+INV-00528,DIST-011,Normal,278840.09,2026-06-15 08:53:18,Reviewer-A,0.0,4.42,Proceed,Manager-Y,0.0,17.11,Approved,21.53,False
+INV-00529,DIST-003,Normal,323277.34,2026-06-15 09:02:44,Reviewer-B,0.0,5.32,Returned,,,,Returned to Distributor,5.32,False
+INV-00530,DIST-005,High,322997.82,2026-06-15 09:03:43,Reviewer-A,0.0,3.49,Proceed,Manager-Y,7.64,16.33,Approved,27.46,False
+INV-00531,DIST-010,High,10575.05,2026-06-15 09:11:36,Reviewer-C,0.0,2.78,Proceed,Manager-X,11.58,5.84,Approved,20.2,False
+INV-00532,DIST-003,Normal,311078.39,2026-06-15 09:13:34,Reviewer-A,0.0,0.76,Proceed,Manager-Y,16.86,15.84,Approved,33.45,False
+INV-00533,DIST-008,Normal,409772.88,2026-06-15 09:21:27,Reviewer-B,0.0,6.25,Proceed,Manager-X,4.11,2.65,Approved,13.02,False
+INV-00534,DIST-003,Normal,536961.66,2026-06-15 09:32:13,Reviewer-A,0.0,5.1,Proceed,Manager-X,0.0,2.84,Approved,7.93,False
+INV-00535,DIST-010,Normal,824010.92,2026-06-15 10:10:19,Reviewer-C,0.0,12.65,Proceed,Manager-X,0.0,16.36,Rejected,29.01,False
+INV-00536,DIST-010,High,843895.57,2026-06-15 10:13:15,Reviewer-B,0.0,0.9,Proceed,Manager-Y,0.0,7.42,Approved,8.31,False
+INV-00537,DIST-003,Normal,531613.92,2026-06-15 10:33:51,Reviewer-A,0.0,1.1,Proceed,Manager-Y,0.0,24.28,Approved,25.38,False
+INV-00538,DIST-007,Normal,330715.29,2026-06-15 10:34:43,Reviewer-B,0.0,1.36,Proceed,Manager-X,3.26,6.67,Approved,11.28,False
+INV-00539,DIST-002,High,154921.75,2026-06-15 10:36:39,Reviewer-C,0.0,4.4,Proceed,Manager-X,4.94,6.12,Approved,15.46,False
+INV-00540,DIST-011,Normal,115127.87,2026-06-15 10:37:50,Reviewer-A,0.0,10.54,Returned,,,,Returned to Distributor,10.54,False
+INV-00541,DIST-011,Normal,369614.82,2026-06-15 10:55:43,Reviewer-B,0.0,12.47,Proceed,Manager-X,0.0,5.32,Rejected,17.79,False
+INV-00542,DIST-007,Normal,301187.55,2026-06-15 11:03:37,Reviewer-C,0.0,14.31,Proceed,Manager-Y,0.0,8.15,Approved,22.46,False
+INV-00543,DIST-004,Normal,774022.13,2026-06-15 11:07:09,Reviewer-A,0.0,5.47,Proceed,Manager-X,0.9,2.83,Approved,9.2,False
+INV-00544,DIST-001,Normal,493399.14,2026-06-15 11:23:29,Reviewer-B,0.0,0.04,Proceed,Manager-X,0.0,11.06,Approved,11.1,False
+INV-00545,DIST-003,Normal,365030.49,2026-06-15 11:28:53,Reviewer-A,0.0,1.82,Proceed,Manager-Y,0.0,7.9,Approved,9.72,False
+INV-00546,DIST-007,Normal,642951.26,2026-06-15 12:26:31,Reviewer-C,0.0,9.19,Proceed,Manager-X,0.0,4.39,Approved,13.58,False
+INV-00547,DIST-005,Normal,493115.22,2026-06-15 12:30:02,Reviewer-B,0.0,3.05,Proceed,Manager-Y,0.0,18.94,Approved,21.99,False
+INV-00548,DIST-012,Normal,807112.18,2026-06-15 12:33:10,Reviewer-A,0.0,4.26,Proceed,Manager-X,2.68,15.33,Approved,22.27,False
+INV-00549,DIST-001,High,140823.62,2026-06-15 12:47:01,Reviewer-B,0.0,0.03,Proceed,Manager-Y,4.98,1.27,Approved,6.28,False
+INV-00550,DIST-002,Normal,227312.74,2026-06-15 12:53:52,Reviewer-C,0.0,5.63,Proceed,Manager-Y,0.0,25.36,Approved,30.99,False
+INV-00551,DIST-005,Normal,606306.93,2026-06-15 13:06:41,Reviewer-A,0.0,17.48,Proceed,Manager-X,0.0,9.71,Approved,27.19,False
+INV-00552,DIST-011,Normal,791490.9,2026-06-15 13:09:23,Reviewer-B,0.0,1.3,Proceed,Manager-Y,14.18,6.79,Approved,22.26,False
+INV-00553,DIST-011,Normal,35471.66,2026-06-15 13:20:51,Reviewer-C,0.0,0.0,Proceed,Manager-Y,10.8,54.62,Approved,65.43,False
+INV-00554,DIST-007,Normal,347606.07,2026-06-15 13:26:04,Reviewer-B,0.0,0.09,Proceed,Manager-X,7.71,23.9,Approved,31.7,False
+INV-00555,DIST-009,Normal,778182.58,2026-06-15 13:41:37,Reviewer-C,0.0,19.83,Proceed,Manager-X,0.0,8.86,Approved,28.68,False
+INV-00556,DIST-010,Normal,8930.48,2026-06-15 14:13:28,Reviewer-A,0.0,4.23,Proceed,Manager-X,0.0,6.65,Approved,10.88,False
+INV-00557,DIST-009,High,813419.4,2026-06-15 14:14:58,Reviewer-B,0.0,8.05,Proceed,Manager-X,1.33,9.57,Rejected,18.95,False
+INV-00558,DIST-004,High,645064.93,2026-06-15 14:24:54,Reviewer-C,0.0,2.95,Proceed,Manager-Y,0.0,7.14,Approved,10.08,False
+INV-00559,DIST-002,Normal,328358.89,2026-06-15 14:26:23,Reviewer-A,0.0,1.49,Proceed,Manager-X,6.04,15.3,Approved,22.83,False
+INV-00560,DIST-009,Normal,13216.1,2026-06-15 14:31:37,Reviewer-B,0.0,1.71,Proceed,Manager-Y,1.66,10.64,Approved,14.01,False
+INV-00561,DIST-003,Normal,407689.36,2026-06-15 14:32:34,Reviewer-C,0.0,13.48,Proceed,Manager-Y,0.0,27.93,Approved,41.41,False
+INV-00562,DIST-008,Normal,627859.85,2026-06-15 15:01:27,Reviewer-A,0.0,1.66,Proceed,Manager-X,0.0,2.47,Approved,4.14,False
+INV-00563,DIST-006,Normal,136816.26,2026-06-15 15:23:10,Reviewer-B,0.0,15.17,Proceed,Manager-X,0.0,10.34,Approved,25.51,False
+INV-00564,DIST-009,Normal,814504.16,2026-06-15 15:40:31,Reviewer-C,0.0,2.78,Proceed,Manager-Y,0.0,21.7,Approved,24.48,False
+INV-00565,DIST-005,High,419730.52,2026-06-15 15:50:46,Reviewer-A,0.0,11.89,Proceed,Manager-X,0.0,2.03,Approved,13.92,False
+INV-00566,DIST-007,Normal,409180.46,2026-06-15 15:51:26,Reviewer-B,0.0,4.19,Proceed,Manager-X,9.06,11.01,Approved,24.26,False
+INV-00567,DIST-012,Normal,442883.34,2026-06-15 16:36:27,Reviewer-C,0.0,0.05,Proceed,Manager-Y,0.0,4.53,Approved,4.58,False
+INV-00568,DIST-005,Normal,163143.81,2026-06-15 16:41:50,Reviewer-B,0.0,1.88,Returned,,,,Returned to Distributor,1.88,False
+INV-00569,DIST-003,Normal,426460.66,2026-06-15 16:46:52,Reviewer-A,0.0,7.24,Proceed,Manager-X,0.0,18.3,Approved,25.54,False
+INV-00570,DIST-003,Normal,832485.22,2026-06-15 16:49:15,Reviewer-C,0.0,10.1,Proceed,Manager-Y,0.0,15.49,Approved,25.58,False
+INV-00571,DIST-012,Normal,131368.11,2026-06-16 08:02:37,Reviewer-A,0.0,1.17,Proceed,Manager-X,0.0,51.47,Approved,52.63,False
+INV-00572,DIST-012,Normal,271789.52,2026-06-16 08:11:21,Reviewer-B,0.0,1.73,Proceed,Manager-Y,0.0,0.46,Approved,2.2,False
+INV-00573,DIST-004,Normal,692676.27,2026-06-16 08:13:29,Reviewer-C,0.0,5.96,Proceed,Manager-Y,0.0,3.87,Approved,9.83,False
+INV-00574,DIST-005,Normal,295798.53,2026-06-16 08:23:21,Reviewer-A,0.0,2.59,Proceed,Manager-Y,0.0,8.84,Approved,11.43,False
+INV-00575,DIST-009,Normal,152485.32,2026-06-16 08:35:56,Reviewer-B,0.0,2.63,Proceed,Manager-Y,0.0,6.35,Approved,8.98,False
+INV-00576,DIST-007,Normal,523545.89,2026-06-16 09:02:23,Reviewer-C,0.0,18.82,Proceed,Manager-Y,0.0,9.72,Approved,28.54,False
+INV-00577,DIST-010,Normal,488033.75,2026-06-16 09:08:58,Reviewer-A,0.0,0.44,Proceed,Manager-X,0.0,2.46,Approved,2.91,False
+INV-00578,DIST-005,Normal,516550.3,2026-06-16 09:13:06,Reviewer-B,0.0,13.12,Proceed,Manager-X,0.0,26.53,Approved,39.65,False
+INV-00579,DIST-008,Normal,354820.76,2026-06-16 09:21:55,Reviewer-A,0.0,0.14,Proceed,Manager-Y,8.87,10.31,Rejected,19.31,False
+INV-00580,DIST-002,Normal,182932.91,2026-06-16 09:36:24,Reviewer-C,0.0,0.6,Returned,,,,Returned to Distributor,0.6,False
+INV-00581,DIST-001,Normal,27278.35,2026-06-16 09:44:05,Reviewer-A,0.0,8.69,Proceed,Manager-Y,0.0,2.89,Approved,11.58,False
+INV-00582,DIST-007,Normal,266418.2,2026-06-16 09:56:51,Reviewer-B,0.0,2.01,Proceed,Manager-X,0.0,1.34,Approved,3.34,False
+INV-00583,DIST-011,High,306530.85,2026-06-16 09:57:12,Reviewer-C,0.0,9.59,Proceed,Manager-Y,0.0,16.53,Rejected,26.12,False
+INV-00584,DIST-003,Normal,824263.21,2026-06-16 10:06:45,Reviewer-A,0.0,1.17,Proceed,Manager-X,0.0,9.47,Approved,10.64,False
+INV-00585,DIST-009,Normal,545619.6,2026-06-16 10:16:42,Reviewer-B,0.0,14.38,Proceed,Manager-X,0.0,2.45,Approved,16.82,False
+INV-00586,DIST-007,Normal,224536.95,2026-06-16 10:21:07,Reviewer-C,0.0,0.0,Proceed,Manager-Y,2.2,17.89,Approved,20.09,False
+INV-00587,DIST-001,Normal,586165.62,2026-06-16 10:28:43,Reviewer-A,0.0,8.45,Proceed,Manager-X,0.0,13.79,Approved,22.24,False
+INV-00588,DIST-001,Normal,468239.31,2026-06-16 10:39:38,Reviewer-C,0.0,12.83,Proceed,Manager-Y,0.0,2.73,Approved,15.56,False
+INV-00589,DIST-007,Normal,191400.6,2026-06-16 10:52:05,Reviewer-B,0.0,5.89,Proceed,Manager-X,0.0,15.29,Approved,21.18,False
+INV-00590,DIST-005,Normal,245551.94,2026-06-16 11:06:18,Reviewer-A,0.0,9.93,Proceed,Manager-Y,0.0,18.25,Approved,28.17,False
+INV-00591,DIST-011,Normal,389764.85,2026-06-16 11:10:24,Reviewer-C,0.0,7.23,Proceed,Manager-X,0.0,3.67,Approved,10.91,False
+INV-00592,DIST-001,Normal,162117.27,2026-06-16 11:52:22,Reviewer-B,0.0,1.88,Proceed,Manager-X,0.0,12.34,Approved,14.22,False
+INV-00593,DIST-008,Normal,188523.93,2026-06-16 11:54:20,Reviewer-A,0.0,9.24,Proceed,Manager-Y,0.0,4.41,Approved,13.65,False
+INV-00594,DIST-002,High,717796.62,2026-06-16 11:54:43,Reviewer-C,0.0,0.28,Proceed,Manager-X,11.6,0.6,Approved,12.47,False
+INV-00595,DIST-005,Normal,695576.86,2026-06-16 11:57:16,Reviewer-B,0.0,0.78,Proceed,Manager-X,9.13,2.72,Approved,12.63,False
+INV-00596,DIST-012,Normal,845382.42,2026-06-16 12:04:18,Reviewer-C,0.0,7.98,Proceed,Manager-Y,0.0,10.42,Approved,18.39,False
+INV-00597,DIST-005,Normal,796101.88,2026-06-16 12:10:13,Reviewer-B,0.0,7.82,Proceed,Manager-X,0.0,7.58,Approved,15.39,False
+INV-00598,DIST-005,High,172921.47,2026-06-16 12:18:05,Reviewer-A,0.0,9.56,Proceed,Manager-Y,0.0,0.97,Approved,10.53,False
+INV-00599,DIST-003,Normal,676259.89,2026-06-16 12:22:48,Reviewer-C,0.0,3.02,Proceed,Manager-X,0.0,32.95,Approved,35.97,False
+INV-00600,DIST-012,Normal,508799.38,2026-06-16 12:36:53,Reviewer-B,0.0,0.56,Proceed,Manager-Y,0.0,0.91,Approved,1.47,False
+INV-00601,DIST-011,Normal,55744.22,2026-06-16 13:08:56,Reviewer-C,0.0,1.0,Proceed,Manager-Y,0.0,1.08,Approved,2.08,False
+INV-00602,DIST-009,Normal,671334.74,2026-06-16 13:13:30,Reviewer-A,0.0,9.82,Proceed,Manager-X,0.0,2.04,Approved,11.86,False
+INV-00603,DIST-003,Normal,216838.32,2026-06-16 13:18:50,Reviewer-B,0.0,7.36,Proceed,Manager-Y,0.0,7.43,Approved,14.79,False
+INV-00604,DIST-009,Normal,298776.65,2026-06-16 13:28:52,Reviewer-C,0.0,1.93,Proceed,Manager-X,0.0,23.36,Approved,25.29,False
+INV-00605,DIST-003,Normal,384729.65,2026-06-16 13:29:43,Reviewer-A,0.0,4.68,Proceed,Manager-Y,0.0,14.21,Approved,18.89,False
+INV-00606,DIST-001,Normal,528675.74,2026-06-16 13:45:36,Reviewer-B,0.0,5.81,Proceed,Manager-Y,0.0,0.62,Rejected,6.43,False
+INV-00607,DIST-004,Normal,447838.95,2026-06-16 14:06:06,Reviewer-C,0.0,4.81,Proceed,Manager-Y,0.0,3.7,Approved,8.51,False
+INV-00608,DIST-009,Normal,561762.92,2026-06-16 14:07:31,Reviewer-A,0.0,16.66,Proceed,Manager-X,0.0,0.3,Approved,16.97,False
+INV-00609,DIST-001,Normal,487505.29,2026-06-16 14:10:04,Reviewer-B,0.0,6.44,Proceed,Manager-Y,0.0,11.48,Approved,17.92,False
+INV-00610,DIST-010,Normal,611579.19,2026-06-16 14:15:32,Reviewer-C,0.0,15.23,Proceed,Manager-X,0.0,25.05,Approved,40.28,False
+INV-00611,DIST-011,Normal,56291.66,2026-06-16 14:23:07,Reviewer-B,0.0,16.71,Proceed,Manager-Y,0.0,4.38,Approved,21.08,False
+INV-00612,DIST-005,Normal,452022.6,2026-06-16 14:43:56,Reviewer-A,0.0,10.79,Proceed,Manager-Y,0.0,2.31,Approved,13.1,False
+INV-00613,DIST-004,Normal,454253.59,2026-06-16 14:45:13,Reviewer-C,0.0,4.48,Proceed,Manager-X,6.12,9.33,Approved,19.93,False
+INV-00614,DIST-007,Normal,635461.58,2026-06-16 15:01:49,Reviewer-B,0.0,5.16,Proceed,Manager-Y,0.0,11.52,Approved,16.67,False
+INV-00615,DIST-003,Normal,469720.82,2026-06-16 15:03:08,Reviewer-C,0.0,6.43,Proceed,Manager-X,0.0,8.7,Rejected,15.13,False
+INV-00616,DIST-009,Normal,842786.23,2026-06-16 15:31:04,Reviewer-A,0.0,2.79,Proceed,Manager-X,0.0,5.35,Approved,8.14,False
+INV-00617,DIST-010,Normal,466054.17,2026-06-16 15:42:19,Reviewer-B,0.0,4.79,Proceed,Manager-Y,0.0,4.24,Approved,9.03,False
+INV-00618,DIST-001,High,618734.72,2026-06-16 16:20:54,Reviewer-C,0.0,4.35,Proceed,Manager-X,0.0,40.56,Approved,44.9,False
+INV-00619,DIST-004,Normal,186525.28,2026-06-16 16:25:11,Reviewer-A,0.0,8.86,Returned,,,,Returned to Distributor,8.86,False
+INV-00620,DIST-009,Normal,437024.41,2026-06-16 16:45:55,Reviewer-B,0.0,5.09,Proceed,Manager-Y,0.0,5.86,Approved,10.95,False
+INV-00621,DIST-010,Normal,216129.09,2026-06-16 16:49:36,Reviewer-C,0.0,2.14,Proceed,Manager-Y,5.11,8.0,Approved,15.25,False
+INV-00622,DIST-006,Normal,675004.04,2026-06-16 16:50:34,Reviewer-A,0.0,10.48,Proceed,Manager-Y,3.8,8.16,Approved,22.44,False
+INV-00623,DIST-012,Normal,688048.29,2026-06-17 08:04:17,Reviewer-A,0.0,9.09,Returned,,,,Returned to Distributor,9.09,False
+INV-00624,DIST-007,High,356960.85,2026-06-17 08:09:10,Reviewer-B,0.0,9.79,Proceed,Manager-X,0.0,8.54,Approved,18.33,False
+INV-00625,DIST-011,Normal,328201.48,2026-06-17 08:09:18,Reviewer-C,0.0,0.25,Proceed,Manager-Y,0.0,1.54,Approved,1.79,False
+INV-00626,DIST-001,High,574221.78,2026-06-17 08:12:18,Reviewer-C,0.0,17.0,Proceed,Manager-Y,0.0,6.91,Approved,23.92,False
+INV-00627,DIST-007,Normal,130070.48,2026-06-17 08:19:05,Reviewer-A,0.0,3.88,Proceed,Manager-X,4.53,7.55,Approved,15.96,False
+INV-00628,DIST-007,Normal,658882.24,2026-06-17 08:25:11,Reviewer-B,0.0,0.87,Proceed,Manager-X,8.99,6.36,Approved,16.21,False
+INV-00629,DIST-010,Normal,847531.56,2026-06-17 08:27:48,Reviewer-A,0.0,1.66,Proceed,Manager-Y,6.74,5.34,Approved,13.75,False
+INV-00630,DIST-002,Normal,572626.68,2026-06-17 08:38:06,Reviewer-B,0.0,2.57,Proceed,Manager-X,0.73,8.56,Approved,11.86,False
+INV-00631,DIST-006,High,525706.74,2026-06-17 08:42:28,Reviewer-C,0.0,2.8,Proceed,Manager-Y,0.0,0.37,Approved,3.17,False
+INV-00632,DIST-006,Normal,136812.58,2026-06-17 08:45:08,Reviewer-A,0.0,0.54,Proceed,Manager-Y,0.0,2.65,Approved,3.18,False
+INV-00633,DIST-005,Normal,16604.63,2026-06-17 08:47:03,Reviewer-B,0.0,0.71,Proceed,Manager-Y,0.56,0.22,Approved,1.48,False
+INV-00634,DIST-004,Normal,466728.46,2026-06-17 08:56:19,Reviewer-C,0.0,4.78,Proceed,Manager-Y,0.0,46.23,Approved,51.01,False
+INV-00635,DIST-007,Normal,497639.18,2026-06-17 09:09:34,Reviewer-A,0.0,0.27,Proceed,Manager-X,0.0,3.17,Approved,3.44,False
+INV-00636,DIST-001,High,397891.89,2026-06-17 09:21:06,Reviewer-B,0.0,0.33,Proceed,Manager-X,0.0,8.78,Approved,9.11,False
+INV-00637,DIST-002,High,21121.18,2026-06-17 09:26:28,Reviewer-C,0.0,5.03,Proceed,Manager-X,0.0,3.87,Rejected,8.9,False
+INV-00638,DIST-006,Normal,414539.52,2026-06-17 09:27:43,Reviewer-A,0.0,0.55,Proceed,Manager-X,7.09,32.35,Approved,39.99,False
+INV-00639,DIST-001,Normal,214046.36,2026-06-17 09:42:41,Reviewer-B,0.0,2.43,Proceed,Manager-Y,2.21,1.62,Approved,6.27,False
+INV-00640,DIST-011,High,260465.65,2026-06-17 09:47:53,Reviewer-A,0.0,18.45,Proceed,Manager-Y,0.0,0.52,Approved,18.97,False
+INV-00641,DIST-001,High,802795.51,2026-06-17 09:53:46,Reviewer-C,0.0,1.23,Proceed,Manager-Y,11.86,4.03,Approved,17.12,False
+INV-00642,DIST-009,Normal,816711.81,2026-06-17 10:09:28,Reviewer-B,0.0,5.89,Proceed,Manager-X,0.0,2.61,Approved,8.51,False
+INV-00643,DIST-010,Normal,283245.6,2026-06-17 10:51:46,Reviewer-C,0.0,1.39,Proceed,Manager-Y,0.0,7.41,Approved,8.79,False
+INV-00644,DIST-005,High,586809.62,2026-06-17 11:15:35,Reviewer-A,0.0,11.53,Proceed,Manager-X,0.0,19.36,Approved,30.89,False
+INV-00645,DIST-010,Normal,779959.74,2026-06-17 11:28:24,Reviewer-B,0.0,4.89,Returned,,,,Returned to Distributor,4.89,False
+INV-00646,DIST-006,Normal,714396.52,2026-06-17 11:29:54,Reviewer-C,0.0,0.18,Proceed,Manager-Y,0.0,34.28,Rejected,34.46,False
+INV-00647,DIST-012,High,794034.4,2026-06-17 11:34:15,Reviewer-A,0.0,12.99,Proceed,Manager-X,0.0,12.19,Approved,25.19,False
+INV-00648,DIST-010,Normal,526319.8,2026-06-17 11:36:42,Reviewer-C,0.0,5.69,Proceed,Manager-X,17.05,2.49,Approved,25.23,False
+INV-00649,DIST-008,Normal,118303.2,2026-06-17 11:37:41,Reviewer-B,0.0,3.8,Proceed,Manager-X,20.44,1.93,Approved,26.17,False
+INV-00650,DIST-003,Normal,168304.56,2026-06-17 11:45:24,Reviewer-B,0.0,8.68,Proceed,Manager-X,9.78,2.99,Approved,21.45,False
+INV-00651,DIST-004,Normal,645321.22,2026-06-17 12:01:40,Reviewer-C,0.0,15.71,Returned,,,,Returned to Distributor,15.71,False
+INV-00652,DIST-008,High,586243.98,2026-06-17 12:25:53,Reviewer-A,0.0,10.49,Proceed,Manager-Y,0.0,12.09,Approved,22.58,False
+INV-00653,DIST-012,Normal,269398.38,2026-06-17 12:46:46,Reviewer-B,0.0,8.14,Proceed,Manager-X,0.0,7.08,Approved,15.22,False
+INV-00654,DIST-009,Normal,97372.27,2026-06-17 13:05:19,Reviewer-C,0.0,12.61,Proceed,Manager-Y,0.0,2.68,Approved,15.29,False
+INV-00655,DIST-001,Normal,476257.3,2026-06-17 13:54:49,Reviewer-A,0.0,5.98,Proceed,Manager-X,0.0,3.27,Approved,9.25,False
+INV-00656,DIST-005,Normal,394838.35,2026-06-17 13:59:10,Reviewer-B,0.0,5.7,Proceed,Manager-Y,0.0,6.91,Approved,12.61,False
+INV-00657,DIST-008,Normal,81422.48,2026-06-17 14:20:25,Reviewer-C,0.0,1.19,Proceed,Manager-X,0.0,21.35,Approved,22.54,False
+INV-00658,DIST-006,Normal,385998.55,2026-06-17 14:26:25,Reviewer-A,0.0,5.35,Proceed,Manager-Y,0.0,2.14,Approved,7.5,False
+INV-00659,DIST-012,Normal,553047.08,2026-06-17 14:29:52,Reviewer-B,0.0,1.07,Proceed,Manager-Y,2.97,0.91,Approved,4.95,False
+INV-00660,DIST-002,Normal,447625.62,2026-06-17 14:41:56,Reviewer-C,0.0,9.39,Proceed,Manager-Y,0.0,28.41,Approved,37.81,False
+INV-00661,DIST-003,Normal,775853.6,2026-06-17 14:47:41,Reviewer-B,0.0,6.46,Proceed,Manager-X,0.0,19.3,Approved,25.76,False
+INV-00662,DIST-007,Normal,265312.56,2026-06-17 15:02:37,Reviewer-A,0.0,19.46,Proceed,Manager-X,0.0,1.89,Approved,21.35,False
+INV-00663,DIST-001,Normal,531063.48,2026-06-17 15:41:23,Reviewer-C,0.0,3.68,Proceed,Manager-Y,0.0,7.45,Approved,11.13,False
+INV-00664,DIST-004,Normal,188258.4,2026-06-17 16:07:06,Reviewer-B,0.0,3.63,Proceed,Manager-X,0.0,8.73,Approved,12.36,False
+INV-00665,DIST-005,Normal,528702.3,2026-06-17 16:32:45,Reviewer-A,0.0,10.47,Proceed,Manager-Y,0.0,1.52,Approved,11.99,False
+INV-00666,DIST-001,Normal,568612.08,2026-06-17 16:33:12,Reviewer-C,0.0,2.13,Returned,,,,Returned to Distributor,2.13,False
+INV-00667,DIST-007,Normal,844706.23,2026-06-17 16:33:49,Reviewer-B,0.0,2.01,Proceed,Manager-X,0.0,11.43,Approved,13.44,False
+INV-00668,DIST-008,Normal,638187.91,2026-06-17 16:43:43,Reviewer-C,0.0,0.22,Proceed,Manager-Y,0.81,3.7,Approved,4.73,False
+INV-00669,DIST-009,Normal,59862.36,2026-06-18 08:17:02,Reviewer-A,0.0,0.78,Proceed,Manager-X,0.0,3.79,Approved,4.57,False
+INV-00670,DIST-004,Normal,522185.41,2026-06-18 08:19:52,Reviewer-B,0.0,7.85,Proceed,Manager-Y,0.0,41.4,Approved,49.25,False
+INV-00671,DIST-012,Normal,247673.27,2026-06-18 08:33:52,Reviewer-C,0.0,2.28,Proceed,Manager-X,0.0,50.38,Approved,52.66,False
+INV-00672,DIST-010,Normal,424455.4,2026-06-18 08:35:32,Reviewer-A,0.0,4.13,Proceed,Manager-Y,29.44,20.44,Approved,54.01,False
+INV-00673,DIST-004,Normal,6335.88,2026-06-18 08:39:39,Reviewer-B,0.0,5.89,Proceed,Manager-X,40.99,17.9,Approved,64.78,False
+INV-00674,DIST-007,Normal,43440.9,2026-06-18 10:02:23,Reviewer-C,0.0,9.84,Proceed,Manager-Y,0.0,9.72,Approved,19.56,False
+INV-00675,DIST-002,Normal,265067.8,2026-06-18 10:05:55,Reviewer-A,0.0,2.35,Proceed,Manager-X,0.0,11.0,Approved,13.35,False
+INV-00676,DIST-010,Normal,816295.34,2026-06-18 10:21:23,Reviewer-B,0.0,1.29,Proceed,Manager-X,0.0,24.27,Approved,25.56,False
+INV-00677,DIST-001,Normal,550576.13,2026-06-18 10:29:06,Reviewer-A,0.0,5.92,Returned,,,,Returned to Distributor,5.92,False
+INV-00678,DIST-006,Normal,395787.21,2026-06-18 10:38:20,Reviewer-C,0.0,15.77,Proceed,Manager-Y,0.0,6.99,Approved,22.76,False
+INV-00679,DIST-009,Normal,457823.23,2026-06-18 10:51:57,Reviewer-B,0.0,6.94,Proceed,Manager-X,0.0,20.8,Approved,27.74,False
+INV-00680,DIST-005,Normal,715424.58,2026-06-18 11:33:52,Reviewer-A,0.0,2.82,Proceed,Manager-Y,0.0,1.72,Approved,4.55,False
+INV-00681,DIST-002,Normal,735581.67,2026-06-18 11:36:22,Reviewer-C,0.0,7.33,Proceed,Manager-X,0.0,0.31,Approved,7.64,False
+INV-00682,DIST-004,Normal,318988.12,2026-06-18 11:44:37,Reviewer-B,0.0,2.16,Proceed,Manager-Y,0.0,1.83,Approved,3.99,False
+INV-00683,DIST-004,Normal,776784.0,2026-06-18 11:45:04,Reviewer-A,0.0,0.15,Proceed,Manager-X,0.0,6.59,Approved,6.74,False
+INV-00684,DIST-012,Normal,743427.83,2026-06-18 12:15:56,Reviewer-C,0.0,2.38,Proceed,Manager-Y,0.0,0.98,Rejected,3.36,False
+INV-00685,DIST-003,Normal,178383.11,2026-06-18 12:24:39,Reviewer-A,0.0,2.94,Proceed,Manager-X,0.0,1.17,Approved,4.11,False
+INV-00686,DIST-010,Normal,741734.45,2026-06-18 12:25:11,Reviewer-B,0.0,13.2,Proceed,Manager-Y,0.0,13.81,Approved,27.0,False
+INV-00687,DIST-005,Normal,544828.97,2026-06-18 12:25:27,Reviewer-C,0.0,1.34,Proceed,Manager-X,1.96,7.22,Approved,10.52,False
+INV-00688,DIST-005,Normal,131176.01,2026-06-18 12:38:48,Reviewer-C,0.0,0.09,Proceed,Manager-X,0.0,6.86,Approved,6.95,False
+INV-00689,DIST-006,High,234039.03,2026-06-18 12:43:59,Reviewer-A,0.0,7.82,Proceed,Manager-X,0.0,1.52,Approved,9.34,False
+INV-00690,DIST-009,Normal,379882.25,2026-06-18 13:10:43,Reviewer-B,0.0,3.82,Proceed,Manager-Y,0.0,1.06,Approved,4.88,False
+INV-00691,DIST-003,High,600452.57,2026-06-18 13:17:23,Reviewer-C,0.0,4.77,Proceed,Manager-X,0.0,4.77,Approved,9.53,False
+INV-00692,DIST-004,Normal,607399.39,2026-06-18 13:22:14,Reviewer-A,0.0,4.57,Returned,,,,Returned to Distributor,4.57,False
+INV-00693,DIST-008,Normal,484781.96,2026-06-18 13:39:09,Reviewer-B,0.0,9.73,Proceed,Manager-Y,0.0,0.97,Approved,10.7,False
+INV-00694,DIST-008,High,402611.26,2026-06-18 13:51:33,Reviewer-C,0.0,0.74,Returned,,,,Returned to Distributor,0.74,False
+INV-00695,DIST-006,Normal,336305.0,2026-06-18 13:55:08,Reviewer-A,0.0,6.56,Proceed,Manager-X,0.0,20.33,Approved,26.9,False
+INV-00696,DIST-008,Normal,100389.56,2026-06-18 13:55:30,Reviewer-B,0.0,11.22,Proceed,Manager-Y,0.0,4.07,Approved,15.29,False
+INV-00697,DIST-007,Normal,695832.19,2026-06-18 14:04:01,Reviewer-C,0.0,2.37,Proceed,Manager-Y,4.41,14.94,Approved,21.71,False
+INV-00698,DIST-007,Normal,206596.12,2026-06-18 14:10:10,Reviewer-A,0.0,1.04,Proceed,Manager-X,10.84,0.65,Approved,12.52,False
+INV-00699,DIST-007,Normal,667745.31,2026-06-18 14:24:22,Reviewer-C,0.0,9.29,Proceed,Manager-X,0.0,2.56,Approved,11.85,False
+INV-00700,DIST-012,Normal,490189.11,2026-06-18 14:25:21,Reviewer-B,0.0,5.38,Proceed,Manager-Y,0.0,7.69,Approved,13.08,False
+INV-00701,DIST-007,Normal,63818.45,2026-06-18 14:27:40,Reviewer-A,0.0,10.09,Proceed,Manager-X,0.0,4.52,Approved,14.62,False
+INV-00702,DIST-002,Normal,188881.95,2026-06-18 14:40:37,Reviewer-B,0.0,5.22,Proceed,Manager-Y,0.0,15.77,Approved,20.98,False
+INV-00703,DIST-008,Normal,453911.17,2026-06-18 14:53:36,Reviewer-C,0.0,5.18,Proceed,Manager-X,0.0,10.87,Approved,16.05,False
+INV-00704,DIST-011,High,262344.86,2026-06-18 15:03:44,Reviewer-A,0.0,2.74,Returned,,,,Returned to Distributor,2.74,False
+INV-00705,DIST-002,Normal,497404.3,2026-06-18 15:08:48,Reviewer-B,0.0,4.29,Proceed,Manager-Y,0.0,18.18,Approved,22.47,False
+INV-00706,DIST-001,Normal,5712.6,2026-06-18 15:36:34,Reviewer-C,0.0,23.09,Proceed,Manager-X,0.0,3.15,Approved,26.24,False
+INV-00707,DIST-010,Normal,338156.73,2026-06-18 15:43:20,Reviewer-A,0.0,2.9,Proceed,Manager-Y,0.0,7.48,Approved,10.38,False
+INV-00708,DIST-004,Normal,474331.23,2026-06-18 15:51:04,Reviewer-B,0.0,2.68,Proceed,Manager-Y,0.0,3.23,Approved,5.91,False
+INV-00709,DIST-001,Normal,65625.37,2026-06-18 15:52:41,Reviewer-A,0.0,7.67,Proceed,Manager-Y,0.0,5.45,Rejected,13.12,False
+INV-00710,DIST-011,High,686020.66,2026-06-18 15:53:45,Reviewer-B,0.01,10.75,Proceed,Manager-X,0.0,21.51,Approved,32.27,False
+INV-00711,DIST-007,Normal,471482.28,2026-06-18 16:01:01,Reviewer-C,0.0,2.63,Proceed,Manager-Y,2.15,8.81,Approved,13.6,False
+INV-00712,DIST-004,Normal,606749.85,2026-06-18 16:23:32,Reviewer-A,0.0,15.67,Proceed,Manager-Y,0.0,0.32,Approved,15.99,False
+INV-00713,DIST-006,Normal,100623.89,2026-06-18 16:31:27,Reviewer-C,0.0,7.04,Proceed,Manager-X,0.0,12.48,Rejected,19.52,False
+INV-00714,DIST-008,Normal,441822.37,2026-06-19 08:18:06,Reviewer-A,0.0,5.65,Proceed,Manager-X,0.0,9.46,Approved,15.11,False
+INV-00715,DIST-011,Normal,540466.08,2026-06-19 08:31:21,Reviewer-B,0.0,2.25,Proceed,Manager-Y,0.0,4.0,Approved,6.25,False
+INV-00716,DIST-009,Normal,770616.54,2026-06-19 08:38:57,Reviewer-C,0.0,2.42,Proceed,Manager-X,0.0,36.16,Approved,38.57,False
+INV-00717,DIST-012,Normal,784820.52,2026-06-19 08:41:09,Reviewer-A,0.0,7.79,Proceed,Manager-Y,0.0,0.6,Approved,8.39,False
+INV-00718,DIST-001,Normal,559590.3,2026-06-19 08:43:22,Reviewer-B,0.0,8.02,Proceed,Manager-Y,0.0,6.3,Approved,14.32,False
+INV-00719,DIST-005,Normal,217983.07,2026-06-19 08:44:20,Reviewer-C,0.0,1.93,Proceed,Manager-Y,11.43,12.85,Approved,26.21,False
+INV-00720,DIST-012,Normal,132709.59,2026-06-19 09:13:15,Reviewer-C,0.0,9.9,Proceed,Manager-Y,0.0,11.46,Approved,21.36,False
+INV-00721,DIST-001,Normal,294706.56,2026-06-19 09:32:31,Reviewer-A,0.0,0.94,Returned,,,,Returned to Distributor,0.94,False
+INV-00722,DIST-008,Normal,641083.3,2026-06-19 09:34:32,Reviewer-B,0.0,2.9,Proceed,Manager-X,0.0,12.3,Approved,15.2,False
+INV-00723,DIST-006,Normal,50905.29,2026-06-19 09:44:53,Reviewer-C,0.0,10.27,Proceed,Manager-Y,0.0,5.92,Approved,16.2,False
+INV-00724,DIST-009,Normal,202443.81,2026-06-19 09:52:38,Reviewer-A,0.0,2.97,Proceed,Manager-X,0.0,7.18,Approved,10.15,False
+INV-00725,DIST-008,Normal,327793.46,2026-06-19 09:56:44,Reviewer-B,0.0,4.53,Returned,,,,Returned to Distributor,4.53,False
+INV-00726,DIST-009,High,543623.41,2026-06-19 09:57:57,Reviewer-C,0.0,2.71,Returned,,,,Returned to Distributor,2.71,False
+INV-00727,DIST-006,Normal,233425.57,2026-06-19 10:21:25,Reviewer-A,0.0,1.77,Proceed,Manager-Y,0.0,5.87,Approved,7.64,False
+INV-00728,DIST-011,Normal,502472.03,2026-06-19 10:24:44,Reviewer-C,0.0,2.47,Proceed,Manager-X,0.0,1.88,Approved,4.35,False
+INV-00729,DIST-002,Normal,15107.39,2026-06-19 10:38:08,Reviewer-B,0.0,0.66,Proceed,Manager-Y,0.0,2.35,Approved,3.01,False
+INV-00730,DIST-001,Normal,528390.65,2026-06-19 10:40:43,Reviewer-A,0.0,5.41,Returned,,,,Returned to Distributor,5.41,False
+INV-00731,DIST-010,Normal,544180.04,2026-06-19 10:43:39,Reviewer-C,0.0,0.77,Proceed,Manager-X,0.0,1.32,Approved,2.09,False
+INV-00732,DIST-010,Normal,683704.06,2026-06-19 11:11:16,Reviewer-B,0.0,0.7,Proceed,Manager-Y,0.0,3.31,Approved,4.02,False
+INV-00733,DIST-008,Normal,784677.61,2026-06-19 11:12:12,Reviewer-C,0.0,3.34,Returned,,,,Returned to Distributor,3.34,False
+INV-00734,DIST-006,Normal,222449.42,2026-06-19 11:29:50,Reviewer-A,0.0,1.95,Proceed,Manager-X,0.0,4.67,Rejected,6.62,False
+INV-00735,DIST-005,Normal,155350.42,2026-06-19 11:33:25,Reviewer-B,0.0,23.3,Proceed,Manager-Y,0.0,4.74,Approved,28.04,False
+INV-00736,DIST-009,Normal,654557.69,2026-06-19 11:34:48,Reviewer-C,0.0,6.19,Returned,,,,Returned to Distributor,6.19,False
+INV-00737,DIST-002,Normal,34457.46,2026-06-19 11:49:53,Reviewer-A,0.0,7.8,Proceed,Manager-X,0.0,0.18,Approved,7.98,False
+INV-00738,DIST-001,Normal,793295.2,2026-06-19 12:02:35,Reviewer-C,0.0,1.86,Proceed,Manager-X,0.0,22.32,Approved,24.18,False
+INV-00739,DIST-008,Normal,409027.82,2026-06-19 12:11:16,Reviewer-B,0.0,7.81,Proceed,Manager-Y,0.0,0.69,Approved,8.5,False
+INV-00740,DIST-012,Normal,696190.28,2026-06-19 12:17:05,Reviewer-A,0.0,5.03,Returned,,,,Returned to Distributor,5.03,False
+INV-00741,DIST-011,Normal,260889.72,2026-06-19 12:22:26,Reviewer-C,0.0,34.89,Proceed,Manager-Y,0.0,4.32,Approved,39.21,False
+INV-00742,DIST-008,Normal,647582.85,2026-06-19 12:27:25,Reviewer-B,0.0,1.36,Proceed,Manager-X,0.0,32.56,Approved,33.92,False
+INV-00743,DIST-007,Normal,762509.29,2026-06-19 12:31:40,Reviewer-A,0.0,2.67,Proceed,Manager-X,26.99,9.52,Approved,39.17,False
+INV-00744,DIST-004,High,26433.09,2026-06-19 12:33:29,Reviewer-B,0.0,1.31,Proceed,Manager-Y,26.84,12.71,Approved,40.86,False
+INV-00745,DIST-008,Normal,821755.15,2026-06-19 12:41:48,Reviewer-A,0.0,2.49,Proceed,Manager-X,26.57,12.13,Approved,41.18,False
+INV-00746,DIST-011,Normal,568882.37,2026-06-19 12:44:39,Reviewer-B,0.0,6.8,Proceed,Manager-Y,22.89,1.53,Approved,31.23,False
+INV-00747,DIST-001,Normal,626463.47,2026-06-19 13:15:42,Reviewer-A,0.0,0.12,Returned,,,,Returned to Distributor,0.12,False
+INV-00748,DIST-004,Normal,597595.81,2026-06-19 13:27:16,Reviewer-B,0.0,1.13,Proceed,Manager-Y,0.0,3.49,Approved,4.62,False
+INV-00749,DIST-003,Normal,710872.57,2026-06-19 13:34:34,Reviewer-C,0.0,10.21,Proceed,Manager-X,0.0,8.59,Approved,18.79,False
+INV-00750,DIST-004,Normal,365148.69,2026-06-19 13:35:21,Reviewer-A,0.0,24.17,Proceed,Manager-Y,0.0,3.72,Rejected,27.89,False
+INV-00751,DIST-003,High,276743.45,2026-06-19 13:45:39,Reviewer-B,0.0,1.15,Proceed,Manager-X,6.56,1.54,Approved,9.25,False
+INV-00752,DIST-007,Normal,147002.97,2026-06-19 13:49:29,Reviewer-C,0.0,1.08,Proceed,Manager-X,4.33,8.29,Approved,13.7,False
+INV-00753,DIST-011,Normal,522513.07,2026-06-19 14:08:17,Reviewer-B,0.0,0.09,Proceed,Manager-X,0.0,0.06,Approved,0.16,False
+INV-00754,DIST-011,Normal,506702.29,2026-06-19 14:09:24,Reviewer-C,0.0,7.1,Proceed,Manager-Y,0.0,6.14,Approved,13.24,False
+INV-00755,DIST-005,Normal,447008.4,2026-06-19 14:11:15,Reviewer-A,0.0,16.69,Proceed,Manager-X,0.0,0.36,Approved,17.06,False
+INV-00756,DIST-002,Normal,534976.95,2026-06-19 14:19:34,Reviewer-B,0.0,2.56,Proceed,Manager-Y,0.5,2.55,Approved,5.62,False
+INV-00757,DIST-002,High,527988.19,2026-06-19 14:28:38,Reviewer-C,0.0,20.77,Proceed,Manager-Y,0.0,5.04,Approved,25.8,False
+INV-00758,DIST-001,Normal,168692.55,2026-06-19 14:31:26,Reviewer-B,0.0,6.94,Returned,,,,Returned to Distributor,6.94,False
+INV-00759,DIST-003,High,139996.86,2026-06-19 14:39:09,Reviewer-A,0.0,0.27,Proceed,Manager-X,0.0,1.9,Approved,2.17,False
+INV-00760,DIST-008,Normal,41603.27,2026-06-19 14:50:40,Reviewer-B,0.0,15.53,Proceed,Manager-X,0.0,14.62,Approved,30.15,False
+INV-00761,DIST-004,Normal,614585.6,2026-06-19 14:52:09,Reviewer-A,0.0,2.37,Proceed,Manager-Y,0.0,10.73,Approved,13.1,False
+INV-00762,DIST-006,Normal,197475.84,2026-06-19 15:10:15,Reviewer-C,0.0,3.19,Proceed,Manager-Y,0.0,21.09,Approved,24.28,False
+INV-00763,DIST-001,Normal,757463.07,2026-06-19 15:20:49,Reviewer-A,0.0,15.78,Proceed,Manager-X,0.0,4.65,Approved,20.43,False
+INV-00764,DIST-011,Normal,308008.71,2026-06-19 15:36:05,Reviewer-B,0.0,2.46,Proceed,Manager-Y,0.0,7.99,Approved,10.44,False
+INV-00765,DIST-008,Normal,392499.19,2026-06-19 15:37:30,Reviewer-C,0.0,2.53,Returned,,,,Returned to Distributor,2.53,False
+INV-00766,DIST-011,High,810082.32,2026-06-19 15:48:36,Reviewer-A,0.0,4.14,Proceed,Manager-X,0.0,2.11,Approved,6.25,False
+INV-00767,DIST-004,Normal,504885.84,2026-06-19 15:57:27,Reviewer-B,0.0,1.96,Proceed,Manager-Y,0.0,12.66,Approved,14.62,False
+INV-00768,DIST-010,High,192933.59,2026-06-19 16:02:12,Reviewer-C,0.0,14.03,Returned,,,,Returned to Distributor,14.03,False
+INV-00769,DIST-007,Normal,833255.51,2026-06-19 16:29:38,Reviewer-A,0.0,3.82,Proceed,Manager-X,0.0,0.32,Approved,4.14,False
+INV-00770,DIST-012,Normal,698991.17,2026-06-19 16:37:28,Reviewer-B,0.0,1.65,Proceed,Manager-Y,0.0,0.12,Approved,1.77,False
+INV-00771,DIST-005,High,207007.72,2026-06-20 08:01:42,Reviewer-A,0.0,0.08,Proceed,Manager-X,0.0,1.43,Approved,1.5,False
+INV-00772,DIST-010,Normal,25629.39,2026-06-20 08:11:50,Reviewer-B,0.0,8.87,Proceed,Manager-Y,0.0,4.94,Approved,13.8,False
+INV-00773,DIST-008,Normal,599797.24,2026-06-20 08:17:23,Reviewer-C,0.0,5.92,Proceed,Manager-X,0.0,11.15,Approved,17.07,False
+INV-00774,DIST-005,Normal,594856.46,2026-06-20 08:21:37,Reviewer-A,0.0,5.14,Proceed,Manager-Y,0.0,10.96,Approved,16.1,False
+INV-00775,DIST-001,High,439952.33,2026-06-20 08:26:31,Reviewer-B,0.0,2.17,Proceed,Manager-X,5.77,3.9,Approved,11.84,False
+INV-00776,DIST-006,Normal,153100.96,2026-06-20 08:27:01,Reviewer-C,0.0,0.42,Proceed,Manager-Y,10.28,2.18,Rejected,12.87,False
+INV-00777,DIST-002,Normal,553437.45,2026-06-20 08:30:18,Reviewer-A,0.0,8.37,Proceed,Manager-X,0.0,11.53,Approved,19.9,False
+INV-00778,DIST-006,Normal,303041.36,2026-06-20 08:47:28,Reviewer-C,0.0,6.84,Proceed,Manager-Y,0.0,0.62,Approved,7.46,False
+INV-00779,DIST-009,Normal,705978.05,2026-06-20 08:55:27,Reviewer-B,0.0,4.55,Proceed,Manager-X,0.0,21.82,Approved,26.38,False
+INV-00780,DIST-011,Normal,803833.7,2026-06-20 09:00:58,Reviewer-A,0.0,16.97,Proceed,Manager-Y,0.0,21.13,Approved,38.1,False
+INV-00781,DIST-003,High,248674.92,2026-06-20 09:01:58,Reviewer-C,0.0,0.56,Proceed,Manager-X,19.31,9.64,Approved,29.51,False
+INV-00782,DIST-009,Normal,809528.53,2026-06-20 09:26:55,Reviewer-B,0.0,3.23,Proceed,Manager-X,1.32,25.5,Approved,30.06,False
+INV-00783,DIST-012,Normal,549758.35,2026-06-20 09:33:28,Reviewer-C,0.0,0.39,Proceed,Manager-Y,5.22,2.51,Rejected,8.12,False
+INV-00784,DIST-007,Normal,494005.39,2026-06-20 09:45:53,Reviewer-A,0.0,9.27,Proceed,Manager-Y,0.0,10.41,Approved,19.69,False
+INV-00785,DIST-008,Normal,261949.58,2026-06-20 09:55:25,Reviewer-B,0.0,9.35,Proceed,Manager-X,0.0,2.86,Approved,12.21,False
+INV-00786,DIST-001,Normal,130345.89,2026-06-20 10:37:47,Reviewer-C,0.0,18.77,Proceed,Manager-Y,0.0,1.67,Approved,20.44,False
+INV-00787,DIST-003,Normal,714235.27,2026-06-20 10:40:12,Reviewer-A,0.0,6.59,Proceed,Manager-X,0.0,2.58,Approved,9.17,False
+INV-00788,DIST-003,Normal,377550.9,2026-06-20 10:44:46,Reviewer-B,0.0,1.38,Proceed,Manager-X,3.22,10.41,Rejected,15.0,False
+INV-00789,DIST-008,Normal,461187.27,2026-06-20 10:46:42,Reviewer-B,0.0,2.15,Returned,,,,Returned to Distributor,2.15,False
+INV-00790,DIST-008,High,654397.85,2026-06-20 10:52:55,Reviewer-A,0.0,12.62,Proceed,Manager-Y,0.0,28.36,Approved,40.97,False
+INV-00791,DIST-011,Normal,601106.4,2026-06-20 11:01:25,Reviewer-B,0.0,2.05,Returned,,,,Returned to Distributor,2.05,False
+INV-00792,DIST-010,Normal,568520.13,2026-06-20 11:48:47,Reviewer-C,0.0,7.82,Returned,,,,Returned to Distributor,7.82,False
+INV-00793,DIST-002,High,623236.24,2026-06-20 11:53:44,Reviewer-B,0.0,0.72,Proceed,Manager-X,0.0,2.97,Approved,3.69,False
+INV-00794,DIST-008,Normal,306997.55,2026-06-20 12:15:48,Reviewer-A,0.0,5.62,Proceed,Manager-Y,0.0,7.1,Approved,12.72,False
+INV-00795,DIST-004,Normal,24053.61,2026-06-20 12:33:17,Reviewer-B,0.0,3.54,Proceed,Manager-X,0.0,0.87,Approved,4.41,False
+INV-00796,DIST-006,Normal,514680.23,2026-06-20 12:35:53,Reviewer-C,0.0,0.35,Proceed,Manager-Y,0.0,4.81,Approved,5.16,False
+INV-00797,DIST-007,Normal,320042.32,2026-06-20 12:42:34,Reviewer-A,0.0,2.6,Returned,,,,Returned to Distributor,2.6,False
+INV-00798,DIST-002,High,187262.41,2026-06-20 13:07:28,Reviewer-C,0.0,6.49,Proceed,Manager-X,0.0,4.72,Approved,11.21,False
+INV-00799,DIST-007,Normal,620671.66,2026-06-20 13:23:05,Reviewer-B,0.0,10.83,Proceed,Manager-Y,0.0,1.47,Approved,12.3,False
+INV-00800,DIST-009,Normal,838709.4,2026-06-20 14:16:33,Reviewer-A,0.0,19.33,Proceed,Manager-X,0.0,0.88,Approved,20.21,False
+INV-00801,DIST-007,Normal,152784.59,2026-06-20 14:46:03,Reviewer-C,0.0,5.03,Returned,,,,Returned to Distributor,5.03,False
+INV-00802,DIST-007,Normal,249596.38,2026-06-20 14:48:43,Reviewer-B,0.0,10.38,Proceed,Manager-Y,0.0,8.36,Approved,18.74,False
+INV-00803,DIST-004,Normal,27679.81,2026-06-20 15:04:52,Reviewer-A,0.0,1.83,Returned,,,,Returned to Distributor,1.83,False
+INV-00804,DIST-008,Normal,109929.5,2026-06-20 15:26:26,Reviewer-C,0.0,2.04,Proceed,Manager-X,0.0,22.54,Approved,24.58,False
+INV-00805,DIST-005,High,421627.44,2026-06-20 15:26:47,Reviewer-B,0.0,4.38,Proceed,Manager-Y,0.0,5.29,Approved,9.67,False
+INV-00806,DIST-011,Normal,407254.4,2026-06-20 15:30:22,Reviewer-A,0.0,0.76,Proceed,Manager-Y,5.33,8.13,Approved,14.23,False
+INV-00807,DIST-001,Normal,128485.87,2026-06-20 15:32:30,Reviewer-C,0.0,7.09,Proceed,Manager-Y,5.0,0.52,Approved,12.61,False
+INV-00808,DIST-006,Normal,46164.09,2026-06-20 15:44:38,Reviewer-A,0.0,6.11,Proceed,Manager-Y,0.0,2.05,Approved,8.16,False
+INV-00809,DIST-010,Normal,640971.09,2026-06-20 16:01:59,Reviewer-B,0.0,12.36,Proceed,Manager-X,0.0,10.97,Approved,23.33,False
+INV-00810,DIST-012,Normal,311331.66,2026-06-20 16:15:52,Reviewer-C,0.0,2.6,Proceed,Manager-Y,0.0,1.4,Approved,4.0,False
+INV-00811,DIST-007,High,292564.56,2026-06-20 16:33:59,Reviewer-A,0.0,0.52,Proceed,Manager-Y,0.0,2.02,Approved,2.54,False
+INV-00812,DIST-009,Normal,719928.94,2026-06-22 08:11:24,Reviewer-A,0.0,7.27,Proceed,Manager-X,0.0,5.13,Approved,12.4,False
+INV-00813,DIST-003,Normal,785281.24,2026-06-22 08:12:53,Reviewer-B,0.0,2.24,Proceed,Manager-Y,0.0,16.14,Approved,18.38,False
+INV-00814,DIST-006,Normal,150515.05,2026-06-22 08:23:49,Reviewer-C,0.0,8.19,Proceed,Manager-X,0.0,1.31,Approved,9.5,False
+INV-00815,DIST-005,Normal,110915.83,2026-06-22 08:37:47,Reviewer-B,0.0,0.49,Proceed,Manager-Y,0.0,14.56,Approved,15.05,False
+INV-00816,DIST-007,Normal,40926.81,2026-06-22 08:55:40,Reviewer-A,0.0,9.45,Proceed,Manager-X,0.0,0.58,Approved,10.03,False
+INV-00817,DIST-002,Normal,259890.71,2026-06-22 08:59:10,Reviewer-C,0.0,0.61,Proceed,Manager-Y,0.0,8.75,Approved,9.36,False
+INV-00818,DIST-011,Normal,302045.95,2026-06-22 09:01:51,Reviewer-B,0.0,11.22,Returned,,,,Returned to Distributor,11.22,False
+INV-00819,DIST-006,High,302611.77,2026-06-22 09:37:31,Reviewer-C,0.0,7.29,Proceed,Manager-X,0.0,5.68,Approved,12.96,False
+INV-00820,DIST-001,Normal,451868.74,2026-06-22 09:58:04,Reviewer-A,0.0,19.99,Proceed,Manager-Y,0.0,13.32,Approved,33.31,False
+INV-00821,DIST-004,High,782803.22,2026-06-22 10:13:34,Reviewer-B,0.0,3.09,Proceed,Manager-X,0.0,1.65,Approved,4.74,False
+INV-00822,DIST-006,Normal,834199.45,2026-06-22 10:14:56,Reviewer-C,0.0,4.33,Proceed,Manager-X,0.0,13.61,Approved,17.95,False
+INV-00823,DIST-009,Normal,119845.95,2026-06-22 10:22:27,Reviewer-B,0.0,7.32,Proceed,Manager-Y,1.6,0.39,Approved,9.31,False
+INV-00824,DIST-005,Normal,391119.17,2026-06-22 10:23:56,Reviewer-A,0.0,6.97,Proceed,Manager-Y,0.87,2.43,Approved,10.27,False
+INV-00825,DIST-007,Normal,164523.31,2026-06-22 11:14:18,Reviewer-C,0.0,11.04,Proceed,Manager-X,0.0,10.8,Approved,21.83,False
+INV-00826,DIST-008,Normal,572920.68,2026-06-22 12:34:16,Reviewer-B,0.0,4.44,Proceed,Manager-Y,0.0,1.21,Approved,5.64,False
+INV-00827,DIST-002,High,631510.17,2026-06-22 12:48:31,Reviewer-A,0.0,0.89,Proceed,Manager-X,0.0,1.79,Approved,2.68,False
+INV-00828,DIST-007,Normal,108734.03,2026-06-22 13:10:49,Reviewer-C,0.0,7.75,Proceed,Manager-Y,0.0,11.87,Approved,19.63,False
+INV-00829,DIST-011,Normal,802025.17,2026-06-22 13:14:38,Reviewer-B,0.0,6.59,Returned,,,,Returned to Distributor,6.59,False
+INV-00830,DIST-009,Normal,240662.59,2026-06-22 14:07:15,Reviewer-A,0.0,0.69,Proceed,Manager-X,0.0,6.53,Approved,7.22,False
+INV-00831,DIST-002,Normal,628439.61,2026-06-22 14:08:59,Reviewer-C,0.0,4.14,Proceed,Manager-Y,0.0,1.87,Approved,6.01,False
+INV-00832,DIST-005,Normal,530561.91,2026-06-22 14:13:44,Reviewer-B,0.0,0.48,Proceed,Manager-X,0.26,13.86,Approved,14.6,False
+INV-00833,DIST-011,Normal,425724.69,2026-06-22 14:16:26,Reviewer-A,0.0,4.69,Proceed,Manager-Y,0.0,7.39,Approved,12.08,False
+INV-00834,DIST-007,Normal,748706.19,2026-06-22 14:33:46,Reviewer-C,0.0,3.59,Proceed,Manager-X,0.0,5.55,Approved,9.14,False
+INV-00835,DIST-011,Normal,732004.79,2026-06-22 14:36:06,Reviewer-B,0.0,7.35,Proceed,Manager-Y,0.0,1.37,Approved,8.72,False
+INV-00836,DIST-002,Normal,485682.66,2026-06-22 14:44:07,Reviewer-A,0.0,4.84,Proceed,Manager-X,0.0,6.03,Approved,10.87,False
+INV-00837,DIST-001,Normal,335720.17,2026-06-22 14:46:09,Reviewer-C,0.0,21.22,Proceed,Manager-Y,0.0,4.13,Rejected,25.35,False
+INV-00838,DIST-001,Normal,503941.59,2026-06-22 14:50:48,Reviewer-B,0.0,2.74,Proceed,Manager-X,1.46,8.33,Approved,12.53,False
+INV-00839,DIST-007,Normal,87260.79,2026-06-22 15:02:34,Reviewer-A,0.0,2.65,Proceed,Manager-X,0.0,10.28,Approved,12.94,False
+INV-00840,DIST-010,Normal,76775.77,2026-06-22 15:15:06,Reviewer-B,0.0,12.19,Proceed,Manager-Y,0.0,1.77,Approved,13.96,False
+INV-00841,DIST-011,Normal,734546.4,2026-06-22 15:15:33,Reviewer-A,0.0,13.9,Proceed,Manager-X,0.0,11.31,Approved,25.21,False
+INV-00842,DIST-007,Normal,486948.74,2026-06-22 16:06:35,Reviewer-C,0.0,0.62,Proceed,Manager-Y,0.0,11.15,Approved,11.77,False
+INV-00843,DIST-011,Normal,291910.81,2026-06-22 16:14:49,Reviewer-B,0.0,2.71,Proceed,Manager-X,0.0,6.53,Approved,9.24,False
+INV-00844,DIST-009,Normal,185897.69,2026-06-22 16:33:23,Reviewer-A,0.0,2.12,Proceed,Manager-Y,0.0,15.51,Approved,17.63,False
+INV-00845,DIST-010,Normal,85049.9,2026-06-23 08:15:10,Reviewer-A,0.0,0.42,Proceed,Manager-X,0.0,6.13,Approved,6.54,False
+INV-00846,DIST-011,Normal,701059.41,2026-06-23 08:34:13,Reviewer-B,0.0,2.14,Proceed,Manager-Y,0.0,3.57,Approved,5.71,False
+INV-00847,DIST-009,Normal,387978.17,2026-06-23 08:37:42,Reviewer-C,0.0,1.2,Proceed,Manager-X,0.0,11.54,Approved,12.74,False
+INV-00848,DIST-004,Normal,563381.25,2026-06-23 08:48:01,Reviewer-A,0.0,16.69,Proceed,Manager-Y,0.0,9.65,Approved,26.34,False
+INV-00849,DIST-007,Normal,794767.36,2026-06-23 09:11:00,Reviewer-B,0.0,0.37,Proceed,Manager-X,0.0,5.9,Approved,6.27,False
+INV-00850,DIST-005,Normal,718283.09,2026-06-23 09:27:28,Reviewer-C,0.0,11.8,Returned,,,,Returned to Distributor,11.8,False
+INV-00851,DIST-007,Normal,230559.87,2026-06-23 09:39:32,Reviewer-A,0.0,1.05,Proceed,Manager-Y,0.0,2.56,Approved,3.61,False
+INV-00852,DIST-001,Normal,212520.69,2026-06-23 09:41:29,Reviewer-B,0.0,3.74,Proceed,Manager-X,0.0,5.44,Approved,9.19,False
+INV-00853,DIST-003,Normal,235441.61,2026-06-23 09:41:56,Reviewer-C,0.0,9.35,Proceed,Manager-Y,0.0,7.6,Approved,16.96,False
+INV-00854,DIST-012,Normal,415536.46,2026-06-23 09:42:27,Reviewer-A,0.0,11.78,Proceed,Manager-X,0.0,8.74,Approved,20.52,False
+INV-00855,DIST-007,Normal,762773.39,2026-06-23 10:10:09,Reviewer-B,0.0,13.01,Proceed,Manager-Y,0.0,17.4,Approved,30.41,False
+INV-00856,DIST-010,High,625635.94,2026-06-23 10:13:23,Reviewer-C,0.0,3.54,Proceed,Manager-X,0.0,24.14,Rejected,27.68,False
+INV-00857,DIST-002,Normal,206174.94,2026-06-23 10:16:52,Reviewer-A,0.0,9.86,Proceed,Manager-Y,13.84,8.34,Approved,32.04,False
+INV-00858,DIST-004,Normal,795497.58,2026-06-23 10:33:25,Reviewer-C,0.0,0.68,Proceed,Manager-X,6.96,3.05,Approved,10.69,False
+INV-00859,DIST-001,Normal,419353.0,2026-06-23 10:57:16,Reviewer-B,0.0,17.82,Proceed,Manager-X,0.0,5.24,Approved,23.06,False
+INV-00860,DIST-003,Normal,311733.32,2026-06-23 11:36:56,Reviewer-A,0.0,10.33,Proceed,Manager-Y,0.0,32.35,Approved,42.69,False
+INV-00861,DIST-011,Normal,680105.42,2026-06-23 11:59:02,Reviewer-C,0.0,14.97,Proceed,Manager-X,0.0,2.77,Approved,17.74,False
+INV-00862,DIST-012,Normal,311612.56,2026-06-23 12:11:15,Reviewer-B,0.0,0.78,Proceed,Manager-X,4.73,18.52,Approved,24.03,False
+INV-00863,DIST-007,High,788743.75,2026-06-23 12:40:07,Reviewer-A,0.0,1.72,Returned,,,,Returned to Distributor,1.72,False
+INV-00864,DIST-005,High,182776.59,2026-06-23 12:57:05,Reviewer-B,0.0,11.88,Proceed,Manager-Y,0.0,17.09,Approved,28.97,False
+INV-00865,DIST-001,Normal,236560.86,2026-06-23 13:03:20,Reviewer-C,0.0,9.07,Proceed,Manager-X,0.0,12.69,Approved,21.76,False
+INV-00866,DIST-007,Normal,745863.24,2026-06-23 13:08:12,Reviewer-A,0.0,10.44,Proceed,Manager-X,6.46,6.71,Approved,23.61,False
+INV-00867,DIST-009,Normal,628428.76,2026-06-23 13:19:15,Reviewer-B,0.0,0.17,Proceed,Manager-Y,6.63,9.75,Approved,16.55,False
+INV-00868,DIST-003,Normal,7599.05,2026-06-23 13:38:02,Reviewer-C,0.0,2.19,Proceed,Manager-X,0.0,1.12,Approved,3.3,False
+INV-00869,DIST-011,Normal,649872.48,2026-06-23 13:53:03,Reviewer-A,0.0,6.95,Proceed,Manager-Y,0.0,3.66,Approved,10.6,False
+INV-00870,DIST-005,Normal,151589.78,2026-06-23 14:08:59,Reviewer-B,0.0,2.38,Proceed,Manager-X,0.0,0.84,Approved,3.22,False
+INV-00871,DIST-007,High,803319.8,2026-06-23 14:14:59,Reviewer-C,0.0,1.22,Returned,,,,Returned to Distributor,1.22,False
+INV-00872,DIST-011,Normal,522142.67,2026-06-23 14:45:46,Reviewer-A,0.0,0.56,Proceed,Manager-Y,0.0,2.88,Approved,3.44,False
+INV-00873,DIST-010,Normal,367423.35,2026-06-23 14:46:23,Reviewer-B,0.0,0.56,Proceed,Manager-X,0.0,27.95,Approved,28.51,False
+INV-00874,DIST-007,High,658488.63,2026-06-23 15:01:36,Reviewer-C,0.0,8.43,Proceed,Manager-Y,0.0,2.05,Approved,10.48,False
+INV-00875,DIST-005,Normal,248327.87,2026-06-23 15:36:38,Reviewer-A,0.0,0.84,Proceed,Manager-Y,0.0,8.71,Rejected,9.54,False
+INV-00876,DIST-011,Normal,165011.88,2026-06-23 15:40:38,Reviewer-B,0.0,9.43,Proceed,Manager-X,0.0,35.48,Approved,44.92,False
+INV-00877,DIST-004,Normal,317343.89,2026-06-23 15:47:49,Reviewer-C,0.0,3.68,Proceed,Manager-Y,0.0,1.36,Approved,5.03,False
+INV-00878,DIST-011,Normal,184323.93,2026-06-23 16:02:00,Reviewer-A,0.0,3.3,Proceed,Manager-Y,0.0,0.72,Approved,4.02,False
+INV-00879,DIST-004,Normal,402937.9,2026-06-23 16:02:38,Reviewer-B,0.0,5.59,Proceed,Manager-Y,0.0,15.4,Approved,20.99,False
+INV-00880,DIST-001,Normal,219340.07,2026-06-23 16:22:34,Reviewer-C,0.0,2.16,Proceed,Manager-Y,0.0,4.4,Rejected,6.56,False
+INV-00881,DIST-010,Normal,156569.53,2026-06-23 16:32:24,Reviewer-A,0.0,4.07,Proceed,Manager-X,0.0,6.0,Approved,10.07,False
+INV-00882,DIST-007,Normal,124817.4,2026-06-23 16:47:16,Reviewer-B,0.0,0.27,Proceed,Manager-Y,0.0,19.51,Approved,19.78,False
+INV-00883,DIST-005,Normal,767859.81,2026-06-24 08:31:16,Reviewer-A,0.0,10.62,Returned,,,,Returned to Distributor,10.62,False
+INV-00884,DIST-007,Normal,759307.68,2026-06-24 08:40:00,Reviewer-B,0.0,31.29,Proceed,Manager-X,0.0,1.56,Approved,32.85,False
+INV-00885,DIST-008,Normal,49972.75,2026-06-24 08:52:52,Reviewer-C,0.0,1.57,Proceed,Manager-Y,0.0,2.86,Approved,4.43,False
+INV-00886,DIST-008,Normal,39468.99,2026-06-24 08:59:45,Reviewer-A,0.0,7.41,Proceed,Manager-Y,0.0,6.45,Approved,13.86,False
+INV-00887,DIST-002,Normal,300415.64,2026-06-24 09:23:56,Reviewer-C,0.0,2.01,Proceed,Manager-X,0.0,13.17,Approved,15.17,False
+INV-00888,DIST-011,Normal,499897.4,2026-06-24 09:33:53,Reviewer-A,0.0,21.37,Proceed,Manager-Y,0.0,8.04,Approved,29.41,False
+INV-00889,DIST-008,High,576987.7,2026-06-24 09:34:50,Reviewer-B,0.0,0.13,Proceed,Manager-X,4.15,9.22,Approved,13.49,False
+INV-00890,DIST-002,Normal,712245.74,2026-06-24 09:45:33,Reviewer-C,0.0,0.51,Proceed,Manager-X,2.27,10.24,Approved,13.02,False
+INV-00891,DIST-010,Normal,561015.33,2026-06-24 10:22:49,Reviewer-B,0.0,0.27,Proceed,Manager-X,0.0,5.73,Rejected,6.0,False
+INV-00892,DIST-010,High,114275.57,2026-06-24 12:06:22,Reviewer-C,0.0,7.76,Proceed,Manager-Y,0.0,12.92,Approved,20.68,False
+INV-00893,DIST-010,Normal,327275.34,2026-06-24 12:15:52,Reviewer-A,0.0,1.18,Returned,,,,Returned to Distributor,1.18,False
+INV-00894,DIST-002,Normal,22332.67,2026-06-24 12:39:57,Reviewer-B,0.0,2.95,Proceed,Manager-X,0.0,9.9,Rejected,12.85,False
+INV-00895,DIST-005,Normal,419764.11,2026-06-24 12:41:57,Reviewer-C,0.0,9.85,Proceed,Manager-Y,0.0,10.97,Approved,20.82,False
+INV-00896,DIST-006,Normal,438191.98,2026-06-24 12:55:06,Reviewer-A,0.0,13.0,Proceed,Manager-X,0.0,7.87,Approved,20.86,False
+INV-00897,DIST-006,Normal,523718.28,2026-06-24 13:12:03,Reviewer-B,0.0,3.33,Proceed,Manager-Y,0.0,3.97,Approved,7.3,False
+INV-00898,DIST-011,High,608021.98,2026-06-24 13:15:06,Reviewer-C,0.0,3.6,Proceed,Manager-X,0.0,0.71,Approved,4.3,False
+INV-00899,DIST-008,High,258832.3,2026-06-24 13:16:05,Reviewer-A,0.0,5.53,Proceed,Manager-Y,0.0,2.31,Approved,7.84,False
+INV-00900,DIST-009,Normal,69669.98,2026-06-24 13:26:10,Reviewer-B,0.0,0.68,Proceed,Manager-X,0.0,0.94,Approved,1.63,False
+INV-00901,DIST-005,Normal,305361.7,2026-06-24 13:36:15,Reviewer-C,0.0,8.78,Proceed,Manager-Y,0.0,12.82,Approved,21.6,False
+INV-00902,DIST-007,Normal,43243.62,2026-06-24 13:54:46,Reviewer-A,0.0,7.31,Proceed,Manager-X,0.0,12.23,Approved,19.55,False
+INV-00903,DIST-005,High,293427.55,2026-06-24 14:01:56,Reviewer-B,0.0,7.97,Proceed,Manager-Y,0.0,0.66,Rejected,8.63,False
+INV-00904,DIST-011,Normal,94849.41,2026-06-24 14:05:32,Reviewer-C,0.0,0.04,Proceed,Manager-Y,4.99,1.79,Approved,6.82,False
+INV-00905,DIST-011,Normal,821104.22,2026-06-24 14:19:40,Reviewer-A,0.0,4.0,Proceed,Manager-Y,0.0,34.64,Approved,38.64,False
+INV-00906,DIST-012,Normal,575461.43,2026-06-24 14:33:07,Reviewer-C,0.0,0.55,Proceed,Manager-X,0.0,2.01,Approved,2.56,False
+INV-00907,DIST-004,Normal,730865.17,2026-06-24 14:47:24,Reviewer-B,0.0,6.28,Proceed,Manager-X,0.0,5.44,Approved,11.71,False
+INV-00908,DIST-004,Normal,77749.05,2026-06-24 15:06:08,Reviewer-A,0.0,0.96,Proceed,Manager-Y,0.0,1.18,Approved,2.14,False
+INV-00909,DIST-008,Normal,819467.51,2026-06-24 15:22:14,Reviewer-C,0.0,11.79,Proceed,Manager-X,0.0,2.14,Approved,13.92,False
+INV-00910,DIST-001,Normal,287103.3,2026-06-24 15:43:46,Reviewer-B,0.0,11.29,Proceed,Manager-Y,0.0,5.1,Approved,16.39,False
+INV-00911,DIST-012,Normal,473387.32,2026-06-24 15:54:09,Reviewer-A,0.0,4.01,Proceed,Manager-X,0.0,8.49,Approved,12.5,False
+INV-00912,DIST-008,Normal,200960.39,2026-06-24 16:07:46,Reviewer-C,0.0,0.12,Proceed,Manager-Y,0.0,7.65,Approved,7.77,False
+INV-00913,DIST-008,Normal,103814.93,2026-06-24 16:20:19,Reviewer-B,0.0,6.23,Proceed,Manager-X,0.0,5.44,Approved,11.68,False
+INV-00914,DIST-008,Normal,295551.04,2026-06-24 16:35:51,Reviewer-A,0.0,1.49,Returned,,,,Returned to Distributor,1.49,False
+INV-00915,DIST-010,Normal,726168.45,2026-06-24 16:40:49,Reviewer-C,0.0,3.79,Returned,,,,Returned to Distributor,3.79,False
+INV-00916,DIST-007,Normal,816033.85,2026-06-24 16:56:14,Reviewer-B,0.0,6.71,Proceed,Manager-Y,0.0,15.1,Approved,21.81,False
+INV-00917,DIST-005,Normal,588639.43,2026-06-25 08:11:40,Reviewer-A,0.0,3.96,Proceed,Manager-X,0.0,1.61,Approved,5.57,False
+INV-00918,DIST-008,Normal,261585.85,2026-06-25 08:30:35,Reviewer-B,0.0,0.29,Proceed,Manager-Y,0.0,20.21,Approved,20.5,False
+INV-00919,DIST-009,Normal,32014.66,2026-06-25 08:32:40,Reviewer-C,0.0,3.38,Proceed,Manager-X,0.0,1.22,Approved,4.6,False
+INV-00920,DIST-006,Normal,668228.5,2026-06-25 08:36:14,Reviewer-A,0.0,8.82,Proceed,Manager-X,0.0,21.53,Approved,30.35,False
+INV-00921,DIST-010,Normal,570715.58,2026-06-25 09:01:04,Reviewer-B,0.0,15.67,Proceed,Manager-Y,0.0,5.8,Approved,21.48,False
+INV-00922,DIST-002,Normal,665496.27,2026-06-25 09:02:29,Reviewer-C,0.0,11.73,Proceed,Manager-X,0.0,7.85,Approved,19.58,False
+INV-00923,DIST-002,High,740884.71,2026-06-25 09:04:40,Reviewer-A,0.0,0.82,Proceed,Manager-X,16.57,4.7,Approved,22.09,False
+INV-00924,DIST-002,Normal,135379.89,2026-06-25 09:20:30,Reviewer-A,0.0,10.26,Proceed,Manager-Y,0.0,2.14,Rejected,12.4,False
+INV-00925,DIST-001,Normal,212292.07,2026-06-25 09:38:06,Reviewer-C,0.0,2.51,Proceed,Manager-X,0.0,0.85,Approved,3.35,False
+INV-00926,DIST-006,Normal,536877.14,2026-06-25 09:54:58,Reviewer-B,0.0,8.4,Proceed,Manager-Y,0.0,14.7,Approved,23.1,False
+INV-00927,DIST-007,High,763865.14,2026-06-25 10:01:41,Reviewer-A,0.0,3.48,Proceed,Manager-X,0.0,23.24,Approved,26.72,False
+INV-00928,DIST-012,High,686278.6,2026-06-25 10:19:20,Reviewer-C,0.0,0.43,Proceed,Manager-Y,0.0,32.42,Approved,32.84,False
+INV-00929,DIST-001,Normal,562848.87,2026-06-25 10:20:05,Reviewer-B,0.0,13.97,Proceed,Manager-X,0.0,9.49,Approved,23.45,False
+INV-00930,DIST-009,Normal,826898.67,2026-06-25 10:33:03,Reviewer-A,0.0,13.02,Proceed,Manager-X,0.0,19.64,Approved,32.66,False
+INV-00931,DIST-006,Normal,11677.39,2026-06-25 10:37:34,Reviewer-C,0.0,4.5,Returned,,,,Returned to Distributor,4.5,False
+INV-00932,DIST-008,High,549078.05,2026-06-25 10:52:02,Reviewer-B,0.0,4.7,Proceed,Manager-Y,0.0,4.71,Approved,9.41,False
+INV-00933,DIST-011,Normal,346807.32,2026-06-25 11:12:04,Reviewer-C,0.0,2.15,Proceed,Manager-Y,0.0,3.87,Approved,6.02,False
+INV-00934,DIST-003,Normal,444796.9,2026-06-25 11:28:14,Reviewer-A,0.0,1.44,Proceed,Manager-X,0.0,3.56,Approved,5.0,False
+INV-00935,DIST-001,Normal,28568.09,2026-06-25 11:40:21,Reviewer-B,0.0,5.39,Proceed,Manager-Y,0.0,14.14,Approved,19.52,False
+INV-00936,DIST-002,Normal,623528.31,2026-06-25 12:32:26,Reviewer-C,0.0,1.8,Proceed,Manager-X,0.0,1.26,Approved,3.06,False
+INV-00937,DIST-008,Normal,256777.14,2026-06-25 13:06:28,Reviewer-A,0.0,3.62,Returned,,,,Returned to Distributor,3.62,False
+INV-00938,DIST-010,High,482929.66,2026-06-25 13:26:06,Reviewer-B,0.0,4.74,Proceed,Manager-Y,0.0,7.31,Approved,12.05,False
+INV-00939,DIST-012,Normal,488987.05,2026-06-25 13:30:07,Reviewer-C,0.0,2.85,Proceed,Manager-X,0.0,1.06,Approved,3.9,False
+INV-00940,DIST-006,Normal,388891.6,2026-06-25 13:32:41,Reviewer-A,0.0,3.33,Proceed,Manager-X,0.0,0.92,Approved,4.25,False
+INV-00941,DIST-004,Normal,382008.65,2026-06-25 13:34:21,Reviewer-B,0.0,4.48,Proceed,Manager-X,0.0,6.95,Approved,11.43,False
+INV-00942,DIST-008,High,542809.67,2026-06-25 13:38:02,Reviewer-C,0.0,5.61,Returned,,,,Returned to Distributor,5.61,False
+INV-00943,DIST-007,Normal,701121.0,2026-06-25 13:53:49,Reviewer-A,0.0,0.82,Proceed,Manager-Y,0.0,1.32,Approved,2.13,False
+INV-00944,DIST-002,Normal,591827.75,2026-06-25 14:17:42,Reviewer-B,0.0,0.2,Proceed,Manager-X,0.0,7.78,Approved,7.98,False
+INV-00945,DIST-007,Normal,98234.06,2026-06-25 14:19:13,Reviewer-C,0.0,2.05,Proceed,Manager-Y,0.0,1.19,Approved,3.24,False
+INV-00946,DIST-005,Normal,415607.08,2026-06-25 14:24:51,Reviewer-A,0.0,0.92,Proceed,Manager-Y,0.0,0.47,Approved,1.39,False
+INV-00947,DIST-004,Normal,159700.18,2026-06-25 14:51:14,Reviewer-B,0.0,0.01,Proceed,Manager-X,0.0,0.66,Approved,0.68,False
+INV-00948,DIST-005,High,483070.56,2026-06-25 14:59:06,Reviewer-C,0.0,7.3,Proceed,Manager-Y,0.0,10.28,Approved,17.58,False
+INV-00949,DIST-009,Normal,542808.92,2026-06-25 15:16:20,Reviewer-A,0.0,6.6,Proceed,Manager-X,0.0,12.36,Approved,18.97,False
+INV-00950,DIST-010,Normal,351135.94,2026-06-25 15:28:05,Reviewer-B,0.0,3.02,Proceed,Manager-Y,0.0,30.13,Approved,33.15,False
+INV-00951,DIST-011,Normal,79807.76,2026-06-25 15:44:04,Reviewer-C,0.0,0.15,Proceed,Manager-X,0.0,14.03,Approved,14.18,False
+INV-00952,DIST-011,Normal,477653.14,2026-06-25 15:56:30,Reviewer-A,0.0,5.79,Proceed,Manager-X,0.0,0.52,Approved,6.3,False
+INV-00953,DIST-008,Normal,429729.79,2026-06-25 15:59:01,Reviewer-B,0.0,6.44,Proceed,Manager-Y,0.0,31.16,Approved,37.6,False
+INV-00954,DIST-012,Normal,713885.24,2026-06-25 16:01:47,Reviewer-C,0.0,0.53,Proceed,Manager-X,0.49,3.67,Approved,4.69,False
+INV-00955,DIST-001,Normal,292263.29,2026-06-25 16:09:54,Reviewer-A,0.0,0.15,Proceed,Manager-X,0.0,4.57,Approved,4.72,False
+INV-00956,DIST-009,Normal,147091.81,2026-06-25 16:56:43,Reviewer-C,0.0,1.77,Proceed,Manager-X,0.0,3.48,Approved,5.25,False
+INV-00957,DIST-010,Normal,817149.22,2026-06-25 16:58:56,Reviewer-B,0.0,7.5,Proceed,Manager-Y,0.0,0.99,Approved,8.48,False
+INV-00958,DIST-002,Normal,48837.01,2026-06-26 08:01:16,Reviewer-A,0.0,5.45,Proceed,Manager-X,0.0,6.75,Approved,12.2,True
+INV-00959,DIST-005,Normal,56234.02,2026-06-26 08:14:03,Reviewer-B,0.0,3.14,Proceed,Manager-Y,0.0,4.97,Approved,8.11,True
+INV-00960,DIST-005,Normal,473193.6,2026-06-26 08:23:22,Reviewer-C,0.0,0.64,Proceed,Manager-X,0.0,10.02,Approved,10.66,True
+INV-00961,DIST-008,Normal,75902.56,2026-06-26 08:26:58,Reviewer-A,0.0,1.36,Returned,,,,Returned to Distributor,1.36,True
+INV-00962,DIST-003,Normal,665809.99,2026-06-26 08:28:58,Reviewer-B,0.0,3.31,Returned,,,,Returned to Distributor,3.31,True
+INV-00963,DIST-001,High,691683.94,2026-06-26 08:31:33,Reviewer-C,0.0,4.65,Proceed,Manager-Y,0.0,1.48,Approved,6.13,True
+INV-00964,DIST-005,Normal,510198.25,2026-06-26 08:42:28,Reviewer-A,0.0,2.87,Proceed,Manager-X,0.0,9.5,Approved,12.37,True
+INV-00965,DIST-001,Normal,141396.78,2026-06-26 08:45:32,Reviewer-B,0.0,0.44,Proceed,Manager-Y,0.0,11.39,Approved,11.82,True
+INV-00966,DIST-005,Normal,747146.0,2026-06-26 08:51:04,Reviewer-C,0.0,4.22,Proceed,Manager-X,0.0,20.46,Rejected,24.68,True
+INV-00967,DIST-012,Normal,387546.78,2026-06-26 08:55:23,Reviewer-A,0.0,24.46,Proceed,Manager-Y,0.0,5.85,Approved,30.31,True
+INV-00968,DIST-012,High,117998.25,2026-06-26 08:55:27,Reviewer-B,0.0,4.5,Proceed,Manager-X,15.78,0.08,Approved,20.36,True
+INV-00969,DIST-012,Normal,599288.23,2026-06-26 08:58:56,Reviewer-C,0.0,4.63,Proceed,Manager-X,12.25,9.95,Approved,26.83,True
+INV-00970,DIST-011,Normal,381174.37,2026-06-26 08:59:04,Reviewer-B,0.89,21.46,Proceed,Manager-Y,4.27,8.74,Approved,35.36,True
+INV-00971,DIST-012,Normal,836307.2,2026-06-26 09:06:54,Reviewer-C,0.0,2.78,Proceed,Manager-X,16.09,0.09,Approved,18.96,True
+INV-00972,DIST-011,Normal,783581.89,2026-06-26 09:12:59,Reviewer-C,0.0,0.57,Proceed,Manager-X,12.3,3.43,Approved,16.3,True
+INV-00973,DIST-008,Normal,822365.55,2026-06-26 09:14:08,Reviewer-C,0.0,4.07,Proceed,Manager-X,11.08,8.85,Approved,24.01,True
+INV-00974,DIST-011,High,339692.82,2026-06-26 09:31:55,Reviewer-C,0.0,4.04,Proceed,Manager-Y,0.0,6.48,Approved,10.52,True
+INV-00975,DIST-011,Normal,514511.8,2026-06-26 09:35:30,Reviewer-A,0.0,5.32,Proceed,Manager-X,0.0,1.29,Rejected,6.62,True
+INV-00976,DIST-009,Normal,620919.54,2026-06-26 09:43:47,Reviewer-B,0.0,11.29,Proceed,Manager-X,0.0,33.25,Approved,44.54,True
+INV-00977,DIST-011,Normal,478298.0,2026-06-26 09:47:52,Reviewer-C,0.0,16.67,Proceed,Manager-Y,0.0,27.23,Approved,43.9,True
+INV-00978,DIST-007,Normal,718468.61,2026-06-26 09:59:50,Reviewer-A,0.0,0.78,Proceed,Manager-X,27.71,6.5,Approved,34.99,True
+INV-00979,DIST-012,Normal,194743.23,2026-06-26 10:00:02,Reviewer-B,0.0,3.27,Proceed,Manager-Y,28.47,0.05,Approved,31.79,True
+INV-00980,DIST-010,High,687483.61,2026-06-26 10:00:24,Reviewer-A,0.22,1.23,Proceed,Manager-Y,29.97,25.56,Approved,56.98,True
+INV-00981,DIST-006,Normal,267630.95,2026-06-26 10:01:20,Reviewer-A,0.51,0.61,Proceed,Manager-X,32.37,15.68,Approved,49.17,True
+INV-00982,DIST-006,Normal,715228.91,2026-06-26 10:05:33,Reviewer-A,0.0,3.85,Returned,,,,Returned to Distributor,3.85,True
+INV-00983,DIST-006,Normal,444125.41,2026-06-26 10:13:13,Reviewer-B,0.0,0.45,Proceed,Manager-X,36.84,5.48,Approved,42.78,True
+INV-00984,DIST-002,Normal,77276.82,2026-06-26 10:15:45,Reviewer-C,0.0,0.2,Proceed,Manager-X,40.04,17.88,Approved,58.12,True
+INV-00985,DIST-008,Normal,51296.56,2026-06-26 10:16:20,Reviewer-A,0.0,3.39,Proceed,Manager-Y,37.65,0.55,Approved,41.59,True
+INV-00986,DIST-007,Normal,85976.56,2026-06-26 10:24:28,Reviewer-B,0.0,1.59,Proceed,Manager-Y,31.87,10.24,Approved,43.7,True
+INV-00987,DIST-007,Normal,748547.75,2026-06-26 10:26:32,Reviewer-C,0.0,2.49,Returned,,,,Returned to Distributor,2.49,True
+INV-00988,DIST-008,Normal,442044.89,2026-06-26 10:33:05,Reviewer-A,0.0,0.69,Proceed,Manager-Y,34.39,11.87,Approved,46.95,True
+INV-00989,DIST-010,Normal,111454.47,2026-06-26 10:40:57,Reviewer-B,0.0,2.63,Proceed,Manager-X,30.28,9.21,Approved,42.13,True
+INV-00990,DIST-001,Normal,56115.05,2026-06-26 10:41:35,Reviewer-C,0.0,3.43,Returned,,,,Returned to Distributor,3.43,True
+INV-00991,DIST-005,Normal,498197.7,2026-06-26 10:47:37,Reviewer-A,0.0,0.94,Proceed,Manager-Y,31.48,8.78,Approved,41.2,True
+INV-00992,DIST-009,Normal,500541.73,2026-06-26 11:02:41,Reviewer-B,0.0,0.35,Proceed,Manager-X,20.05,17.13,Approved,37.54,True
+INV-00993,DIST-004,Normal,830151.6,2026-06-26 11:05:02,Reviewer-C,0.0,1.35,Proceed,Manager-Y,22.44,1.99,Approved,25.78,True
+INV-00994,DIST-008,Normal,511799.15,2026-06-26 11:10:04,Reviewer-A,0.0,5.18,Returned,,,,Returned to Distributor,5.18,True
+INV-00995,DIST-007,Normal,282683.1,2026-06-26 11:14:10,Reviewer-B,0.0,12.53,Returned,,,,Returned to Distributor,12.53,True
+INV-00996,DIST-001,Normal,544758.16,2026-06-26 11:17:07,Reviewer-C,0.0,3.77,Proceed,Manager-Y,9.93,6.23,Approved,19.92,True
+INV-00997,DIST-012,Normal,322645.47,2026-06-26 11:24:20,Reviewer-A,0.0,10.5,Proceed,Manager-Y,2.21,0.09,Approved,12.8,True
+INV-00998,DIST-003,Normal,250536.9,2026-06-26 11:27:48,Reviewer-C,0.0,5.29,Proceed,Manager-Y,4.04,0.43,Approved,9.75,True
+INV-00999,DIST-003,Normal,190008.56,2026-06-26 11:28:45,Reviewer-B,0.0,1.15,Proceed,Manager-Y,7.66,2.68,Approved,11.49,True
+INV-01000,DIST-005,Normal,774498.36,2026-06-26 11:29:34,Reviewer-B,0.32,6.79,Proceed,Manager-X,3.53,14.71,Approved,25.35,True
+INV-01001,DIST-005,Normal,390492.11,2026-06-26 11:41:22,Reviewer-C,0.0,2.79,Proceed,Manager-Y,0.0,7.11,Approved,9.91,True
+INV-01002,DIST-007,Normal,747237.72,2026-06-26 11:45:33,Reviewer-A,0.0,0.94,Returned,,,,Returned to Distributor,0.94,True
+INV-01003,DIST-004,Normal,455008.73,2026-06-26 11:52:20,Reviewer-B,0.0,2.3,Proceed,Manager-Y,0.0,9.6,Approved,11.9,True
+INV-01004,DIST-010,Normal,164791.33,2026-06-26 11:58:30,Reviewer-C,0.0,9.35,Proceed,Manager-X,0.0,0.52,Approved,9.87,True
+INV-01005,DIST-009,High,823284.74,2026-06-26 12:07:21,Reviewer-A,0.0,1.13,Proceed,Manager-Y,0.0,5.14,Approved,6.26,True
+INV-01006,DIST-009,High,332957.89,2026-06-26 12:07:38,Reviewer-B,0.0,6.68,Proceed,Manager-X,0.0,5.91,Approved,12.58,True
+INV-01007,DIST-009,Normal,591860.67,2026-06-26 12:12:59,Reviewer-C,0.0,4.1,Proceed,Manager-Y,0.0,4.87,Approved,8.96,True
+INV-01008,DIST-001,High,180083.66,2026-06-26 12:16:44,Reviewer-A,0.0,2.89,Proceed,Manager-X,0.6,1.99,Approved,5.48,True
+INV-01009,DIST-003,Normal,795496.58,2026-06-26 12:18:46,Reviewer-B,0.0,4.8,Proceed,Manager-Y,0.0,0.83,Approved,5.63,True
+INV-01010,DIST-010,Normal,39765.77,2026-06-26 12:20:37,Reviewer-C,0.0,2.46,Proceed,Manager-X,0.0,5.38,Approved,7.84,True
+INV-01011,DIST-005,Normal,328103.43,2026-06-26 12:23:34,Reviewer-A,0.0,1.6,Proceed,Manager-Y,0.0,4.23,Approved,5.82,True
+INV-01012,DIST-009,Normal,466920.85,2026-06-26 12:31:30,Reviewer-C,0.0,1.94,Proceed,Manager-X,0.0,1.2,Approved,3.14,True
+INV-01013,DIST-006,Normal,171166.14,2026-06-26 12:34:53,Reviewer-B,0.0,2.16,Proceed,Manager-Y,0.0,10.93,Approved,13.09,True
+INV-01014,DIST-003,Normal,848652.31,2026-06-26 12:40:07,Reviewer-A,0.0,8.08,Returned,,,,Returned to Distributor,8.08,True
+INV-01015,DIST-005,Normal,243159.25,2026-06-26 12:40:09,Reviewer-C,0.0,34.55,Returned,,,,Returned to Distributor,34.55,True
+INV-01016,DIST-011,Normal,15047.66,2026-06-26 12:47:33,Reviewer-B,0.0,27.21,Returned,,,,Returned to Distributor,27.21,True
+INV-01017,DIST-004,Normal,196752.73,2026-06-26 12:56:09,Reviewer-A,0.0,3.86,Proceed,Manager-X,0.0,14.65,Approved,18.51,True
+INV-01018,DIST-008,Normal,292857.34,2026-06-26 13:01:38,Reviewer-A,0.0,11.22,Proceed,Manager-Y,0.0,27.04,Approved,38.26,True
+INV-01019,DIST-009,Normal,30437.94,2026-06-26 13:04:07,Reviewer-A,8.74,12.42,Proceed,Manager-X,0.0,12.72,Approved,33.88,True
+INV-01020,DIST-006,Normal,292149.79,2026-06-26 13:08:43,Reviewer-C,5.98,6.95,Proceed,Manager-X,16.34,14.33,Approved,43.59,True
+INV-01021,DIST-001,Normal,484602.93,2026-06-26 13:10:25,Reviewer-B,4.34,0.9,Returned,,,,Returned to Distributor,5.24,True
+INV-01022,DIST-010,Normal,537214.21,2026-06-26 13:32:32,Reviewer-B,0.0,5.62,Proceed,Manager-Y,1.75,37.25,Approved,44.61,True
+INV-01023,DIST-009,Normal,331536.6,2026-06-26 13:34:39,Reviewer-C,0.0,2.39,Returned,,,,Returned to Distributor,2.39,True
+INV-01024,DIST-005,Normal,83789.07,2026-06-26 13:39:01,Reviewer-A,0.0,4.83,Proceed,Manager-X,8.47,11.1,Approved,24.4,True
+INV-01025,DIST-002,Normal,775086.79,2026-06-26 13:39:54,Reviewer-C,0.0,1.38,Proceed,Manager-X,22.13,7.06,Approved,30.57,True
+INV-01026,DIST-001,High,150192.73,2026-06-26 13:41:53,Reviewer-B,0.0,2.54,Proceed,Manager-X,26.06,0.95,Approved,29.55,True
+INV-01027,DIST-002,High,333699.0,2026-06-26 13:44:40,Reviewer-C,0.0,1.11,Proceed,Manager-X,25.65,2.99,Approved,29.75,True
+INV-01028,DIST-003,High,515134.48,2026-06-26 13:49:21,Reviewer-A,0.0,4.25,Proceed,Manager-X,20.82,9.32,Approved,34.39,True
+INV-01029,DIST-003,Normal,381643.19,2026-06-26 13:49:23,Reviewer-B,0.0,5.57,Proceed,Manager-Y,22.19,3.79,Approved,31.55,True
+INV-01030,DIST-008,Normal,491832.18,2026-06-26 13:52:16,Reviewer-C,0.0,2.04,Returned,,,,Returned to Distributor,2.04,True
+INV-01031,DIST-012,Normal,717030.36,2026-06-26 13:54:53,Reviewer-A,0.0,2.98,Proceed,Manager-Y,23.07,18.01,Approved,44.06,True
+INV-01032,DIST-010,Normal,624591.14,2026-06-26 13:55:44,Reviewer-C,0.0,14.5,Proceed,Manager-X,13.5,7.99,Approved,35.99,True
+INV-01033,DIST-004,Normal,753282.84,2026-06-26 14:08:13,Reviewer-B,0.0,12.85,Proceed,Manager-X,10.66,10.44,Approved,33.95,True
+INV-01034,DIST-004,Normal,772882.32,2026-06-26 14:13:46,Reviewer-A,0.0,8.61,Proceed,Manager-Y,16.56,4.37,Approved,29.54,True
+INV-01035,DIST-006,Normal,351531.18,2026-06-26 14:16:47,Reviewer-C,0.0,1.39,Proceed,Manager-X,23.99,0.26,Approved,25.64,True
+INV-01036,DIST-008,Normal,327076.45,2026-06-26 14:21:37,Reviewer-C,0.0,11.62,Proceed,Manager-X,9.19,0.1,Approved,20.91,True
+INV-01037,DIST-006,Normal,571399.76,2026-06-26 14:32:17,Reviewer-B,0.0,3.71,Proceed,Manager-X,6.53,10.17,Approved,20.41,True
+INV-01038,DIST-008,Normal,698260.55,2026-06-26 14:34:45,Reviewer-A,0.0,1.12,Proceed,Manager-Y,7.44,1.01,Approved,9.57,True
+INV-01039,DIST-007,Normal,147343.1,2026-06-26 14:38:02,Reviewer-C,0.0,0.07,Proceed,Manager-Y,6.22,5.52,Approved,11.81,True
+INV-01040,DIST-011,Normal,454792.49,2026-06-26 14:43:24,Reviewer-A,0.0,0.29,Proceed,Manager-Y,6.15,7.03,Approved,13.47,True
+INV-01041,DIST-002,Normal,335072.54,2026-06-26 14:48:01,Reviewer-B,0.0,0.32,Proceed,Manager-X,4.34,14.06,Approved,18.73,True
+INV-01042,DIST-006,Normal,772899.14,2026-06-26 14:59:21,Reviewer-C,0.0,0.1,Proceed,Manager-Y,0.0,0.14,Approved,0.24,True
+INV-01043,DIST-002,High,191379.83,2026-06-26 15:04:14,Reviewer-A,0.0,7.65,Proceed,Manager-Y,0.0,1.48,Approved,9.14,True
+INV-01044,DIST-002,Normal,694202.56,2026-06-26 15:06:32,Reviewer-B,0.0,5.91,Proceed,Manager-X,0.0,25.87,Approved,31.78,True
+INV-01045,DIST-004,Normal,185644.09,2026-06-26 15:08:56,Reviewer-C,0.0,1.14,Proceed,Manager-Y,3.3,3.61,Approved,8.05,True
+INV-01046,DIST-002,Normal,560977.64,2026-06-26 15:11:33,Reviewer-C,0.0,5.87,Proceed,Manager-Y,0.0,20.58,Approved,26.45,True
+INV-01047,DIST-008,Normal,835721.61,2026-06-26 15:17:49,Reviewer-A,0.0,4.61,Returned,,,,Returned to Distributor,4.61,True
+INV-01048,DIST-003,Normal,217889.43,2026-06-26 15:25:57,Reviewer-B,0.0,2.35,Proceed,Manager-Y,9.7,4.67,Approved,16.73,True
+INV-01049,DIST-003,Normal,285579.33,2026-06-26 15:32:17,Reviewer-C,0.0,12.92,Proceed,Manager-X,0.0,18.12,Approved,31.04,True
+INV-01050,DIST-010,Normal,775727.25,2026-06-26 15:34:02,Reviewer-A,0.0,4.29,Proceed,Manager-Y,4.36,6.65,Approved,15.31,True
+INV-01051,DIST-001,High,525814.63,2026-06-26 15:34:05,Reviewer-B,0.0,1.77,Proceed,Manager-Y,13.47,11.43,Approved,26.68,True
+INV-01052,DIST-006,Normal,426423.88,2026-06-26 15:34:21,Reviewer-B,1.51,2.83,Proceed,Manager-Y,22.08,2.58,Approved,29.0,True
+INV-01053,DIST-008,Normal,629671.01,2026-06-26 15:53:30,Reviewer-A,0.0,1.96,Proceed,Manager-X,7.86,13.58,Approved,23.39,True
+INV-01054,DIST-011,Normal,691740.41,2026-06-26 16:09:47,Reviewer-B,0.0,1.56,Proceed,Manager-Y,0.0,3.99,Approved,5.55,True
+INV-01055,DIST-011,Normal,840177.95,2026-06-26 16:10:01,Reviewer-C,0.0,7.15,Proceed,Manager-Y,0.0,19.58,Approved,26.73,True
+INV-01056,DIST-011,High,10106.05,2026-06-26 16:10:53,Reviewer-A,0.0,0.35,Proceed,Manager-X,5.66,8.12,Approved,14.14,True
+INV-01057,DIST-002,Normal,151756.07,2026-06-26 16:11:52,Reviewer-A,0.0,9.52,Proceed,Manager-X,3.64,6.73,Approved,19.89,True
+INV-01058,DIST-003,Normal,614814.33,2026-06-26 16:14:34,Reviewer-B,0.0,1.16,Proceed,Manager-X,16.02,3.19,Approved,20.38,True
+INV-01059,DIST-005,Normal,733749.57,2026-06-26 16:18:54,Reviewer-B,0.0,18.1,Proceed,Manager-X,0.0,4.51,Approved,22.6,True
+INV-01060,DIST-010,Normal,626014.25,2026-06-26 16:21:15,Reviewer-C,0.0,10.28,Proceed,Manager-Y,5.23,0.19,Approved,15.7,True
+INV-01061,DIST-005,Normal,507929.94,2026-06-26 16:29:30,Reviewer-A,0.0,7.78,Proceed,Manager-Y,0.0,5.92,Approved,13.7,True
+INV-01062,DIST-010,Normal,411313.46,2026-06-26 16:31:31,Reviewer-C,0.01,7.53,Proceed,Manager-X,2.44,23.55,Approved,33.53,True
+INV-01063,DIST-012,Normal,617916.84,2026-06-26 16:39:59,Reviewer-B,0.0,15.6,Returned,,,,Returned to Distributor,15.6,True
+INV-01064,DIST-006,Normal,329511.62,2026-06-26 16:55:05,Reviewer-A,0.0,26.3,Proceed,Manager-Y,0.0,20.55,Rejected,46.85,True
+INV-01065,DIST-010,Normal,142196.21,2026-06-26 16:55:39,Reviewer-C,0.0,18.89,Proceed,Manager-X,0.0,13.23,Approved,32.12,True
+INV-01066,DIST-006,Normal,593504.82,2026-06-27 08:04:19,Reviewer-A,0.0,15.66,Proceed,Manager-X,0.0,2.64,Approved,18.3,True
+INV-01067,DIST-011,Normal,602042.32,2026-06-27 08:11:30,Reviewer-B,0.0,6.57,Proceed,Manager-Y,0.0,8.83,Rejected,15.41,True
+INV-01068,DIST-004,High,513816.18,2026-06-27 08:12:11,Reviewer-C,0.0,8.84,Proceed,Manager-X,1.59,11.9,Approved,22.33,True
+INV-01069,DIST-007,High,601628.96,2026-06-27 08:22:51,Reviewer-B,0.0,0.4,Returned,,,,Returned to Distributor,0.4,True
+INV-01070,DIST-003,Normal,706138.38,2026-06-27 08:31:47,Reviewer-A,0.0,2.16,Returned,,,,Returned to Distributor,2.16,True
+INV-01071,DIST-007,Normal,500237.41,2026-06-27 08:36:24,Reviewer-C,0.0,8.38,Returned,,,,Returned to Distributor,8.38,True
+INV-01072,DIST-002,Normal,542572.31,2026-06-27 08:45:07,Reviewer-B,0.0,2.53,Proceed,Manager-Y,0.0,13.12,Rejected,15.65,True
+INV-01073,DIST-005,Normal,10425.16,2026-06-27 08:47:18,Reviewer-A,0.0,4.06,Proceed,Manager-X,0.0,14.12,Approved,18.18,True
+INV-01074,DIST-005,Normal,624420.69,2026-06-27 08:49:36,Reviewer-C,0.0,2.82,Proceed,Manager-Y,8.35,2.1,Approved,13.27,True
+INV-01075,DIST-008,Normal,484192.85,2026-06-27 09:02:19,Reviewer-B,0.0,1.35,Proceed,Manager-Y,0.0,15.74,Approved,17.08,True
+INV-01076,DIST-007,High,377417.23,2026-06-27 09:19:46,Reviewer-A,0.0,0.56,Proceed,Manager-X,0.0,0.67,Approved,1.23,True
+INV-01077,DIST-002,Normal,294118.37,2026-06-27 09:20:20,Reviewer-C,0.0,3.9,Proceed,Manager-Y,0.0,1.01,Approved,4.91,True
+INV-01078,DIST-001,Normal,567197.33,2026-06-27 09:26:18,Reviewer-B,0.0,0.26,Proceed,Manager-X,0.0,14.91,Approved,15.16,True
+INV-01079,DIST-005,Normal,792648.48,2026-06-27 09:29:27,Reviewer-A,0.0,2.47,Proceed,Manager-Y,0.0,4.4,Approved,6.87,True
+INV-01080,DIST-004,Normal,800137.43,2026-06-27 10:01:35,Reviewer-C,0.0,2.85,Proceed,Manager-Y,0.0,4.18,Approved,7.03,True
+INV-01081,DIST-008,Normal,740607.58,2026-06-27 10:02:02,Reviewer-B,0.0,10.83,Returned,,,,Returned to Distributor,10.83,True
+INV-01082,DIST-002,Normal,739309.46,2026-06-27 10:02:09,Reviewer-A,0.0,7.21,Proceed,Manager-X,0.0,4.37,Approved,11.57,True
+INV-01083,DIST-008,Normal,440102.33,2026-06-27 10:06:45,Reviewer-C,0.0,0.02,Proceed,Manager-Y,1.84,27.04,Approved,28.9,True
+INV-01084,DIST-001,Normal,824309.95,2026-06-27 10:11:04,Reviewer-C,0.0,6.8,Proceed,Manager-X,0.0,6.3,Approved,13.09,True
+INV-01085,DIST-006,High,366589.26,2026-06-27 10:17:50,Reviewer-A,0.0,12.82,Returned,,,,Returned to Distributor,12.82,True
+INV-01086,DIST-002,Normal,625464.69,2026-06-27 10:26:10,Reviewer-B,0.0,1.3,Proceed,Manager-X,0.0,6.97,Approved,8.28,True
+INV-01087,DIST-009,Normal,31825.16,2026-06-27 10:34:30,Reviewer-C,0.0,0.55,Proceed,Manager-X,0.0,53.21,Rejected,53.75,True
+INV-01088,DIST-008,Normal,812018.28,2026-06-27 10:37:12,Reviewer-B,0.0,4.67,Proceed,Manager-Y,0.0,1.78,Rejected,6.44,True
+INV-01089,DIST-002,Normal,372484.93,2026-06-27 10:42:21,Reviewer-A,0.0,1.05,Returned,,,,Returned to Distributor,1.05,True
+INV-01090,DIST-005,Normal,191217.75,2026-06-27 10:52:20,Reviewer-C,0.0,3.88,Returned,,,,Returned to Distributor,3.88,True
+INV-01091,DIST-003,Normal,784712.08,2026-06-27 10:52:54,Reviewer-B,0.0,4.06,Proceed,Manager-Y,0.0,3.84,Approved,7.91,True
+INV-01092,DIST-010,Normal,59643.64,2026-06-27 10:56:35,Reviewer-A,0.0,14.46,Proceed,Manager-Y,0.0,12.27,Approved,26.72,True
+INV-01093,DIST-007,Normal,688138.12,2026-06-27 11:03:10,Reviewer-C,0.0,0.74,Proceed,Manager-Y,19.4,0.89,Approved,21.02,True
+INV-01094,DIST-012,Normal,800996.49,2026-06-27 11:15:02,Reviewer-B,0.0,0.82,Proceed,Manager-Y,8.34,4.54,Approved,13.7,True
+INV-01095,DIST-010,Normal,457584.57,2026-06-27 11:16:37,Reviewer-C,0.0,23.43,Proceed,Manager-X,0.0,4.31,Approved,27.74,True
+INV-01096,DIST-009,Normal,565862.65,2026-06-27 11:23:27,Reviewer-A,0.0,0.68,Proceed,Manager-Y,4.61,18.17,Approved,23.46,True
+INV-01097,DIST-005,Normal,712448.07,2026-06-27 11:30:42,Reviewer-B,0.0,3.65,Proceed,Manager-X,10.01,1.5,Approved,15.16,True
+INV-01098,DIST-012,Normal,34020.57,2026-06-27 11:37:38,Reviewer-A,0.0,4.19,Proceed,Manager-X,4.04,3.03,Approved,11.27,True
+INV-01099,DIST-011,Normal,705240.77,2026-06-27 11:41:17,Reviewer-B,0.0,7.31,Proceed,Manager-Y,0.0,37.72,Approved,45.03,True
+INV-01100,DIST-004,High,721619.11,2026-06-27 11:48:50,Reviewer-C,0.0,1.22,Proceed,Manager-X,0.0,20.72,Approved,21.94,True
+INV-01101,DIST-012,High,336077.64,2026-06-27 11:57:09,Reviewer-A,0.0,5.17,Proceed,Manager-X,8.45,38.09,Approved,51.71,True
+INV-01102,DIST-011,Normal,405041.27,2026-06-27 11:58:55,Reviewer-B,0.0,2.98,Proceed,Manager-Y,24.42,12.33,Approved,39.72,True
+INV-01103,DIST-012,Normal,728533.13,2026-06-27 12:09:55,Reviewer-C,0.0,0.84,Proceed,Manager-Y,27.89,8.25,Approved,36.98,True
+INV-01104,DIST-012,Normal,261942.54,2026-06-27 12:18:02,Reviewer-B,0.0,5.16,Proceed,Manager-Y,23.69,6.26,Approved,35.11,True
+INV-01105,DIST-012,Normal,170328.53,2026-06-27 12:19:03,Reviewer-A,0.0,2.7,Proceed,Manager-X,27.12,1.02,Approved,30.84,True
+INV-01106,DIST-007,Normal,808086.44,2026-06-27 12:27:26,Reviewer-C,0.0,11.06,Returned,,,,Returned to Distributor,11.06,True
+INV-01107,DIST-008,Normal,156789.78,2026-06-27 12:27:52,Reviewer-A,0.0,23.56,Proceed,Manager-X,0.0,8.55,Rejected,32.1,True
+INV-01108,DIST-007,Normal,212025.85,2026-06-27 12:32:05,Reviewer-B,0.0,3.03,Proceed,Manager-Y,18.03,8.61,Approved,29.68,True
+INV-01109,DIST-012,Normal,842533.55,2026-06-27 12:37:57,Reviewer-B,0.0,0.56,Proceed,Manager-X,21.46,16.2,Approved,38.21,True
+INV-01110,DIST-008,Normal,315387.98,2026-06-27 12:42:14,Reviewer-C,0.0,0.52,Proceed,Manager-Y,19.01,10.5,Approved,30.03,True
+INV-01111,DIST-010,Normal,839310.19,2026-06-27 12:42:20,Reviewer-B,0.0,7.1,Proceed,Manager-Y,22.83,8.54,Approved,38.47,True
+INV-01112,DIST-012,Normal,371439.72,2026-06-27 13:25:09,Reviewer-C,0.0,0.63,Proceed,Manager-X,0.0,22.76,Approved,23.39,True
+INV-01113,DIST-012,Normal,21685.7,2026-06-27 13:26:02,Reviewer-B,0.0,4.61,Proceed,Manager-Y,0.0,6.37,Approved,10.98,True
+INV-01114,DIST-012,Normal,696909.33,2026-06-27 13:29:48,Reviewer-A,0.0,8.4,Proceed,Manager-Y,0.0,10.21,Approved,18.61,True
+INV-01115,DIST-012,Normal,157047.24,2026-06-27 13:38:17,Reviewer-C,0.0,9.67,Proceed,Manager-Y,0.45,1.31,Approved,11.43,True
+INV-01116,DIST-009,Normal,221962.61,2026-06-27 13:39:02,Reviewer-B,0.0,0.53,Proceed,Manager-X,8.97,3.37,Rejected,12.87,True
+INV-01117,DIST-011,Normal,5072.3,2026-06-27 13:39:51,Reviewer-A,0.0,17.54,Proceed,Manager-Y,0.0,14.51,Approved,32.04,True
+INV-01118,DIST-010,Normal,419424.19,2026-06-27 13:42:22,Reviewer-B,0.0,14.5,Returned,,,,Returned to Distributor,14.5,True
+INV-01119,DIST-009,Normal,182314.38,2026-06-27 13:46:22,Reviewer-C,1.6,10.28,Proceed,Manager-X,0.0,1.98,Approved,13.86,True
+INV-01120,DIST-003,Normal,513812.01,2026-06-27 13:54:01,Reviewer-B,2.85,2.67,Proceed,Manager-X,0.68,9.25,Approved,15.44,True
+INV-01121,DIST-007,Normal,554054.75,2026-06-27 13:55:17,Reviewer-A,2.1,3.65,Returned,,,,Returned to Distributor,5.75,True
+INV-01122,DIST-012,Normal,126041.14,2026-06-27 14:00:07,Reviewer-C,0.0,5.96,Proceed,Manager-X,3.39,9.53,Approved,18.87,True
+INV-01123,DIST-010,Normal,560433.75,2026-06-27 14:05:29,Reviewer-B,0.0,5.57,Proceed,Manager-Y,0.82,1.58,Rejected,7.98,True
+INV-01124,DIST-001,Normal,819594.96,2026-06-27 14:07:56,Reviewer-A,0.0,1.89,Proceed,Manager-Y,3.65,10.94,Approved,16.49,True
+INV-01125,DIST-002,Normal,311582.46,2026-06-27 14:09:38,Reviewer-C,0.0,1.92,Proceed,Manager-X,7.44,2.43,Approved,11.78,True
+INV-01126,DIST-004,Normal,324944.34,2026-06-27 14:11:40,Reviewer-A,0.0,15.59,Proceed,Manager-X,0.0,12.38,Approved,27.97,True
+INV-01127,DIST-008,Normal,85731.77,2026-06-27 14:19:03,Reviewer-B,0.0,5.09,Proceed,Manager-Y,0.27,3.0,Approved,8.37,True
+INV-01128,DIST-006,Normal,804801.21,2026-06-27 14:19:16,Reviewer-C,0.0,2.54,Proceed,Manager-Y,5.62,32.7,Approved,40.86,True
+INV-01129,DIST-007,Normal,407948.28,2026-06-27 14:23:08,Reviewer-C,0.0,0.06,Proceed,Manager-X,16.45,1.61,Approved,18.12,True
+INV-01130,DIST-012,High,230927.57,2026-06-27 14:25:10,Reviewer-C,0.0,4.89,Proceed,Manager-X,11.18,12.14,Approved,28.21,True
+INV-01131,DIST-008,High,159723.32,2026-06-27 14:27:29,Reviewer-B,0.0,7.69,Proceed,Manager-X,18.2,2.61,Approved,28.5,True
+INV-01132,DIST-004,High,262883.38,2026-06-27 14:39:40,Reviewer-A,0.0,14.14,Proceed,Manager-X,2.18,3.03,Approved,19.35,True
+INV-01133,DIST-012,Normal,207831.05,2026-06-27 14:40:02,Reviewer-C,0.0,5.14,Proceed,Manager-X,13.85,3.2,Approved,22.19,True
+INV-01134,DIST-001,Normal,818030.55,2026-06-27 14:47:06,Reviewer-B,0.0,4.26,Proceed,Manager-Y,8.75,6.21,Approved,19.22,True
+INV-01135,DIST-009,Normal,594710.25,2026-06-27 15:13:39,Reviewer-C,0.0,5.75,Returned,,,,Returned to Distributor,5.75,True
+INV-01136,DIST-012,Normal,364107.18,2026-06-27 15:19:31,Reviewer-B,0.0,2.54,Returned,,,,Returned to Distributor,2.54,True
+INV-01137,DIST-009,Normal,583046.0,2026-06-27 15:24:09,Reviewer-A,0.0,3.57,Proceed,Manager-X,0.0,25.29,Approved,28.86,True
+INV-01138,DIST-003,Normal,68478.41,2026-06-27 15:34:11,Reviewer-C,0.0,4.33,Returned,,,,Returned to Distributor,4.33,True
+INV-01139,DIST-007,High,149058.95,2026-06-27 15:36:33,Reviewer-B,0.0,1.98,Proceed,Manager-Y,0.0,14.39,Approved,16.37,True
+INV-01140,DIST-005,Normal,257805.4,2026-06-27 15:44:54,Reviewer-A,0.0,1.44,Proceed,Manager-Y,6.57,7.99,Approved,16.0,True
+INV-01141,DIST-011,High,440622.02,2026-06-27 15:46:28,Reviewer-C,0.0,13.15,Returned,,,,Returned to Distributor,13.15,True
+INV-01142,DIST-001,Normal,305603.73,2026-06-27 15:54:33,Reviewer-B,0.0,2.39,Proceed,Manager-X,0.0,0.05,Approved,2.44,True
+INV-01143,DIST-006,Normal,12489.85,2026-06-27 15:55:26,Reviewer-A,0.0,1.32,Proceed,Manager-X,0.24,21.73,Approved,23.29,True
+INV-01144,DIST-001,Normal,136507.69,2026-06-27 16:05:54,Reviewer-A,0.0,1.54,Proceed,Manager-Y,0.0,3.38,Approved,4.92,True
+INV-01145,DIST-005,Normal,96847.27,2026-06-27 16:06:46,Reviewer-B,0.0,10.97,Proceed,Manager-Y,0.0,4.15,Approved,15.12,True
+INV-01146,DIST-012,Normal,172702.6,2026-06-27 16:08:40,Reviewer-C,0.0,0.25,Proceed,Manager-X,9.8,12.94,Approved,22.99,True
+INV-01147,DIST-004,High,806377.58,2026-06-27 16:09:25,Reviewer-A,0.0,19.54,Proceed,Manager-Y,0.0,5.42,Approved,24.96,True
+INV-01148,DIST-003,Normal,279530.11,2026-06-27 16:14:19,Reviewer-C,0.0,12.81,Proceed,Manager-X,4.53,24.43,Approved,41.76,True
+INV-01149,DIST-002,Normal,814238.41,2026-06-27 16:16:26,Reviewer-B,1.3,0.81,Proceed,Manager-Y,15.84,0.13,Approved,18.07,True
+INV-01150,DIST-006,Normal,368066.97,2026-06-27 16:16:40,Reviewer-B,1.88,0.05,Proceed,Manager-Y,15.92,3.15,Approved,20.99,True
+INV-01151,DIST-010,Normal,133858.89,2026-06-27 16:19:04,Reviewer-B,0.0,1.72,Proceed,Manager-Y,16.87,18.97,Rejected,37.56,True
+INV-01152,DIST-007,Normal,172658.53,2026-06-27 16:20:17,Reviewer-B,0.5,9.96,Proceed,Manager-X,25.34,6.63,Approved,42.43,True
+INV-01153,DIST-010,Normal,536427.18,2026-06-27 16:41:17,Reviewer-C,0.0,0.77,Proceed,Manager-Y,14.57,3.04,Approved,18.38,True
+INV-01154,DIST-001,Normal,525914.92,2026-06-27 16:41:57,Reviewer-A,0.0,0.31,Proceed,Manager-Y,17.39,3.48,Approved,21.18,True
+INV-01155,DIST-006,Normal,365034.1,2026-06-27 16:43:05,Reviewer-B,0.0,3.34,Proceed,Manager-X,16.29,1.11,Approved,20.74,True
+INV-01156,DIST-012,Normal,358272.7,2026-06-27 16:55:22,Reviewer-C,0.0,0.29,Proceed,Manager-Y,7.48,0.51,Approved,8.28,True
+INV-01157,DIST-008,Normal,241734.65,2026-06-27 16:56:23,Reviewer-A,0.0,3.38,Proceed,Manager-Y,3.88,6.42,Approved,13.68,True
+INV-01158,DIST-011,Normal,16544.04,2026-06-27 16:56:53,Reviewer-B,0.0,11.88,Proceed,Manager-X,0.0,12.84,Approved,24.73,True
+INV-01159,DIST-006,Normal,206323.13,2026-06-29 08:03:13,Reviewer-A,0.0,5.27,Proceed,Manager-X,0.0,1.07,Approved,6.34,True
+INV-01160,DIST-001,High,500644.43,2026-06-29 08:07:10,Reviewer-B,0.0,5.1,Proceed,Manager-Y,0.0,9.85,Approved,14.95,True
+INV-01161,DIST-009,Normal,528063.76,2026-06-29 08:07:30,Reviewer-C,0.0,3.86,Proceed,Manager-X,0.0,7.24,Approved,11.1,True
+INV-01162,DIST-007,Normal,470168.85,2026-06-29 08:08:05,Reviewer-A,0.4,12.58,Proceed,Manager-X,0.0,22.55,Rejected,35.52,True
+INV-01163,DIST-008,Normal,537235.62,2026-06-29 08:17:44,Reviewer-C,0.0,3.44,Proceed,Manager-Y,0.93,7.05,Rejected,11.42,True
+INV-01164,DIST-003,Normal,511284.84,2026-06-29 08:24:27,Reviewer-B,0.0,0.83,Proceed,Manager-Y,3.89,7.93,Approved,12.65,True
+INV-01165,DIST-012,Normal,693280.81,2026-06-29 08:29:31,Reviewer-A,0.0,4.56,Proceed,Manager-Y,3.01,0.74,Approved,8.32,True
+INV-01166,DIST-009,Normal,663569.49,2026-06-29 08:32:34,Reviewer-C,0.0,1.9,Proceed,Manager-Y,3.36,1.66,Approved,6.92,True
+INV-01167,DIST-009,Normal,389847.63,2026-06-29 08:37:41,Reviewer-B,0.0,4.47,Proceed,Manager-Y,0.0,2.36,Approved,6.83,True
+INV-01168,DIST-003,Normal,194220.39,2026-06-29 08:41:07,Reviewer-A,0.0,2.07,Proceed,Manager-X,0.41,27.06,Approved,29.54,True
+INV-01169,DIST-001,Normal,547839.09,2026-06-29 08:41:44,Reviewer-C,0.0,10.4,Proceed,Manager-Y,0.0,0.01,Approved,10.42,True
+INV-01170,DIST-006,High,279254.78,2026-06-29 08:45:43,Reviewer-B,0.0,10.34,Proceed,Manager-Y,0.0,1.16,Approved,11.5,True
+INV-01171,DIST-001,Normal,533932.23,2026-06-29 08:47:13,Reviewer-A,0.0,2.64,Proceed,Manager-Y,7.36,3.12,Approved,13.12,True
+INV-01172,DIST-011,Normal,832054.22,2026-06-29 08:47:17,Reviewer-A,2.57,9.1,Proceed,Manager-Y,1.38,13.01,Approved,26.06,True
+INV-01173,DIST-011,Normal,540988.18,2026-06-29 08:51:50,Reviewer-C,0.31,10.18,Proceed,Manager-X,8.34,2.97,Approved,21.81,True
+INV-01174,DIST-007,Normal,136517.05,2026-06-29 08:58:54,Reviewer-B,0.0,7.77,Proceed,Manager-Y,6.67,22.08,Approved,36.53,True
+INV-01175,DIST-003,Normal,694180.3,2026-06-29 08:59:45,Reviewer-A,0.0,5.06,Returned,,,,Returned to Distributor,5.06,True
+INV-01176,DIST-005,Normal,22784.97,2026-06-29 09:00:36,Reviewer-C,1.72,1.17,Proceed,Manager-X,10.14,8.89,Approved,21.92,True
+INV-01177,DIST-004,Normal,389495.42,2026-06-29 09:00:56,Reviewer-C,2.57,3.09,Proceed,Manager-X,15.94,1.4,Approved,23.0,True
+INV-01178,DIST-002,Normal,324304.48,2026-06-29 09:00:59,Reviewer-A,3.84,10.51,Proceed,Manager-X,8.61,9.82,Approved,32.78,True
+INV-01179,DIST-002,High,231169.72,2026-06-29 09:02:12,Reviewer-C,4.39,4.39,Proceed,Manager-X,22.77,0.08,Approved,31.63,True
+INV-01180,DIST-006,Normal,725548.58,2026-06-29 09:05:33,Reviewer-B,1.12,0.9,Proceed,Manager-X,26.26,21.18,Approved,49.46,True
+INV-01181,DIST-008,Normal,135563.76,2026-06-29 09:07:08,Reviewer-B,0.44,7.07,Proceed,Manager-Y,20.79,1.25,Approved,29.55,True
+INV-01182,DIST-005,High,91668.35,2026-06-29 09:07:36,Reviewer-C,3.39,2.58,Proceed,Manager-Y,23.12,2.05,Approved,31.13,True
+INV-01183,DIST-006,Normal,558783.08,2026-06-29 09:09:41,Reviewer-C,3.88,12.67,Proceed,Manager-Y,12.5,20.48,Approved,49.53,True
+INV-01184,DIST-003,Normal,842199.01,2026-06-29 09:10:11,Reviewer-B,4.45,18.81,Proceed,Manager-X,21.57,0.75,Approved,45.58,True
+INV-01185,DIST-002,Normal,761770.58,2026-06-29 09:12:06,Reviewer-A,3.22,1.18,Proceed,Manager-X,39.26,8.7,Approved,52.36,True
+INV-01186,DIST-011,Normal,585650.81,2026-06-29 09:12:48,Reviewer-A,3.7,2.03,Proceed,Manager-Y,40.68,3.0,Approved,49.41,True
+INV-01187,DIST-005,Normal,690057.91,2026-06-29 09:14:47,Reviewer-A,3.76,0.48,Proceed,Manager-Y,43.2,25.69,Approved,73.13,True
+INV-01188,DIST-006,Normal,129874.25,2026-06-29 09:19:21,Reviewer-A,0.0,9.56,Returned,,,,Returned to Distributor,9.56,True
+INV-01189,DIST-002,High,493277.23,2026-06-29 09:26:34,Reviewer-C,0.0,1.57,Proceed,Manager-X,36.32,42.42,Approved,80.31,True
+INV-01190,DIST-006,Normal,422604.47,2026-06-29 09:28:39,Reviewer-C,0.0,21.64,Proceed,Manager-Y,37.61,9.62,Approved,68.87,True
+INV-01191,DIST-004,Normal,328791.5,2026-06-29 09:41:01,Reviewer-A,0.0,4.64,Proceed,Manager-Y,51.87,7.3,Approved,63.81,True
+INV-01192,DIST-012,Normal,361455.44,2026-06-29 09:41:23,Reviewer-B,0.0,7.1,Proceed,Manager-Y,56.34,11.54,Approved,74.97,True
+INV-01193,DIST-001,Normal,311226.68,2026-06-29 09:41:24,Reviewer-A,4.26,0.86,Proceed,Manager-X,60.37,23.02,Approved,88.51,True
+INV-01194,DIST-003,Normal,254019.21,2026-06-29 09:49:31,Reviewer-A,0.0,11.52,Returned,,,,Returned to Distributor,11.52,True
+INV-01195,DIST-004,Normal,183073.08,2026-06-29 09:59:58,Reviewer-B,0.0,8.25,Proceed,Manager-Y,48.14,11.31,Approved,67.69,True
+INV-01196,DIST-012,Normal,820351.65,2026-06-29 10:05:38,Reviewer-C,0.0,7.25,Proceed,Manager-Y,54.78,0.73,Approved,62.76,True
+INV-01197,DIST-001,Normal,129119.24,2026-06-29 10:14:24,Reviewer-A,0.0,1.69,Proceed,Manager-Y,52.31,16.89,Approved,70.89,True
+INV-01198,DIST-008,Normal,633306.46,2026-06-29 10:20:36,Reviewer-B,0.0,7.2,Proceed,Manager-X,42.1,5.04,Approved,54.34,True
+INV-01199,DIST-012,Normal,16161.96,2026-06-29 10:27:07,Reviewer-C,0.0,0.37,Proceed,Manager-X,47.45,8.8,Approved,56.62,True
+INV-01200,DIST-007,Normal,708614.68,2026-06-29 10:27:52,Reviewer-A,0.0,12.52,Proceed,Manager-X,43.35,16.81,Approved,72.68,True
+INV-01201,DIST-012,High,197081.05,2026-06-29 10:30:51,Reviewer-C,0.0,1.52,Proceed,Manager-Y,52.9,3.83,Rejected,58.25,True
+INV-01202,DIST-007,Normal,528091.98,2026-06-29 10:36:41,Reviewer-B,0.0,1.22,Proceed,Manager-Y,51.21,7.78,Approved,60.21,True
+INV-01203,DIST-008,Normal,408416.74,2026-06-29 10:43:57,Reviewer-C,0.0,3.12,Proceed,Manager-Y,49.83,0.53,Approved,53.48,True
+INV-01204,DIST-005,Normal,96598.75,2026-06-29 10:46:19,Reviewer-B,0.0,5.55,Proceed,Manager-Y,45.57,0.27,Approved,51.38,True
+INV-01205,DIST-002,Normal,184063.91,2026-06-29 10:49:40,Reviewer-A,0.0,14.43,Proceed,Manager-Y,33.61,2.14,Approved,50.18,True
+INV-01206,DIST-002,Normal,830280.36,2026-06-29 10:50:50,Reviewer-C,0.0,4.98,Proceed,Manager-Y,44.03,0.44,Approved,49.45,True
+INV-01207,DIST-001,Normal,833557.67,2026-06-29 11:03:09,Reviewer-B,0.0,19.13,Proceed,Manager-Y,18.0,3.59,Approved,40.72,True
+INV-01208,DIST-003,Normal,598745.0,2026-06-29 11:05:02,Reviewer-C,0.0,3.14,Proceed,Manager-X,32.38,1.01,Approved,36.53,True
+INV-01209,DIST-010,Normal,677678.56,2026-06-29 11:05:44,Reviewer-A,0.0,12.19,Proceed,Manager-X,23.64,1.67,Approved,37.5,True
+INV-01210,DIST-011,Normal,83830.78,2026-06-29 11:06:05,Reviewer-C,2.09,12.95,Proceed,Manager-X,22.11,10.09,Approved,47.24,True
+INV-01211,DIST-009,Normal,441274.17,2026-06-29 11:06:50,Reviewer-A,11.08,6.32,Returned,,,,Returned to Distributor,17.41,True
+INV-01212,DIST-003,Normal,291472.5,2026-06-29 11:08:38,Reviewer-C,12.49,11.63,Proceed,Manager-Y,11.12,21.03,Approved,56.27,True
+INV-01213,DIST-004,Normal,847473.03,2026-06-29 11:10:44,Reviewer-B,11.55,19.02,Proceed,Manager-X,12.02,49.27,Approved,91.86,True
+INV-01214,DIST-005,High,467329.96,2026-06-29 11:10:48,Reviewer-A,13.45,7.3,Proceed,Manager-Y,33.35,0.8,Approved,54.9,True
+INV-01215,DIST-003,Normal,62596.75,2026-06-29 11:22:27,Reviewer-A,9.1,2.62,Proceed,Manager-Y,31.54,11.78,Approved,55.03,True
+INV-01216,DIST-005,Normal,649858.68,2026-06-29 11:40:47,Reviewer-C,0.0,15.47,Returned,,,,Returned to Distributor,15.47,True
+INV-01217,DIST-008,High,38455.78,2026-06-29 11:56:04,Reviewer-A,0.0,2.46,Proceed,Manager-Y,18.96,20.11,Approved,41.53,True
+INV-01218,DIST-010,Normal,809477.99,2026-06-29 11:58:01,Reviewer-B,0.0,6.88,Proceed,Manager-Y,32.69,2.9,Approved,42.47,True
+INV-01219,DIST-010,Normal,830929.73,2026-06-29 12:02:56,Reviewer-C,0.0,9.38,Proceed,Manager-Y,28.17,7.82,Approved,45.37,True
+INV-01220,DIST-007,Normal,138683.9,2026-06-29 12:03:25,Reviewer-A,0.0,0.45,Proceed,Manager-X,38.72,5.89,Approved,45.07,True
+INV-01221,DIST-011,Normal,457172.81,2026-06-29 12:06:06,Reviewer-A,0.0,0.69,Proceed,Manager-Y,41.51,1.09,Rejected,43.29,True
+INV-01222,DIST-007,Normal,173552.99,2026-06-29 12:08:16,Reviewer-B,0.0,2.29,Returned,,,,Returned to Distributor,2.29,True
+INV-01223,DIST-012,Normal,631385.62,2026-06-29 12:11:07,Reviewer-A,0.0,3.64,Proceed,Manager-X,33.72,28.18,Approved,65.54,True
+INV-01224,DIST-010,Normal,31468.15,2026-06-29 12:12:09,Reviewer-B,0.0,2.87,Returned,,,,Returned to Distributor,2.87,True
+INV-01225,DIST-007,Normal,831883.9,2026-06-29 12:14:05,Reviewer-C,0.0,1.43,Proceed,Manager-Y,33.89,13.5,Approved,48.82,True
+INV-01226,DIST-003,Normal,75634.63,2026-06-29 12:15:19,Reviewer-A,0.0,3.12,Proceed,Manager-Y,44.46,11.83,Approved,59.41,True
+INV-01227,DIST-011,Normal,759647.01,2026-06-29 12:18:31,Reviewer-B,0.0,0.33,Returned,,,,Returned to Distributor,0.33,True
+INV-01228,DIST-005,Normal,144030.62,2026-06-29 12:20:54,Reviewer-C,0.0,3.26,Proceed,Manager-Y,50.56,11.09,Approved,64.91,True
+INV-01229,DIST-006,Normal,776145.16,2026-06-29 12:26:01,Reviewer-A,0.0,10.39,Proceed,Manager-X,40.26,21.3,Approved,71.95,True
+INV-01230,DIST-010,Normal,525952.96,2026-06-29 12:31:31,Reviewer-B,0.0,25.77,Returned,,,,Returned to Distributor,25.77,True
+INV-01231,DIST-012,Normal,624491.99,2026-06-29 12:37:20,Reviewer-C,0.0,13.61,Returned,,,,Returned to Distributor,13.61,True
+INV-01232,DIST-006,High,100997.81,2026-06-29 12:40:18,Reviewer-A,0.0,2.5,Proceed,Manager-Y,43.01,0.03,Approved,45.54,True
+INV-01233,DIST-003,Normal,540977.63,2026-06-29 12:47:58,Reviewer-A,0.0,5.18,Proceed,Manager-Y,32.7,13.01,Approved,50.89,True
+INV-01234,DIST-003,Normal,512797.14,2026-06-29 12:53:04,Reviewer-C,0.0,1.41,Proceed,Manager-X,43.48,10.81,Rejected,55.71,True
+INV-01235,DIST-006,High,18681.62,2026-06-29 12:55:03,Reviewer-A,0.0,3.35,Proceed,Manager-Y,40.46,9.7,Approved,53.51,True
+INV-01236,DIST-007,Normal,302210.99,2026-06-29 12:57:40,Reviewer-C,0.0,3.33,Returned,,,,Returned to Distributor,3.33,True
+INV-01237,DIST-003,Normal,392705.91,2026-06-29 12:59:25,Reviewer-B,0.0,4.83,Proceed,Manager-Y,44.32,5.44,Approved,54.58,True
+INV-01238,DIST-011,Normal,374682.15,2026-06-29 13:04:02,Reviewer-A,0.0,5.81,Returned,,,,Returned to Distributor,5.81,True
+INV-01239,DIST-002,Normal,686019.1,2026-06-29 13:12:22,Reviewer-C,0.0,6.29,Proceed,Manager-X,30.12,5.03,Approved,41.44,True
+INV-01240,DIST-009,Normal,89248.25,2026-06-29 13:18:20,Reviewer-B,0.0,5.22,Proceed,Manager-X,30.25,3.25,Approved,38.73,True
+INV-01241,DIST-008,Normal,471091.79,2026-06-29 13:19:25,Reviewer-A,0.0,11.64,Returned,,,,Returned to Distributor,11.64,True
+INV-01242,DIST-008,Normal,353929.86,2026-06-29 13:21:16,Reviewer-C,0.0,7.3,Proceed,Manager-Y,25.43,0.07,Approved,32.8,True
+INV-01243,DIST-005,Normal,231129.72,2026-06-29 13:22:22,Reviewer-B,1.21,2.2,Returned,,,,Returned to Distributor,3.41,True
+INV-01244,DIST-011,High,209113.5,2026-06-29 13:32:39,Reviewer-B,0.0,2.57,Proceed,Manager-Y,18.86,1.34,Approved,22.77,True
+INV-01245,DIST-012,Normal,511954.09,2026-06-29 13:39:55,Reviewer-C,0.0,19.19,Returned,,,,Returned to Distributor,19.19,True
+INV-01246,DIST-007,Normal,167798.04,2026-06-29 13:41:06,Reviewer-A,0.0,10.58,Proceed,Manager-Y,3.73,8.19,Approved,22.5,True
+INV-01247,DIST-012,High,151791.09,2026-06-29 13:45:26,Reviewer-B,0.0,3.5,Proceed,Manager-X,8.13,0.85,Approved,12.48,True
+INV-01248,DIST-011,Normal,492509.02,2026-06-29 13:48:27,Reviewer-B,0.49,8.62,Returned,,,,Returned to Distributor,9.11,True
+INV-01249,DIST-003,Normal,806651.76,2026-06-29 13:56:14,Reviewer-A,0.0,0.59,Proceed,Manager-X,1.1,9.42,Approved,11.1,True
+INV-01250,DIST-012,High,464403.25,2026-06-29 13:56:21,Reviewer-A,0.47,4.07,Proceed,Manager-Y,2.72,10.7,Rejected,17.96,True
+INV-01251,DIST-006,Normal,162639.12,2026-06-29 14:00:40,Reviewer-B,0.0,1.5,Proceed,Manager-X,5.16,17.44,Approved,24.1,True
+INV-01252,DIST-007,Normal,655980.89,2026-06-29 14:07:43,Reviewer-C,0.0,1.93,Returned,,,,Returned to Distributor,1.93,True
+INV-01253,DIST-011,High,837154.17,2026-06-29 14:11:57,Reviewer-A,0.0,0.56,Returned,,,,Returned to Distributor,0.56,True
+INV-01254,DIST-003,High,243681.27,2026-06-29 14:12:31,Reviewer-B,0.0,0.47,Proceed,Manager-Y,1.33,3.62,Approved,5.42,True
+INV-01255,DIST-008,Normal,677148.03,2026-06-29 14:14:38,Reviewer-C,0.0,4.0,Proceed,Manager-Y,0.0,2.24,Approved,6.24,True
+INV-01256,DIST-011,Normal,772515.53,2026-06-29 14:24:05,Reviewer-A,0.0,1.19,Proceed,Manager-Y,0.0,1.87,Approved,3.06,True
+INV-01257,DIST-001,Normal,104040.03,2026-06-29 14:28:05,Reviewer-B,0.0,2.56,Returned,,,,Returned to Distributor,2.56,True
+INV-01258,DIST-001,Normal,138838.09,2026-06-29 14:32:00,Reviewer-C,0.0,15.67,Proceed,Manager-X,0.0,0.29,Approved,15.95,True
+INV-01259,DIST-003,Normal,187779.02,2026-06-29 14:35:05,Reviewer-A,0.0,13.73,Proceed,Manager-Y,0.0,1.42,Approved,15.15,True
+INV-01260,DIST-003,Normal,231114.0,2026-06-29 14:40:07,Reviewer-B,0.0,18.37,Proceed,Manager-X,0.0,7.62,Approved,25.99,True
+INV-01261,DIST-008,High,373472.38,2026-06-29 14:45:59,Reviewer-C,1.7,12.27,Proceed,Manager-Y,0.0,1.78,Approved,15.74,True
+INV-01262,DIST-007,Normal,91945.94,2026-06-29 14:51:24,Reviewer-A,0.0,5.31,Proceed,Manager-Y,5.01,2.19,Approved,12.52,True
+INV-01263,DIST-008,Normal,363058.04,2026-06-29 14:53:50,Reviewer-A,2.88,10.15,Proceed,Manager-Y,0.0,8.88,Approved,21.91,True
+INV-01264,DIST-006,Normal,763721.0,2026-06-29 14:57:25,Reviewer-B,1.08,3.58,Returned,,,,Returned to Distributor,4.66,True
+INV-01265,DIST-005,Normal,500904.51,2026-06-29 15:11:01,Reviewer-C,0.0,10.52,Proceed,Manager-X,0.0,31.89,Approved,42.4,True
+INV-01266,DIST-003,Normal,688639.19,2026-06-29 15:11:09,Reviewer-B,0.0,1.23,Proceed,Manager-Y,3.36,2.3,Approved,6.9,True
+INV-01267,DIST-006,Normal,108346.55,2026-06-29 15:11:49,Reviewer-A,0.0,0.07,Proceed,Manager-Y,6.16,5.95,Approved,12.18,True
+INV-01268,DIST-009,Normal,60968.7,2026-06-29 15:21:38,Reviewer-A,0.0,1.43,Proceed,Manager-Y,0.93,7.82,Approved,10.18,True
+INV-01269,DIST-011,High,68226.45,2026-06-29 15:34:10,Reviewer-B,0.0,2.63,Proceed,Manager-Y,0.0,3.09,Approved,5.72,True
+INV-01270,DIST-008,High,426360.07,2026-06-29 15:35:06,Reviewer-C,0.0,2.62,Proceed,Manager-Y,2.15,1.52,Approved,6.29,True
+INV-01271,DIST-010,Normal,22972.05,2026-06-29 15:37:10,Reviewer-A,0.0,9.18,Proceed,Manager-Y,0.0,0.04,Approved,9.22,True
+INV-01272,DIST-007,Normal,36271.93,2026-06-29 15:37:47,Reviewer-B,0.0,4.5,Proceed,Manager-Y,4.12,0.16,Approved,8.77,True
+INV-01273,DIST-007,Normal,616149.35,2026-06-29 15:45:22,Reviewer-C,0.0,8.41,Proceed,Manager-Y,0.0,7.72,Approved,16.13,True
+INV-01274,DIST-007,High,257185.02,2026-06-29 15:49:26,Reviewer-B,0.0,3.26,Proceed,Manager-X,0.73,19.49,Approved,23.48,True
+INV-01275,DIST-002,Normal,29748.51,2026-06-29 16:01:19,Reviewer-A,0.0,0.06,Proceed,Manager-Y,0.11,3.7,Approved,3.88,True
+INV-01276,DIST-003,Normal,79374.13,2026-06-29 16:03:47,Reviewer-B,0.0,10.04,Proceed,Manager-Y,0.0,7.33,Approved,17.36,True
+INV-01277,DIST-001,Normal,224436.1,2026-06-29 16:08:46,Reviewer-C,0.0,0.7,Returned,,,,Returned to Distributor,0.7,True
+INV-01278,DIST-006,Normal,586293.75,2026-06-29 16:09:06,Reviewer-A,0.0,2.86,Proceed,Manager-X,0.94,24.59,Approved,28.39,True
+INV-01279,DIST-006,Normal,733301.19,2026-06-29 16:09:39,Reviewer-C,0.0,13.12,Returned,,,,Returned to Distributor,13.12,True
+INV-01280,DIST-008,Normal,569658.79,2026-06-29 16:11:56,Reviewer-A,0.03,1.65,Proceed,Manager-Y,7.52,6.4,Approved,15.6,True
+INV-01281,DIST-008,Normal,195826.79,2026-06-29 16:18:17,Reviewer-A,0.0,2.11,Proceed,Manager-Y,7.14,7.77,Approved,17.02,True
+INV-01282,DIST-012,Normal,728204.64,2026-06-29 16:22:54,Reviewer-B,0.0,0.47,Proceed,Manager-Y,11.93,2.27,Approved,14.67,True
+INV-01283,DIST-007,Normal,163790.23,2026-06-29 16:25:36,Reviewer-A,0.0,1.4,Proceed,Manager-X,10.48,7.13,Approved,19.01,True
+INV-01284,DIST-005,Normal,603692.95,2026-06-29 16:31:44,Reviewer-C,0.0,11.3,Proceed,Manager-Y,0.0,1.32,Approved,12.62,True
+INV-01285,DIST-008,Normal,738340.68,2026-06-29 16:33:49,Reviewer-B,0.0,9.09,Proceed,Manager-Y,1.45,3.09,Approved,13.62,True
+INV-01286,DIST-010,Normal,552883.6,2026-06-29 16:35:24,Reviewer-A,0.0,12.53,Proceed,Manager-X,0.0,2.61,Approved,15.15,True
+INV-01287,DIST-001,Normal,407423.16,2026-06-29 16:36:17,Reviewer-B,6.63,2.6,Proceed,Manager-Y,1.94,7.59,Approved,18.76,True
+INV-01288,DIST-007,Normal,429350.88,2026-06-29 16:37:18,Reviewer-C,5.73,0.33,Proceed,Manager-X,7.19,0.98,Approved,14.22,True
+INV-01289,DIST-007,Normal,168872.22,2026-06-29 16:42:57,Reviewer-C,0.41,1.17,Proceed,Manager-X,7.0,8.88,Approved,17.46,True
+INV-01290,DIST-001,High,551161.4,2026-06-29 16:43:26,Reviewer-C,1.08,1.19,Proceed,Manager-Y,9.32,0.29,Approved,11.89,True
+INV-01291,DIST-002,High,237763.26,2026-06-29 16:43:44,Reviewer-B,1.78,5.77,Proceed,Manager-Y,4.05,4.03,Approved,15.63,True
+INV-01292,DIST-012,Normal,231685.57,2026-06-29 16:51:11,Reviewer-C,0.0,9.24,Proceed,Manager-Y,0.0,3.23,Approved,12.47,True
+INV-01293,DIST-002,High,161391.61,2026-06-29 16:56:51,Reviewer-A,0.0,4.67,Proceed,Manager-X,0.0,15.46,Approved,20.13,True
+INV-01294,DIST-011,Normal,63689.17,2026-06-29 16:57:39,Reviewer-B,0.0,13.81,Proceed,Manager-Y,0.0,0.12,Approved,13.93,True
+INV-01295,DIST-003,High,828343.37,2026-06-29 16:59:24,Reviewer-C,1.03,0.9,Proceed,Manager-Y,10.26,0.08,Approved,12.27,True
+INV-01296,DIST-004,Normal,404320.17,2026-06-30 08:00:00,Reviewer-A,0.0,0.11,Proceed,Manager-X,0.0,3.26,Approved,3.37,True
+INV-01297,DIST-003,Normal,660091.79,2026-06-30 08:03:00,Reviewer-B,0.0,9.77,Proceed,Manager-Y,0.0,6.41,Approved,16.18,True
+INV-01298,DIST-011,Normal,416086.85,2026-06-30 08:06:23,Reviewer-C,0.0,0.08,Proceed,Manager-X,0.0,11.76,Approved,11.85,True
+INV-01299,DIST-010,Normal,414279.84,2026-06-30 08:12:46,Reviewer-A,0.0,4.4,Proceed,Manager-X,1.07,1.52,Approved,6.98,True
+INV-01300,DIST-003,Normal,306829.27,2026-06-30 08:13:50,Reviewer-C,0.0,5.17,Proceed,Manager-Y,0.18,5.35,Approved,10.7,True
+INV-01301,DIST-007,High,544730.02,2026-06-30 08:14:14,Reviewer-B,0.0,10.06,Proceed,Manager-X,0.0,18.53,Approved,28.6,True
+INV-01302,DIST-009,High,152834.65,2026-06-30 08:27:51,Reviewer-A,0.0,2.06,Proceed,Manager-Y,0.0,7.18,Rejected,9.24,True
+INV-01303,DIST-004,Normal,39729.48,2026-06-30 08:29:14,Reviewer-C,0.0,2.52,Proceed,Manager-Y,5.33,5.4,Approved,13.25,True
+INV-01304,DIST-006,High,248705.21,2026-06-30 08:44:00,Reviewer-B,0.0,3.32,Proceed,Manager-Y,0.0,5.07,Approved,8.39,True
+INV-01305,DIST-010,Normal,476629.02,2026-06-30 08:58:35,Reviewer-A,0.0,4.0,Proceed,Manager-X,0.0,3.32,Approved,7.32,True
+INV-01306,DIST-010,Normal,109303.22,2026-06-30 08:59:38,Reviewer-C,0.0,0.03,Proceed,Manager-Y,0.0,17.07,Approved,17.1,True
+INV-01307,DIST-005,Normal,668547.49,2026-06-30 09:00:16,Reviewer-B,0.0,19.1,Proceed,Manager-X,0.0,29.19,Approved,48.28,True
+INV-01308,DIST-012,Normal,171234.66,2026-06-30 09:00:55,Reviewer-C,0.0,0.5,Proceed,Manager-Y,15.3,6.09,Approved,21.89,True
+INV-01309,DIST-011,Normal,331373.51,2026-06-30 09:08:05,Reviewer-C,0.0,14.07,Returned,,,,Returned to Distributor,14.07,True
+INV-01310,DIST-010,Normal,267571.75,2026-06-30 09:18:55,Reviewer-A,0.0,6.82,Proceed,Manager-Y,0.0,8.2,Approved,15.02,True
+INV-01311,DIST-003,Normal,356783.9,2026-06-30 09:19:52,Reviewer-B,0.0,2.18,Proceed,Manager-Y,11.88,24.88,Approved,38.94,True
+INV-01312,DIST-007,Normal,86155.74,2026-06-30 09:20:44,Reviewer-B,1.31,7.11,Proceed,Manager-X,19.39,10.98,Approved,38.79,True
+INV-01313,DIST-008,Normal,360327.29,2026-06-30 09:22:37,Reviewer-C,0.0,0.17,Proceed,Manager-Y,36.03,30.0,Approved,66.2,True
+INV-01314,DIST-010,Normal,771287.22,2026-06-30 09:28:39,Reviewer-C,0.0,5.21,Proceed,Manager-X,25.66,9.21,Approved,40.09,True
+INV-01315,DIST-001,Normal,643258.22,2026-06-30 09:37:40,Reviewer-A,0.0,3.09,Proceed,Manager-X,27.98,15.65,Approved,46.73,True
+INV-01316,DIST-001,Normal,76536.93,2026-06-30 09:40:18,Reviewer-B,0.0,25.69,Proceed,Manager-X,18.4,8.57,Approved,52.66,True
+INV-01317,DIST-012,Normal,284954.92,2026-06-30 09:43:53,Reviewer-C,0.0,8.09,Proceed,Manager-Y,36.84,12.77,Approved,57.71,True
+INV-01318,DIST-003,High,479931.62,2026-06-30 09:44:52,Reviewer-A,0.0,0.7,Returned,,,,Returned to Distributor,0.7,True
+INV-01319,DIST-003,Normal,259253.92,2026-06-30 09:49:14,Reviewer-A,0.0,27.15,Proceed,Manager-X,16.58,6.3,Approved,50.03,True
+INV-01320,DIST-001,High,134303.66,2026-06-30 09:49:45,Reviewer-C,2.21,3.52,Proceed,Manager-X,43.77,0.88,Approved,50.39,True
+INV-01321,DIST-007,Normal,52026.92,2026-06-30 09:52:47,Reviewer-C,2.71,3.11,Returned,,,,Returned to Distributor,5.82,True
+INV-01322,DIST-009,Normal,224929.44,2026-06-30 10:00:08,Reviewer-C,0.0,3.47,Proceed,Manager-X,36.55,1.25,Approved,41.27,True
+INV-01323,DIST-003,Normal,696674.83,2026-06-30 10:00:14,Reviewer-C,3.38,1.12,Proceed,Manager-X,36.67,7.52,Approved,48.69,True
+INV-01324,DIST-011,Normal,89516.63,2026-06-30 10:01:42,Reviewer-C,3.03,2.75,Proceed,Manager-Y,34.11,4.63,Approved,44.52,True
+INV-01325,DIST-007,Normal,130200.72,2026-06-30 10:04:22,Reviewer-B,1.62,0.77,Proceed,Manager-Y,39.46,8.25,Approved,50.1,True
+INV-01326,DIST-011,Normal,528795.61,2026-06-30 10:08:52,Reviewer-B,0.0,14.25,Returned,,,,Returned to Distributor,14.25,True
+INV-01327,DIST-012,Normal,392305.9,2026-06-30 10:11:35,Reviewer-C,0.0,1.03,Proceed,Manager-X,36.3,18.75,Approved,56.09,True
+INV-01328,DIST-009,Normal,335077.56,2026-06-30 10:21:33,Reviewer-C,0.0,6.4,Proceed,Manager-Y,26.51,12.07,Approved,44.98,True
+INV-01329,DIST-003,Normal,240197.42,2026-06-30 10:26:56,Reviewer-A,0.0,2.17,Proceed,Manager-Y,37.43,23.55,Approved,63.15,True
+INV-01330,DIST-008,Normal,516936.32,2026-06-30 10:28:58,Reviewer-B,0.0,7.4,Proceed,Manager-X,31.3,10.22,Approved,48.92,True
+INV-01331,DIST-010,Normal,812139.43,2026-06-30 10:34:05,Reviewer-C,0.0,5.77,Proceed,Manager-X,38.02,0.44,Approved,44.23,True
+INV-01332,DIST-002,Normal,567145.52,2026-06-30 10:34:50,Reviewer-A,0.0,6.82,Proceed,Manager-X,36.66,2.5,Approved,45.99,True
+INV-01333,DIST-004,High,94089.88,2026-06-30 10:45:31,Reviewer-B,0.0,6.25,Proceed,Manager-X,29.05,29.26,Approved,64.57,True
+INV-01334,DIST-005,Normal,101730.35,2026-06-30 10:45:47,Reviewer-C,0.0,0.45,Proceed,Manager-Y,43.84,8.86,Approved,53.16,True
+INV-01335,DIST-006,Normal,95973.55,2026-06-30 10:56:48,Reviewer-A,0.0,0.86,Proceed,Manager-Y,41.28,7.72,Approved,49.86,True
+INV-01336,DIST-011,Normal,246745.49,2026-06-30 10:59:42,Reviewer-C,0.0,1.06,Proceed,Manager-Y,45.91,15.71,Approved,62.68,True
+INV-01337,DIST-011,Normal,816058.33,2026-06-30 11:03:26,Reviewer-B,0.0,0.2,Proceed,Manager-X,46.44,0.05,Approved,46.69,True
+INV-01338,DIST-002,Normal,292901.06,2026-06-30 11:07:02,Reviewer-A,0.0,18.98,Proceed,Manager-X,24.11,7.14,Approved,50.23,True
+INV-01339,DIST-008,Normal,428218.49,2026-06-30 11:08:02,Reviewer-C,0.0,13.8,Proceed,Manager-X,35.43,15.37,Approved,64.59,True
+INV-01340,DIST-002,Normal,485933.8,2026-06-30 11:12:15,Reviewer-B,0.0,4.37,Proceed,Manager-Y,45.76,6.56,Approved,56.69,True
+INV-01341,DIST-001,High,194297.93,2026-06-30 11:15:35,Reviewer-B,1.04,12.26,Proceed,Manager-Y,40.06,9.81,Approved,63.17,True
+INV-01342,DIST-005,Normal,68186.67,2026-06-30 11:24:22,Reviewer-C,0.0,11.51,Returned,,,,Returned to Distributor,11.51,True
+INV-01343,DIST-007,Normal,527754.95,2026-06-30 11:27:21,Reviewer-A,0.0,13.34,Proceed,Manager-X,31.95,26.25,Rejected,71.54,True
+INV-01344,DIST-001,Normal,290648.23,2026-06-30 11:31:53,Reviewer-B,0.0,2.44,Proceed,Manager-Y,44.43,1.42,Approved,48.29,True
+INV-01345,DIST-011,Normal,775910.01,2026-06-30 11:37:33,Reviewer-B,0.0,4.08,Proceed,Manager-Y,38.54,7.88,Approved,50.5,True
+INV-01346,DIST-001,Normal,297239.51,2026-06-30 11:45:17,Reviewer-C,0.0,3.23,Proceed,Manager-Y,39.55,25.18,Approved,67.96,True
+INV-01347,DIST-003,Normal,233579.6,2026-06-30 11:48:04,Reviewer-A,0.0,0.22,Proceed,Manager-X,50.6,9.98,Approved,60.8,True
+INV-01348,DIST-004,Normal,23119.56,2026-06-30 11:49:37,Reviewer-B,0.0,8.91,Proceed,Manager-X,50.33,7.26,Approved,66.51,True
+INV-01349,DIST-012,Normal,20290.16,2026-06-30 11:54:32,Reviewer-A,0.0,2.94,Proceed,Manager-Y,55.77,1.27,Approved,59.98,True
+INV-01350,DIST-002,High,375070.16,2026-06-30 11:57:57,Reviewer-C,0.0,19.43,Proceed,Manager-Y,37.13,1.74,Approved,58.3,True
+INV-01351,DIST-004,Normal,82732.23,2026-06-30 11:58:12,Reviewer-A,0.0,3.2,Proceed,Manager-X,54.73,15.66,Approved,73.59,True
+INV-01352,DIST-001,Normal,742901.16,2026-06-30 11:58:24,Reviewer-B,0.13,0.35,Proceed,Manager-Y,57.36,5.48,Approved,63.33,True
+INV-01353,DIST-010,Normal,558651.56,2026-06-30 12:00:01,Reviewer-B,0.0,2.08,Proceed,Manager-Y,59.63,6.19,Approved,67.9,True
+INV-01354,DIST-005,Normal,797922.77,2026-06-30 12:00:22,Reviewer-A,1.04,7.33,Proceed,Manager-Y,59.19,21.65,Approved,89.21,True
+INV-01355,DIST-005,Normal,800505.8,2026-06-30 12:02:52,Reviewer-B,0.0,2.08,Proceed,Manager-X,66.84,7.11,Approved,76.02,True
+INV-01356,DIST-009,Normal,93199.56,2026-06-30 12:08:00,Reviewer-B,0.0,3.17,Returned,,,,Returned to Distributor,3.17,True
+INV-01357,DIST-002,Normal,177003.92,2026-06-30 12:10:51,Reviewer-A,0.0,22.36,Proceed,Manager-X,45.68,12.87,Approved,80.91,True
+INV-01358,DIST-003,Normal,35308.19,2026-06-30 12:12:51,Reviewer-B,0.0,3.48,Proceed,Manager-Y,73.24,29.06,Approved,105.78,True
+INV-01359,DIST-005,Normal,239882.39,2026-06-30 12:20:37,Reviewer-B,0.0,10.53,Proceed,Manager-X,60.62,3.11,Approved,74.27,True
+INV-01360,DIST-007,Normal,330040.45,2026-06-30 12:23:32,Reviewer-C,0.0,1.38,Proceed,Manager-X,69.95,5.36,Approved,76.69,True
+INV-01361,DIST-009,High,649731.88,2026-06-30 12:25:06,Reviewer-C,0.0,11.56,Proceed,Manager-X,63.57,3.31,Approved,78.44,True
+INV-01362,DIST-010,Normal,187979.81,2026-06-30 12:26:24,Reviewer-B,4.74,7.76,Proceed,Manager-X,64.64,19.08,Approved,96.21,True
+INV-01363,DIST-001,Normal,687250.21,2026-06-30 12:37:43,Reviewer-A,0.0,18.28,Returned,,,,Returned to Distributor,18.28,True
+INV-01364,DIST-009,Normal,396659.64,2026-06-30 12:39:10,Reviewer-C,0.0,5.04,Proceed,Manager-Y,74.42,1.69,Approved,81.15,True
+INV-01365,DIST-004,Normal,116432.44,2026-06-30 12:45:02,Reviewer-B,0.0,9.64,Returned,,,,Returned to Distributor,9.64,True
+INV-01366,DIST-004,Normal,656781.63,2026-06-30 12:45:25,Reviewer-C,0.0,5.08,Proceed,Manager-Y,69.82,3.05,Approved,77.94,True
+INV-01367,DIST-011,Normal,689669.27,2026-06-30 12:46:39,Reviewer-C,3.84,0.8,Proceed,Manager-X,71.32,3.68,Approved,79.64,True
+INV-01368,DIST-008,Normal,19590.35,2026-06-30 12:47:30,Reviewer-C,3.8,0.23,Proceed,Manager-Y,71.84,9.65,Approved,85.51,True
+INV-01369,DIST-010,Normal,798314.95,2026-06-30 12:49:45,Reviewer-C,1.77,5.65,Proceed,Manager-X,69.12,0.63,Approved,77.17,True
+INV-01370,DIST-005,Normal,224311.98,2026-06-30 12:55:58,Reviewer-B,0.0,1.55,Proceed,Manager-X,69.4,19.47,Approved,90.42,True
+INV-01371,DIST-011,Normal,37534.0,2026-06-30 12:57:07,Reviewer-A,0.0,11.82,Proceed,Manager-Y,64.07,0.41,Approved,76.3,True
+INV-01372,DIST-012,High,843215.61,2026-06-30 12:57:23,Reviewer-C,0.0,0.08,Proceed,Manager-Y,75.96,15.29,Approved,91.32,True
+INV-01373,DIST-004,Normal,300521.55,2026-06-30 12:57:34,Reviewer-C,0.0,3.52,Proceed,Manager-X,85.3,2.57,Approved,91.39,True
+INV-01374,DIST-011,Normal,356494.37,2026-06-30 12:59:34,Reviewer-B,0.0,12.52,Proceed,Manager-Y,76.62,3.76,Approved,92.89,True
+INV-01375,DIST-007,Normal,763296.43,2026-06-30 13:01:19,Reviewer-C,0.0,17.13,Proceed,Manager-X,70.52,0.3,Approved,87.96,True
+INV-01376,DIST-003,Normal,775532.4,2026-06-30 13:02:47,Reviewer-A,6.15,5.63,Proceed,Manager-X,74.7,6.79,Approved,93.28,True
+INV-01377,DIST-010,High,607350.0,2026-06-30 13:05:50,Reviewer-B,6.25,2.29,Proceed,Manager-Y,78.09,8.64,Approved,95.27,True
+INV-01378,DIST-011,Normal,71286.0,2026-06-30 13:11:59,Reviewer-B,2.38,16.45,Proceed,Manager-X,65.25,6.65,Approved,90.72,True
+INV-01379,DIST-007,Normal,460427.44,2026-06-30 13:15:24,Reviewer-A,0.0,12.65,Proceed,Manager-Y,73.06,8.87,Approved,94.58,True
+INV-01380,DIST-006,Normal,232459.4,2026-06-30 13:18:33,Reviewer-C,0.0,2.08,Proceed,Manager-X,82.09,2.65,Approved,86.81,True
+INV-01381,DIST-008,High,271019.84,2026-06-30 13:20:28,Reviewer-C,0.16,5.67,Proceed,Manager-X,79.06,25.52,Approved,110.41,True
+INV-01382,DIST-009,High,432268.71,2026-06-30 13:20:49,Reviewer-C,5.47,5.09,Proceed,Manager-Y,78.59,4.81,Approved,93.96,True
+INV-01383,DIST-003,Normal,787230.82,2026-06-30 13:24:26,Reviewer-A,3.61,14.4,Proceed,Manager-Y,72.34,10.42,Approved,100.76,True
+INV-01384,DIST-006,Normal,270198.47,2026-06-30 13:31:15,Reviewer-B,0.0,3.28,Returned,,,,Returned to Distributor,3.28,True
+INV-01385,DIST-011,Normal,749817.85,2026-06-30 13:34:55,Reviewer-C,0.0,1.19,Proceed,Manager-Y,89.09,1.73,Approved,92.01,True
+INV-01386,DIST-012,Normal,790955.76,2026-06-30 13:41:08,Reviewer-B,0.0,0.81,Proceed,Manager-Y,84.98,5.36,Approved,91.16,True
+INV-01387,DIST-003,Normal,440088.04,2026-06-30 14:00:51,Reviewer-C,0.0,2.95,Proceed,Manager-X,67.09,1.3,Approved,71.33,True
+INV-01388,DIST-005,High,105580.05,2026-06-30 14:02:02,Reviewer-B,0.0,10.97,Proceed,Manager-X,59.17,7.74,Rejected,77.89,True
+INV-01389,DIST-012,High,783011.53,2026-06-30 14:02:14,Reviewer-A,0.0,11.59,Proceed,Manager-Y,58.47,10.9,Approved,80.97,True
+INV-01390,DIST-012,Normal,118741.68,2026-06-30 14:08:18,Reviewer-C,0.0,8.71,Returned,,,,Returned to Distributor,8.71,True
+INV-01391,DIST-002,Normal,133656.66,2026-06-30 14:20:08,Reviewer-B,0.0,5.39,Proceed,Manager-X,54.4,5.74,Approved,65.53,True
+INV-01392,DIST-012,High,501928.34,2026-06-30 14:20:58,Reviewer-A,0.0,0.49,Proceed,Manager-Y,61.75,3.37,Approved,65.61,True
+INV-01393,DIST-010,High,434452.57,2026-06-30 14:30:43,Reviewer-C,0.0,1.61,Proceed,Manager-X,53.33,11.43,Rejected,66.38,True
+INV-01394,DIST-012,Normal,750614.62,2026-06-30 14:30:54,Reviewer-A,0.0,3.38,Proceed,Manager-Y,52.29,20.11,Approved,75.78,True
+INV-01395,DIST-003,Normal,105175.66,2026-06-30 14:32:44,Reviewer-B,0.0,3.47,Returned,,,,Returned to Distributor,3.47,True
+INV-01396,DIST-005,Normal,840540.71,2026-06-30 14:34:11,Reviewer-C,0.0,15.5,Proceed,Manager-X,47.4,1.44,Approved,64.35,True
+INV-01397,DIST-003,High,28110.86,2026-06-30 14:42:00,Reviewer-A,0.0,15.43,Proceed,Manager-X,41.1,12.96,Approved,69.49,True
+INV-01398,DIST-001,Normal,317261.77,2026-06-30 14:49:40,Reviewer-B,0.0,17.73,Proceed,Manager-Y,39.29,5.59,Approved,62.6,True
+INV-01399,DIST-002,High,610232.02,2026-06-30 14:52:15,Reviewer-C,0.0,0.61,Returned,,,,Returned to Distributor,0.61,True
+INV-01400,DIST-002,High,735504.82,2026-06-30 14:55:10,Reviewer-C,0.0,6.31,Proceed,Manager-X,50.01,3.52,Approved,59.85,True
+INV-01401,DIST-012,Normal,67826.03,2026-06-30 15:01:56,Reviewer-A,0.0,2.45,Proceed,Manager-Y,47.89,12.63,Approved,62.97,True
+INV-01402,DIST-012,High,271014.39,2026-06-30 15:02:15,Reviewer-C,0.0,2.73,Returned,,,,Returned to Distributor,2.73,True
+INV-01403,DIST-006,Normal,165886.88,2026-06-30 15:09:02,Reviewer-A,0.0,10.91,Proceed,Manager-X,35.08,28.31,Approved,74.29,True
+INV-01404,DIST-010,High,322896.65,2026-06-30 15:10:14,Reviewer-C,0.0,5.37,Proceed,Manager-Y,49.29,1.33,Approved,55.98,True
+INV-01405,DIST-005,Normal,116364.18,2026-06-30 15:15:55,Reviewer-B,0.0,0.56,Proceed,Manager-Y,49.76,12.21,Approved,62.52,True
+INV-01406,DIST-008,Normal,476287.9,2026-06-30 15:18:21,Reviewer-C,0.0,1.18,Proceed,Manager-Y,58.9,2.9,Approved,62.98,True
+INV-01407,DIST-011,Normal,299654.69,2026-06-30 15:22:07,Reviewer-B,0.0,18.52,Proceed,Manager-Y,40.7,17.45,Approved,76.67,True
+INV-01408,DIST-008,Normal,678250.52,2026-06-30 15:26:50,Reviewer-C,0.0,2.65,Proceed,Manager-X,53.84,0.96,Approved,57.45,True
+INV-01409,DIST-005,Normal,359556.95,2026-06-30 15:35:57,Reviewer-A,0.0,1.71,Proceed,Manager-X,46.63,1.84,Rejected,50.17,True
+INV-01410,DIST-006,Normal,593938.45,2026-06-30 15:40:35,Reviewer-C,0.0,8.91,Proceed,Manager-X,36.63,15.52,Approved,61.06,True
+INV-01411,DIST-004,Normal,29473.35,2026-06-30 15:42:52,Reviewer-A,0.0,1.45,Proceed,Manager-Y,54.47,5.0,Approved,60.92,True
+INV-01412,DIST-011,Normal,273387.51,2026-06-30 15:44:32,Reviewer-B,0.0,3.5,Proceed,Manager-X,53.61,23.13,Approved,80.24,True
+INV-01413,DIST-006,Normal,542644.93,2026-06-30 15:50:07,Reviewer-A,0.0,3.56,Proceed,Manager-Y,50.1,19.8,Approved,73.46,True
+INV-01414,DIST-002,Normal,805956.74,2026-06-30 15:56:36,Reviewer-B,0.0,2.4,Proceed,Manager-Y,64.58,0.19,Approved,67.18,True
+INV-01415,DIST-002,Normal,664466.33,2026-06-30 16:03:33,Reviewer-C,0.0,2.61,Proceed,Manager-Y,57.62,0.62,Approved,60.85,True
+INV-01416,DIST-009,Normal,172681.64,2026-06-30 16:04:34,Reviewer-A,0.0,4.6,Proceed,Manager-Y,55.23,2.47,Approved,62.31,True
+INV-01417,DIST-006,Normal,354319.01,2026-06-30 16:14:55,Reviewer-B,0.0,1.72,Proceed,Manager-X,48.15,17.74,Approved,67.6,True
+INV-01418,DIST-009,Normal,341257.11,2026-06-30 16:18:07,Reviewer-C,0.0,1.02,Proceed,Manager-Y,47.73,2.48,Approved,51.24,True
+INV-01419,DIST-005,Normal,638678.51,2026-06-30 16:19:20,Reviewer-A,0.0,2.85,Proceed,Manager-Y,47.17,16.2,Approved,66.22,True
+INV-01420,DIST-002,Normal,67437.26,2026-06-30 16:27:49,Reviewer-B,0.0,8.62,Proceed,Manager-X,46.07,0.14,Approved,54.84,True
+INV-01421,DIST-003,Normal,85745.39,2026-06-30 16:31:48,Reviewer-C,0.0,2.98,Proceed,Manager-X,47.88,18.63,Approved,69.49,True
+INV-01422,DIST-012,Normal,24800.0,2026-06-30 16:34:10,Reviewer-A,0.0,1.36,Proceed,Manager-Y,50.02,10.14,Approved,61.52,True
+INV-01423,DIST-002,Normal,192803.75,2026-06-30 16:35:39,Reviewer-C,0.0,1.96,Proceed,Manager-Y,58.09,11.53,Approved,71.58,True
+INV-01424,DIST-008,High,619786.05,2026-06-30 16:37:43,Reviewer-A,0.0,6.9,Proceed,Manager-X,56.67,4.86,Approved,68.43,True
+INV-01425,DIST-004,Normal,382787.07,2026-06-30 16:37:49,Reviewer-B,0.0,0.69,Proceed,Manager-X,67.63,1.47,Approved,69.8,True
+INV-01426,DIST-009,High,148021.08,2026-06-30 16:38:12,Reviewer-C,0.0,3.23,Proceed,Manager-Y,65.8,1.23,Approved,70.26,True
+INV-01427,DIST-012,Normal,714504.26,2026-06-30 16:40:57,Reviewer-B,0.0,0.36,Proceed,Manager-X,66.31,5.04,Approved,71.72,True
+INV-01428,DIST-001,Normal,276619.32,2026-06-30 16:48:39,Reviewer-B,0.0,3.13,Proceed,Manager-Y,56.67,11.14,Approved,70.94,True
+INV-01429,DIST-009,High,427344.07,2026-06-30 16:55:26,Reviewer-C,0.0,1.29,Proceed,Manager-X,55.94,5.33,Approved,62.56,True
